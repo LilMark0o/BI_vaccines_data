@@ -1,0 +1,3405 @@
+departamentos,programatica1_ano,key_fecha,vaccine_header,doses_aplicadas,pct_cobertura
+AMAZONAS,1845,1,bcg_dosis_unica,1503,0.81
+AMAZONAS,1845,1,hb_d_unica,1368,0.74
+AMAZONAS,1845,1,antipolio_1ras_dosis,1560,0.85
+AMAZONAS,1845,1,vop_3_dosis,1445,0.78
+AMAZONAS,1845,1,penta_1ras_dosis,1557,0.84
+AMAZONAS,1845,1,penta_2das_dosis,1513,0.82
+AMAZONAS,1845,1,penta_3ras_dosis,1444,0.78
+AMAZONAS,1845,1,rotavirus_1ra_dosis,1424,0.77
+AMAZONAS,1845,1,rotavirus_2da_dosis,1448,0.78
+AMAZONAS,1845,1,flu_1ra_dosis,1419,0.77
+AMAZONAS,1845,1,flu_2da_dosis,1070,0.58
+AMAZONAS,1845,1,neumo_1ra_dosis,1545,0.84
+AMAZONAS,1845,1,neumo_2da_dosis,1503,0.81
+AMAZONAS,1845,1,srp_u_dosis,1575,0.85
+AMAZONAS,1845,1,varicela_u_dosis,1563,0.85
+AMAZONAS,1845,1,fa_u_dosis,1869,1.01
+AMAZONAS,1845,1,neumo_m12_ref,1547,0.84
+AMAZONAS,1845,1,vop_1er_ref,1517,0.82
+AMAZONAS,1845,1,dpt_1er_ref,1517,0.82
+AMAZONAS,1845,1,vop_2do_ref,1478,0.8
+AMAZONAS,1845,1,dpt_5an_2do_ref,1478,0.8
+AMAZONAS,1845,1,srp_5anosref,1468,0.8
+AMAZONAS,1845,1,tdap_unica_dosis_en_cada_embarazo,1077,0.58
+ANTIOQUIA,79793,1,bcg_dosis_unica,75215,0.94
+ANTIOQUIA,79793,1,hb_d_unica,74126,0.93
+ANTIOQUIA,79793,1,antipolio_1ras_dosis,75821,0.95
+ANTIOQUIA,79793,1,vop_3_dosis,73969,0.93
+ANTIOQUIA,79793,1,penta_1ras_dosis,75935,0.95
+ANTIOQUIA,79793,1,penta_2das_dosis,75375,0.94
+ANTIOQUIA,79793,1,penta_3ras_dosis,74329,0.93
+ANTIOQUIA,79793,1,rotavirus_1ra_dosis,74104,0.93
+ANTIOQUIA,79793,1,rotavirus_2da_dosis,73897,0.93
+ANTIOQUIA,79793,1,flu_1ra_dosis,56768,0.71
+ANTIOQUIA,79793,1,flu_2da_dosis,42336,0.53
+ANTIOQUIA,79793,1,neumo_1ra_dosis,73013,0.92
+ANTIOQUIA,79793,1,neumo_2da_dosis,68259,0.86
+ANTIOQUIA,79793,1,srp_u_dosis,76176,0.95
+ANTIOQUIA,79793,1,varicela_u_dosis,75795,0.95
+ANTIOQUIA,79793,1,fa_u_dosis,61520,0.77
+ANTIOQUIA,79793,1,neumo_m12_ref,69229,0.87
+ANTIOQUIA,79793,1,vop_1er_ref,70175,0.88
+ANTIOQUIA,79793,1,dpt_1er_ref,70546,0.88
+ANTIOQUIA,79793,1,vop_2do_ref,73860,0.93
+ANTIOQUIA,79793,1,dpt_5an_2do_ref,73294,0.92
+ANTIOQUIA,79793,1,srp_5anosref,73823,0.93
+ANTIOQUIA,79793,1,tdap_unica_dosis_en_cada_embarazo,65742,0.82
+ARAUCA,4430,1,bcg_dosis_unica,4415,1.0
+ARAUCA,4430,1,hb_d_unica,4331,0.98
+ARAUCA,4430,1,antipolio_1ras_dosis,4651,1.05
+ARAUCA,4430,1,vop_3_dosis,4500,1.02
+ARAUCA,4430,1,penta_1ras_dosis,4646,1.05
+ARAUCA,4430,1,penta_2das_dosis,4615,1.04
+ARAUCA,4430,1,penta_3ras_dosis,4499,1.02
+ARAUCA,4430,1,rotavirus_1ra_dosis,4471,1.01
+ARAUCA,4430,1,rotavirus_2da_dosis,4485,1.01
+ARAUCA,4430,1,flu_1ra_dosis,2922,0.66
+ARAUCA,4430,1,flu_2da_dosis,2296,0.52
+ARAUCA,4430,1,neumo_1ra_dosis,4715,1.06
+ARAUCA,4430,1,neumo_2da_dosis,4511,1.02
+ARAUCA,4430,1,srp_u_dosis,4537,1.02
+ARAUCA,4430,1,varicela_u_dosis,4496,1.01
+ARAUCA,4430,1,fa_u_dosis,5161,1.17
+ARAUCA,4430,1,neumo_m12_ref,4418,1.0
+ARAUCA,4430,1,vop_1er_ref,4002,0.9
+ARAUCA,4430,1,dpt_1er_ref,4001,0.9
+ARAUCA,4430,1,vop_2do_ref,4520,1.02
+ARAUCA,4430,1,dpt_5an_2do_ref,4523,1.02
+ARAUCA,4430,1,srp_5anosref,4522,1.02
+ARAUCA,4430,1,tdap_unica_dosis_en_cada_embarazo,3628,0.82
+ATLANTICO,21016,1,bcg_dosis_unica,20653,0.98
+ATLANTICO,21016,1,hb_d_unica,18857,0.9
+ATLANTICO,21016,1,antipolio_1ras_dosis,19610,0.93
+ATLANTICO,21016,1,vop_3_dosis,20551,0.98
+ATLANTICO,21016,1,penta_1ras_dosis,19555,0.93
+ATLANTICO,21016,1,penta_2das_dosis,20019,0.95
+ATLANTICO,21016,1,penta_3ras_dosis,20610,0.98
+ATLANTICO,21016,1,rotavirus_1ra_dosis,19345,0.92
+ATLANTICO,21016,1,rotavirus_2da_dosis,19803,0.94
+ATLANTICO,21016,1,flu_1ra_dosis,13271,0.63
+ATLANTICO,21016,1,flu_2da_dosis,7393,0.35
+ATLANTICO,21016,1,neumo_1ra_dosis,18180,0.87
+ATLANTICO,21016,1,neumo_2da_dosis,18103,0.86
+ATLANTICO,21016,1,srp_u_dosis,21391,1.02
+ATLANTICO,21016,1,varicela_u_dosis,20701,0.99
+ATLANTICO,21016,1,fa_u_dosis,19229,0.91
+ATLANTICO,21016,1,neumo_m12_ref,18776,0.89
+ATLANTICO,21016,1,vop_1er_ref,20131,0.96
+ATLANTICO,21016,1,dpt_1er_ref,20497,0.98
+ATLANTICO,21016,1,vop_2do_ref,20083,0.96
+ATLANTICO,21016,1,dpt_5an_2do_ref,21028,1.0
+ATLANTICO,21016,1,srp_5anosref,20761,0.99
+ATLANTICO,21016,1,tdap_unica_dosis_en_cada_embarazo,12954,0.62
+BARRANQUILLA,21875,1,bcg_dosis_unica,22270,1.02
+BARRANQUILLA,21875,1,hb_d_unica,21851,1.0
+BARRANQUILLA,21875,1,antipolio_1ras_dosis,21771,1.0
+BARRANQUILLA,21875,1,vop_3_dosis,21238,0.97
+BARRANQUILLA,21875,1,penta_1ras_dosis,21840,1.0
+BARRANQUILLA,21875,1,penta_2das_dosis,21341,0.98
+BARRANQUILLA,21875,1,penta_3ras_dosis,21305,0.97
+BARRANQUILLA,21875,1,rotavirus_1ra_dosis,21570,0.99
+BARRANQUILLA,21875,1,rotavirus_2da_dosis,21068,0.96
+BARRANQUILLA,21875,1,flu_1ra_dosis,18632,0.85
+BARRANQUILLA,21875,1,flu_2da_dosis,12802,0.59
+BARRANQUILLA,21875,1,neumo_1ra_dosis,21952,1.0
+BARRANQUILLA,21875,1,neumo_2da_dosis,20979,0.96
+BARRANQUILLA,21875,1,srp_u_dosis,21552,0.99
+BARRANQUILLA,21875,1,varicela_u_dosis,20833,0.95
+BARRANQUILLA,21875,1,fa_u_dosis,16019,0.73
+BARRANQUILLA,21875,1,neumo_m12_ref,21166,0.97
+BARRANQUILLA,21875,1,vop_1er_ref,20293,0.93
+BARRANQUILLA,21875,1,dpt_1er_ref,20324,0.93
+BARRANQUILLA,21875,1,vop_2do_ref,19112,0.87
+BARRANQUILLA,21875,1,dpt_5an_2do_ref,19171,0.88
+BARRANQUILLA,21875,1,srp_5anosref,19158,0.88
+BARRANQUILLA,21875,1,tdap_unica_dosis_en_cada_embarazo,17536,0.8
+BOGOTA D.C.,105341,1,bcg_dosis_unica,112338,1.07
+BOGOTA D.C.,105341,1,hb_d_unica,112126,1.06
+BOGOTA D.C.,105341,1,antipolio_1ras_dosis,99815,0.95
+BOGOTA D.C.,105341,1,vop_3_dosis,100535,0.95
+BOGOTA D.C.,105341,1,penta_1ras_dosis,99870,0.95
+BOGOTA D.C.,105341,1,penta_2das_dosis,100891,0.96
+BOGOTA D.C.,105341,1,penta_3ras_dosis,100560,0.95
+BOGOTA D.C.,105341,1,rotavirus_1ra_dosis,98863,0.94
+BOGOTA D.C.,105341,1,rotavirus_2da_dosis,99995,0.95
+BOGOTA D.C.,105341,1,flu_1ra_dosis,84894,0.81
+BOGOTA D.C.,105341,1,flu_2da_dosis,60130,0.57
+BOGOTA D.C.,105341,1,neumo_1ra_dosis,100029,0.95
+BOGOTA D.C.,105341,1,neumo_2da_dosis,100161,0.95
+BOGOTA D.C.,105341,1,srp_u_dosis,100342,0.95
+BOGOTA D.C.,105341,1,varicela_u_dosis,99127,0.94
+BOGOTA D.C.,105341,1,fa_u_dosis,81932,0.78
+BOGOTA D.C.,105341,1,neumo_m12_ref,98761,0.94
+BOGOTA D.C.,105341,1,vop_1er_ref,91104,0.86
+BOGOTA D.C.,105341,1,dpt_1er_ref,91351,0.87
+BOGOTA D.C.,105341,1,vop_2do_ref,93218,0.88
+BOGOTA D.C.,105341,1,dpt_5an_2do_ref,90629,0.86
+BOGOTA D.C.,105341,1,srp_5anosref,92039,0.87
+BOGOTA D.C.,105341,1,tdap_unica_dosis_en_cada_embarazo,91905,0.87
+BOLIVAR,22993,1,bcg_dosis_unica,11559,0.5
+BOLIVAR,22993,1,hb_d_unica,10915,0.47
+BOLIVAR,22993,1,antipolio_1ras_dosis,17583,0.76
+BOLIVAR,22993,1,vop_3_dosis,18024,0.78
+BOLIVAR,22993,1,penta_1ras_dosis,17741,0.77
+BOLIVAR,22993,1,penta_2das_dosis,18040,0.78
+BOLIVAR,22993,1,penta_3ras_dosis,18078,0.79
+BOLIVAR,22993,1,rotavirus_1ra_dosis,17068,0.74
+BOLIVAR,22993,1,rotavirus_2da_dosis,17307,0.75
+BOLIVAR,22993,1,flu_1ra_dosis,15545,0.68
+BOLIVAR,22993,1,flu_2da_dosis,10382,0.45
+BOLIVAR,22993,1,neumo_1ra_dosis,17105,0.74
+BOLIVAR,22993,1,neumo_2da_dosis,17200,0.75
+BOLIVAR,22993,1,srp_u_dosis,18803,0.82
+BOLIVAR,22993,1,varicela_u_dosis,17860,0.78
+BOLIVAR,22993,1,fa_u_dosis,14041,0.61
+BOLIVAR,22993,1,neumo_m12_ref,18125,0.79
+BOLIVAR,22993,1,vop_1er_ref,18894,0.82
+BOLIVAR,22993,1,dpt_1er_ref,18970,0.83
+BOLIVAR,22993,1,vop_2do_ref,19305,0.84
+BOLIVAR,22993,1,dpt_5an_2do_ref,19314,0.84
+BOLIVAR,22993,1,srp_5anosref,19148,0.83
+BOLIVAR,22993,1,tdap_unica_dosis_en_cada_embarazo,13822,0.6
+CARTAGENA,19587,1,bcg_dosis_unica,19203,0.98
+CARTAGENA,19587,1,hb_d_unica,19034,0.97
+CARTAGENA,19587,1,antipolio_1ras_dosis,18169,0.93
+CARTAGENA,19587,1,vop_3_dosis,17234,0.88
+CARTAGENA,19587,1,penta_1ras_dosis,18189,0.93
+CARTAGENA,19587,1,penta_2das_dosis,17869,0.91
+CARTAGENA,19587,1,penta_3ras_dosis,17222,0.88
+CARTAGENA,19587,1,rotavirus_1ra_dosis,17656,0.9
+CARTAGENA,19587,1,rotavirus_2da_dosis,17533,0.9
+CARTAGENA,19587,1,flu_1ra_dosis,14309,0.73
+CARTAGENA,19587,1,flu_2da_dosis,11362,0.58
+CARTAGENA,19587,1,neumo_1ra_dosis,17343,0.89
+CARTAGENA,19587,1,neumo_2da_dosis,16745,0.85
+CARTAGENA,19587,1,srp_u_dosis,18020,0.92
+CARTAGENA,19587,1,varicela_u_dosis,17600,0.9
+CARTAGENA,19587,1,fa_u_dosis,13487,0.69
+CARTAGENA,19587,1,neumo_m12_ref,16160,0.83
+CARTAGENA,19587,1,vop_1er_ref,15702,0.8
+CARTAGENA,19587,1,dpt_1er_ref,15741,0.8
+CARTAGENA,19587,1,vop_2do_ref,15267,0.78
+CARTAGENA,19587,1,dpt_5an_2do_ref,15258,0.78
+CARTAGENA,19587,1,srp_5anosref,15479,0.79
+CARTAGENA,19587,1,tdap_unica_dosis_en_cada_embarazo,15013,0.77
+BOYACA,16748,1,bcg_dosis_unica,15612,0.93
+BOYACA,16748,1,hb_d_unica,15461,0.92
+BOYACA,16748,1,antipolio_1ras_dosis,15677,0.94
+BOYACA,16748,1,vop_3_dosis,15359,0.92
+BOYACA,16748,1,penta_1ras_dosis,15720,0.94
+BOYACA,16748,1,penta_2das_dosis,15354,0.92
+BOYACA,16748,1,penta_3ras_dosis,15370,0.92
+BOYACA,16748,1,rotavirus_1ra_dosis,15636,0.93
+BOYACA,16748,1,rotavirus_2da_dosis,15304,0.91
+BOYACA,16748,1,flu_1ra_dosis,14015,0.84
+BOYACA,16748,1,flu_2da_dosis,11921,0.71
+BOYACA,16748,1,neumo_1ra_dosis,15722,0.94
+BOYACA,16748,1,neumo_2da_dosis,15326,0.92
+BOYACA,16748,1,srp_u_dosis,15724,0.94
+BOYACA,16748,1,varicela_u_dosis,15596,0.93
+BOYACA,16748,1,fa_u_dosis,14089,0.84
+BOYACA,16748,1,neumo_m12_ref,15541,0.93
+BOYACA,16748,1,vop_1er_ref,15242,0.91
+BOYACA,16748,1,dpt_1er_ref,15257,0.91
+BOYACA,16748,1,vop_2do_ref,16846,1.01
+BOYACA,16748,1,dpt_5an_2do_ref,16833,1.01
+BOYACA,16748,1,srp_5anosref,16834,1.01
+BOYACA,16748,1,tdap_unica_dosis_en_cada_embarazo,13626,0.81
+CALDAS,10498,1,bcg_dosis_unica,9876,0.94
+CALDAS,10498,1,hb_d_unica,9726,0.93
+CALDAS,10498,1,antipolio_1ras_dosis,9719,0.93
+CALDAS,10498,1,vop_3_dosis,9794,0.93
+CALDAS,10498,1,penta_1ras_dosis,9733,0.93
+CALDAS,10498,1,penta_2das_dosis,9658,0.92
+CALDAS,10498,1,penta_3ras_dosis,9779,0.93
+CALDAS,10498,1,rotavirus_1ra_dosis,9583,0.91
+CALDAS,10498,1,rotavirus_2da_dosis,9577,0.91
+CALDAS,10498,1,flu_1ra_dosis,8513,0.81
+CALDAS,10498,1,flu_2da_dosis,6639,0.63
+CALDAS,10498,1,neumo_1ra_dosis,9646,0.92
+CALDAS,10498,1,neumo_2da_dosis,9686,0.92
+CALDAS,10498,1,srp_u_dosis,9863,0.94
+CALDAS,10498,1,varicela_u_dosis,9835,0.94
+CALDAS,10498,1,fa_u_dosis,8182,0.78
+CALDAS,10498,1,neumo_m12_ref,9738,0.93
+CALDAS,10498,1,vop_1er_ref,9935,0.95
+CALDAS,10498,1,dpt_1er_ref,9799,0.93
+CALDAS,10498,1,vop_2do_ref,10361,0.99
+CALDAS,10498,1,dpt_5an_2do_ref,10296,0.98
+CALDAS,10498,1,srp_5anosref,10240,0.98
+CALDAS,10498,1,tdap_unica_dosis_en_cada_embarazo,8611,0.82
+CAQUETA,9227,1,bcg_dosis_unica,7261,0.79
+CAQUETA,9227,1,hb_d_unica,7004,0.76
+CAQUETA,9227,1,antipolio_1ras_dosis,7153,0.78
+CAQUETA,9227,1,vop_3_dosis,6679,0.72
+CAQUETA,9227,1,penta_1ras_dosis,7155,0.78
+CAQUETA,9227,1,penta_2das_dosis,6986,0.76
+CAQUETA,9227,1,penta_3ras_dosis,6679,0.72
+CAQUETA,9227,1,rotavirus_1ra_dosis,6625,0.72
+CAQUETA,9227,1,rotavirus_2da_dosis,6628,0.72
+CAQUETA,9227,1,flu_1ra_dosis,6369,0.69
+CAQUETA,9227,1,flu_2da_dosis,4670,0.51
+CAQUETA,9227,1,neumo_1ra_dosis,7160,0.78
+CAQUETA,9227,1,neumo_2da_dosis,6982,0.76
+CAQUETA,9227,1,srp_u_dosis,7257,0.79
+CAQUETA,9227,1,varicela_u_dosis,7201,0.78
+CAQUETA,9227,1,fa_u_dosis,7609,0.82
+CAQUETA,9227,1,neumo_m12_ref,7114,0.77
+CAQUETA,9227,1,vop_1er_ref,6255,0.68
+CAQUETA,9227,1,dpt_1er_ref,6255,0.68
+CAQUETA,9227,1,vop_2do_ref,6997,0.76
+CAQUETA,9227,1,dpt_5an_2do_ref,6996,0.76
+CAQUETA,9227,1,srp_5anosref,7005,0.76
+CAQUETA,9227,1,tdap_unica_dosis_en_cada_embarazo,5884,0.64
+CASANARE,7749,1,bcg_dosis_unica,6420,0.83
+CASANARE,7749,1,hb_d_unica,6278,0.81
+CASANARE,7749,1,antipolio_1ras_dosis,6836,0.88
+CASANARE,7749,1,vop_3_dosis,6917,0.89
+CASANARE,7749,1,penta_1ras_dosis,6836,0.88
+CASANARE,7749,1,penta_2das_dosis,6885,0.89
+CASANARE,7749,1,penta_3ras_dosis,6928,0.89
+CASANARE,7749,1,rotavirus_1ra_dosis,6758,0.87
+CASANARE,7749,1,rotavirus_2da_dosis,6820,0.88
+CASANARE,7749,1,flu_1ra_dosis,6228,0.8
+CASANARE,7749,1,flu_2da_dosis,4470,0.58
+CASANARE,7749,1,neumo_1ra_dosis,6848,0.88
+CASANARE,7749,1,neumo_2da_dosis,6888,0.89
+CASANARE,7749,1,srp_u_dosis,7149,0.92
+CASANARE,7749,1,varicela_u_dosis,7111,0.92
+CASANARE,7749,1,fa_u_dosis,7242,0.93
+CASANARE,7749,1,neumo_m12_ref,7137,0.92
+CASANARE,7749,1,vop_1er_ref,7163,0.92
+CASANARE,7749,1,dpt_1er_ref,7163,0.92
+CASANARE,7749,1,vop_2do_ref,7112,0.92
+CASANARE,7749,1,dpt_5an_2do_ref,7108,0.92
+CASANARE,7749,1,srp_5anosref,7115,0.92
+CASANARE,7749,1,tdap_unica_dosis_en_cada_embarazo,5345,0.69
+CAUCA,23092,1,bcg_dosis_unica,17198,0.74
+CAUCA,23092,1,hb_d_unica,16671,0.72
+CAUCA,23092,1,antipolio_1ras_dosis,20784,0.9
+CAUCA,23092,1,vop_3_dosis,20612,0.89
+CAUCA,23092,1,penta_1ras_dosis,20821,0.9
+CAUCA,23092,1,penta_2das_dosis,20735,0.9
+CAUCA,23092,1,penta_3ras_dosis,20581,0.89
+CAUCA,23092,1,rotavirus_1ra_dosis,20184,0.87
+CAUCA,23092,1,rotavirus_2da_dosis,20205,0.87
+CAUCA,23092,1,flu_1ra_dosis,18715,0.81
+CAUCA,23092,1,flu_2da_dosis,13471,0.58
+CAUCA,23092,1,neumo_1ra_dosis,20478,0.89
+CAUCA,23092,1,neumo_2da_dosis,20026,0.87
+CAUCA,23092,1,srp_u_dosis,21112,0.91
+CAUCA,23092,1,varicela_u_dosis,20824,0.9
+CAUCA,23092,1,fa_u_dosis,17864,0.77
+CAUCA,23092,1,neumo_m12_ref,20381,0.88
+CAUCA,23092,1,vop_1er_ref,19067,0.83
+CAUCA,23092,1,dpt_1er_ref,19073,0.83
+CAUCA,23092,1,vop_2do_ref,20942,0.91
+CAUCA,23092,1,dpt_5an_2do_ref,20795,0.9
+CAUCA,23092,1,srp_5anosref,20820,0.9
+CAUCA,23092,1,tdap_unica_dosis_en_cada_embarazo,15285,0.66
+CESAR,24015,1,bcg_dosis_unica,20554,0.86
+CESAR,24015,1,hb_d_unica,20021,0.83
+CESAR,24015,1,antipolio_1ras_dosis,22284,0.93
+CESAR,24015,1,vop_3_dosis,21321,0.89
+CESAR,24015,1,penta_1ras_dosis,22312,0.93
+CESAR,24015,1,penta_2das_dosis,22013,0.92
+CESAR,24015,1,penta_3ras_dosis,21335,0.89
+CESAR,24015,1,rotavirus_1ra_dosis,21522,0.9
+CESAR,24015,1,rotavirus_2da_dosis,21374,0.89
+CESAR,24015,1,flu_1ra_dosis,19157,0.8
+CESAR,24015,1,flu_2da_dosis,14164,0.59
+CESAR,24015,1,neumo_1ra_dosis,22447,0.93
+CESAR,24015,1,neumo_2da_dosis,21914,0.91
+CESAR,24015,1,srp_u_dosis,22202,0.92
+CESAR,24015,1,varicela_u_dosis,21438,0.89
+CESAR,24015,1,fa_u_dosis,17560,0.73
+CESAR,24015,1,neumo_m12_ref,21924,0.91
+CESAR,24015,1,vop_1er_ref,21443,0.89
+CESAR,24015,1,dpt_1er_ref,21445,0.89
+CESAR,24015,1,vop_2do_ref,22120,0.92
+CESAR,24015,1,dpt_5an_2do_ref,22177,0.92
+CESAR,24015,1,srp_5anosref,21997,0.92
+CESAR,24015,1,tdap_unica_dosis_en_cada_embarazo,18777,0.78
+CHOCO,11728,1,bcg_dosis_unica,9145,0.78
+CHOCO,11728,1,hb_d_unica,6782,0.58
+CHOCO,11728,1,antipolio_1ras_dosis,10338,0.88
+CHOCO,11728,1,vop_3_dosis,8981,0.77
+CHOCO,11728,1,penta_1ras_dosis,10365,0.88
+CHOCO,11728,1,penta_2das_dosis,9757,0.83
+CHOCO,11728,1,penta_3ras_dosis,8981,0.77
+CHOCO,11728,1,rotavirus_1ra_dosis,8111,0.69
+CHOCO,11728,1,rotavirus_2da_dosis,8148,0.69
+CHOCO,11728,1,flu_1ra_dosis,8545,0.73
+CHOCO,11728,1,flu_2da_dosis,5264,0.45
+CHOCO,11728,1,neumo_1ra_dosis,10254,0.87
+CHOCO,11728,1,neumo_2da_dosis,9636,0.82
+CHOCO,11728,1,srp_u_dosis,10994,0.94
+CHOCO,11728,1,varicela_u_dosis,10725,0.91
+CHOCO,11728,1,fa_u_dosis,10229,0.87
+CHOCO,11728,1,neumo_m12_ref,10346,0.88
+CHOCO,11728,1,vop_1er_ref,7240,0.62
+CHOCO,11728,1,dpt_1er_ref,7218,0.62
+CHOCO,11728,1,vop_2do_ref,9010,0.77
+CHOCO,11728,1,dpt_5an_2do_ref,9010,0.77
+CHOCO,11728,1,srp_5anosref,9028,0.77
+CHOCO,11728,1,tdap_unica_dosis_en_cada_embarazo,6376,0.54
+CORDOBA,32371,1,bcg_dosis_unica,23898,0.74
+CORDOBA,32371,1,hb_d_unica,23565,0.73
+CORDOBA,32371,1,antipolio_1ras_dosis,28571,0.88
+CORDOBA,32371,1,vop_3_dosis,29312,0.91
+CORDOBA,32371,1,penta_1ras_dosis,28598,0.88
+CORDOBA,32371,1,penta_2das_dosis,28624,0.88
+CORDOBA,32371,1,penta_3ras_dosis,29319,0.91
+CORDOBA,32371,1,rotavirus_1ra_dosis,27920,0.86
+CORDOBA,32371,1,rotavirus_2da_dosis,28068,0.87
+CORDOBA,32371,1,flu_1ra_dosis,24953,0.77
+CORDOBA,32371,1,flu_2da_dosis,16550,0.51
+CORDOBA,32371,1,neumo_1ra_dosis,27894,0.86
+CORDOBA,32371,1,neumo_2da_dosis,27781,0.86
+CORDOBA,32371,1,srp_u_dosis,28719,0.89
+CORDOBA,32371,1,varicela_u_dosis,28089,0.87
+CORDOBA,32371,1,fa_u_dosis,23385,0.72
+CORDOBA,32371,1,neumo_m12_ref,27489,0.85
+CORDOBA,32371,1,vop_1er_ref,27060,0.84
+CORDOBA,32371,1,dpt_1er_ref,27005,0.83
+CORDOBA,32371,1,vop_2do_ref,29221,0.9
+CORDOBA,32371,1,dpt_5an_2do_ref,29134,0.9
+CORDOBA,32371,1,srp_5anosref,29089,0.9
+CORDOBA,32371,1,tdap_unica_dosis_en_cada_embarazo,22180,0.69
+CUNDINAMARCA,39124,1,bcg_dosis_unica,18528,0.47
+CUNDINAMARCA,39124,1,hb_d_unica,18396,0.47
+CUNDINAMARCA,39124,1,antipolio_1ras_dosis,31565,0.81
+CUNDINAMARCA,39124,1,vop_3_dosis,32219,0.82
+CUNDINAMARCA,39124,1,penta_1ras_dosis,31616,0.81
+CUNDINAMARCA,39124,1,penta_2das_dosis,32132,0.82
+CUNDINAMARCA,39124,1,penta_3ras_dosis,32259,0.82
+CUNDINAMARCA,39124,1,rotavirus_1ra_dosis,31325,0.8
+CUNDINAMARCA,39124,1,rotavirus_2da_dosis,31911,0.82
+CUNDINAMARCA,39124,1,flu_1ra_dosis,26665,0.68
+CUNDINAMARCA,39124,1,flu_2da_dosis,18229,0.47
+CUNDINAMARCA,39124,1,neumo_1ra_dosis,31468,0.8
+CUNDINAMARCA,39124,1,neumo_2da_dosis,32012,0.82
+CUNDINAMARCA,39124,1,srp_u_dosis,32740,0.84
+CUNDINAMARCA,39124,1,varicela_u_dosis,32366,0.83
+CUNDINAMARCA,39124,1,fa_u_dosis,27313,0.7
+CUNDINAMARCA,39124,1,neumo_m12_ref,32469,0.83
+CUNDINAMARCA,39124,1,vop_1er_ref,32011,0.82
+CUNDINAMARCA,39124,1,dpt_1er_ref,32009,0.82
+CUNDINAMARCA,39124,1,vop_2do_ref,32926,0.84
+CUNDINAMARCA,39124,1,dpt_5an_2do_ref,32896,0.84
+CUNDINAMARCA,39124,1,srp_5anosref,32655,0.83
+CUNDINAMARCA,39124,1,tdap_unica_dosis_en_cada_embarazo,24111,0.62
+GUAINIA,853,1,bcg_dosis_unica,960,1.13
+GUAINIA,853,1,hb_d_unica,776,0.91
+GUAINIA,853,1,antipolio_1ras_dosis,942,1.1
+GUAINIA,853,1,vop_3_dosis,718,0.84
+GUAINIA,853,1,penta_1ras_dosis,940,1.1
+GUAINIA,853,1,penta_2das_dosis,824,0.97
+GUAINIA,853,1,penta_3ras_dosis,712,0.83
+GUAINIA,853,1,rotavirus_1ra_dosis,748,0.88
+GUAINIA,853,1,rotavirus_2da_dosis,652,0.76
+GUAINIA,853,1,flu_1ra_dosis,409,0.48
+GUAINIA,853,1,flu_2da_dosis,292,0.34
+GUAINIA,853,1,neumo_1ra_dosis,951,1.11
+GUAINIA,853,1,neumo_2da_dosis,811,0.95
+GUAINIA,853,1,srp_u_dosis,866,1.02
+GUAINIA,853,1,varicela_u_dosis,836,0.98
+GUAINIA,853,1,fa_u_dosis,933,1.09
+GUAINIA,853,1,neumo_m12_ref,821,0.96
+GUAINIA,853,1,vop_1er_ref,533,0.62
+GUAINIA,853,1,dpt_1er_ref,533,0.62
+GUAINIA,853,1,vop_2do_ref,816,0.96
+GUAINIA,853,1,dpt_5an_2do_ref,820,0.96
+GUAINIA,853,1,srp_5anosref,834,0.98
+GUAINIA,853,1,tdap_unica_dosis_en_cada_embarazo,501,0.59
+GUAVIARE,1516,1,bcg_dosis_unica,1215,0.8
+GUAVIARE,1516,1,hb_d_unica,1181,0.78
+GUAVIARE,1516,1,antipolio_1ras_dosis,1233,0.81
+GUAVIARE,1516,1,vop_3_dosis,1213,0.8
+GUAVIARE,1516,1,penta_1ras_dosis,1233,0.81
+GUAVIARE,1516,1,penta_2das_dosis,1263,0.83
+GUAVIARE,1516,1,penta_3ras_dosis,1214,0.8
+GUAVIARE,1516,1,rotavirus_1ra_dosis,1182,0.78
+GUAVIARE,1516,1,rotavirus_2da_dosis,1225,0.81
+GUAVIARE,1516,1,flu_1ra_dosis,697,0.46
+GUAVIARE,1516,1,flu_2da_dosis,520,0.34
+GUAVIARE,1516,1,neumo_1ra_dosis,1237,0.82
+GUAVIARE,1516,1,neumo_2da_dosis,1269,0.84
+GUAVIARE,1516,1,srp_u_dosis,1319,0.87
+GUAVIARE,1516,1,varicela_u_dosis,1300,0.86
+GUAVIARE,1516,1,fa_u_dosis,1683,1.11
+GUAVIARE,1516,1,neumo_m12_ref,1318,0.87
+GUAVIARE,1516,1,vop_1er_ref,1227,0.81
+GUAVIARE,1516,1,dpt_1er_ref,1227,0.81
+GUAVIARE,1516,1,vop_2do_ref,1479,0.98
+GUAVIARE,1516,1,dpt_5an_2do_ref,1479,0.98
+GUAVIARE,1516,1,srp_5anosref,1481,0.98
+GUAVIARE,1516,1,tdap_unica_dosis_en_cada_embarazo,1004,0.66
+HUILA,21071,1,bcg_dosis_unica,19950,0.95
+HUILA,21071,1,hb_d_unica,19905,0.94
+HUILA,21071,1,antipolio_1ras_dosis,19374,0.92
+HUILA,21071,1,vop_3_dosis,18940,0.9
+HUILA,21071,1,penta_1ras_dosis,19432,0.92
+HUILA,21071,1,penta_2das_dosis,19192,0.91
+HUILA,21071,1,penta_3ras_dosis,18933,0.9
+HUILA,21071,1,rotavirus_1ra_dosis,19199,0.91
+HUILA,21071,1,rotavirus_2da_dosis,19015,0.9
+HUILA,21071,1,flu_1ra_dosis,15960,0.76
+HUILA,21071,1,flu_2da_dosis,11921,0.57
+HUILA,21071,1,neumo_1ra_dosis,19427,0.92
+HUILA,21071,1,neumo_2da_dosis,19187,0.91
+HUILA,21071,1,srp_u_dosis,19174,0.91
+HUILA,21071,1,varicela_u_dosis,18817,0.89
+HUILA,21071,1,fa_u_dosis,16513,0.78
+HUILA,21071,1,neumo_m12_ref,19081,0.91
+HUILA,21071,1,vop_1er_ref,18290,0.87
+HUILA,21071,1,dpt_1er_ref,18287,0.87
+HUILA,21071,1,vop_2do_ref,18909,0.9
+HUILA,21071,1,dpt_5an_2do_ref,18899,0.9
+HUILA,21071,1,srp_5anosref,18914,0.9
+HUILA,21071,1,tdap_unica_dosis_en_cada_embarazo,16957,0.8
+LA GUAJIRA,21108,1,bcg_dosis_unica,18344,0.87
+LA GUAJIRA,21108,1,hb_d_unica,16498,0.78
+LA GUAJIRA,21108,1,antipolio_1ras_dosis,19252,0.91
+LA GUAJIRA,21108,1,vop_3_dosis,16827,0.8
+LA GUAJIRA,21108,1,penta_1ras_dosis,19322,0.92
+LA GUAJIRA,21108,1,penta_2das_dosis,17577,0.83
+LA GUAJIRA,21108,1,penta_3ras_dosis,16830,0.8
+LA GUAJIRA,21108,1,rotavirus_1ra_dosis,16601,0.79
+LA GUAJIRA,21108,1,rotavirus_2da_dosis,15802,0.75
+LA GUAJIRA,21108,1,flu_1ra_dosis,14935,0.71
+LA GUAJIRA,21108,1,flu_2da_dosis,9322,0.44
+LA GUAJIRA,21108,1,neumo_1ra_dosis,18364,0.87
+LA GUAJIRA,21108,1,neumo_2da_dosis,16448,0.78
+LA GUAJIRA,21108,1,srp_u_dosis,18825,0.89
+LA GUAJIRA,21108,1,varicela_u_dosis,18589,0.88
+LA GUAJIRA,21108,1,fa_u_dosis,11865,0.56
+LA GUAJIRA,21108,1,neumo_m12_ref,17216,0.82
+LA GUAJIRA,21108,1,vop_1er_ref,14016,0.66
+LA GUAJIRA,21108,1,dpt_1er_ref,14004,0.66
+LA GUAJIRA,21108,1,vop_2do_ref,16384,0.78
+LA GUAJIRA,21108,1,dpt_5an_2do_ref,16379,0.78
+LA GUAJIRA,21108,1,srp_5anosref,16367,0.78
+LA GUAJIRA,21108,1,tdap_unica_dosis_en_cada_embarazo,12975,0.61
+MAGDALENA,18085,1,bcg_dosis_unica,13323,0.74
+MAGDALENA,18085,1,hb_d_unica,13076,0.72
+MAGDALENA,18085,1,antipolio_1ras_dosis,16325,0.9
+MAGDALENA,18085,1,vop_3_dosis,16259,0.9
+MAGDALENA,18085,1,penta_1ras_dosis,16327,0.9
+MAGDALENA,18085,1,penta_2das_dosis,16408,0.91
+MAGDALENA,18085,1,penta_3ras_dosis,16288,0.9
+MAGDALENA,18085,1,rotavirus_1ra_dosis,15876,0.88
+MAGDALENA,18085,1,rotavirus_2da_dosis,16135,0.89
+MAGDALENA,18085,1,flu_1ra_dosis,12201,0.67
+MAGDALENA,18085,1,flu_2da_dosis,8473,0.47
+MAGDALENA,18085,1,neumo_1ra_dosis,16353,0.9
+MAGDALENA,18085,1,neumo_2da_dosis,16408,0.91
+MAGDALENA,18085,1,srp_u_dosis,17109,0.95
+MAGDALENA,18085,1,varicela_u_dosis,16799,0.93
+MAGDALENA,18085,1,fa_u_dosis,14574,0.81
+MAGDALENA,18085,1,neumo_m12_ref,17010,0.94
+MAGDALENA,18085,1,vop_1er_ref,16884,0.93
+MAGDALENA,18085,1,dpt_1er_ref,16891,0.93
+MAGDALENA,18085,1,vop_2do_ref,17398,0.96
+MAGDALENA,18085,1,dpt_5an_2do_ref,17402,0.96
+MAGDALENA,18085,1,srp_5anosref,17458,0.97
+MAGDALENA,18085,1,tdap_unica_dosis_en_cada_embarazo,12245,0.68
+SANTA MARTA,9036,1,bcg_dosis_unica,9296,1.03
+SANTA MARTA,9036,1,hb_d_unica,9224,1.02
+SANTA MARTA,9036,1,antipolio_1ras_dosis,8676,0.96
+SANTA MARTA,9036,1,vop_3_dosis,7895,0.87
+SANTA MARTA,9036,1,penta_1ras_dosis,8685,0.96
+SANTA MARTA,9036,1,penta_2das_dosis,8362,0.93
+SANTA MARTA,9036,1,penta_3ras_dosis,7902,0.87
+SANTA MARTA,9036,1,rotavirus_1ra_dosis,8201,0.91
+SANTA MARTA,9036,1,rotavirus_2da_dosis,8019,0.89
+SANTA MARTA,9036,1,flu_1ra_dosis,7418,0.82
+SANTA MARTA,9036,1,flu_2da_dosis,4951,0.55
+SANTA MARTA,9036,1,neumo_1ra_dosis,8579,0.95
+SANTA MARTA,9036,1,neumo_2da_dosis,8237,0.91
+SANTA MARTA,9036,1,srp_u_dosis,8413,0.93
+SANTA MARTA,9036,1,varicela_u_dosis,8027,0.89
+SANTA MARTA,9036,1,fa_u_dosis,5599,0.62
+SANTA MARTA,9036,1,neumo_m12_ref,8037,0.89
+SANTA MARTA,9036,1,vop_1er_ref,7541,0.83
+SANTA MARTA,9036,1,dpt_1er_ref,7546,0.84
+SANTA MARTA,9036,1,vop_2do_ref,7322,0.81
+SANTA MARTA,9036,1,dpt_5an_2do_ref,7317,0.81
+SANTA MARTA,9036,1,srp_5anosref,7334,0.81
+SANTA MARTA,9036,1,tdap_unica_dosis_en_cada_embarazo,6628,0.73
+META,16994,1,bcg_dosis_unica,15762,0.93
+META,16994,1,hb_d_unica,15328,0.9
+META,16994,1,antipolio_1ras_dosis,15458,0.91
+META,16994,1,vop_3_dosis,14953,0.88
+META,16994,1,penta_1ras_dosis,15483,0.91
+META,16994,1,penta_2das_dosis,15263,0.9
+META,16994,1,penta_3ras_dosis,14910,0.88
+META,16994,1,rotavirus_1ra_dosis,14833,0.87
+META,16994,1,rotavirus_2da_dosis,14803,0.87
+META,16994,1,flu_1ra_dosis,10773,0.63
+META,16994,1,flu_2da_dosis,8137,0.48
+META,16994,1,neumo_1ra_dosis,14815,0.87
+META,16994,1,neumo_2da_dosis,14238,0.84
+META,16994,1,srp_u_dosis,15788,0.93
+META,16994,1,varicela_u_dosis,15360,0.9
+META,16994,1,fa_u_dosis,19030,1.12
+META,16994,1,neumo_m12_ref,13824,0.81
+META,16994,1,vop_1er_ref,14458,0.85
+META,16994,1,dpt_1er_ref,14479,0.85
+META,16994,1,vop_2do_ref,14241,0.84
+META,16994,1,dpt_5an_2do_ref,14221,0.84
+META,16994,1,srp_5anosref,14099,0.83
+META,16994,1,tdap_unica_dosis_en_cada_embarazo,11810,0.69
+NARIÑO,21816,1,bcg_dosis_unica,19170,0.88
+NARIÑO,21816,1,hb_d_unica,18709,0.86
+NARIÑO,21816,1,antipolio_1ras_dosis,19403,0.89
+NARIÑO,21816,1,vop_3_dosis,19156,0.88
+NARIÑO,21816,1,penta_1ras_dosis,19397,0.89
+NARIÑO,21816,1,penta_2das_dosis,19258,0.88
+NARIÑO,21816,1,penta_3ras_dosis,19167,0.88
+NARIÑO,21816,1,rotavirus_1ra_dosis,18914,0.87
+NARIÑO,21816,1,rotavirus_2da_dosis,18928,0.87
+NARIÑO,21816,1,flu_1ra_dosis,11664,0.53
+NARIÑO,21816,1,flu_2da_dosis,9500,0.44
+NARIÑO,21816,1,neumo_1ra_dosis,19264,0.88
+NARIÑO,21816,1,neumo_2da_dosis,19064,0.87
+NARIÑO,21816,1,srp_u_dosis,20010,0.92
+NARIÑO,21816,1,varicela_u_dosis,19900,0.91
+NARIÑO,21816,1,fa_u_dosis,16617,0.76
+NARIÑO,21816,1,neumo_m12_ref,19562,0.9
+NARIÑO,21816,1,vop_1er_ref,18613,0.85
+NARIÑO,21816,1,dpt_1er_ref,18604,0.85
+NARIÑO,21816,1,vop_2do_ref,20453,0.94
+NARIÑO,21816,1,dpt_5an_2do_ref,20439,0.94
+NARIÑO,21816,1,srp_5anosref,20499,0.94
+NARIÑO,21816,1,tdap_unica_dosis_en_cada_embarazo,15889,0.73
+NORTE DE SANTANDER,23929,1,bcg_dosis_unica,21100,0.88
+NORTE DE SANTANDER,23929,1,hb_d_unica,20706,0.87
+NORTE DE SANTANDER,23929,1,antipolio_1ras_dosis,21869,0.91
+NORTE DE SANTANDER,23929,1,vop_3_dosis,22384,0.94
+NORTE DE SANTANDER,23929,1,penta_1ras_dosis,21846,0.91
+NORTE DE SANTANDER,23929,1,penta_2das_dosis,21831,0.91
+NORTE DE SANTANDER,23929,1,penta_3ras_dosis,22457,0.94
+NORTE DE SANTANDER,23929,1,rotavirus_1ra_dosis,21193,0.89
+NORTE DE SANTANDER,23929,1,rotavirus_2da_dosis,21332,0.89
+NORTE DE SANTANDER,23929,1,flu_1ra_dosis,19312,0.81
+NORTE DE SANTANDER,23929,1,flu_2da_dosis,12809,0.54
+NORTE DE SANTANDER,23929,1,neumo_1ra_dosis,22179,0.93
+NORTE DE SANTANDER,23929,1,neumo_2da_dosis,21010,0.88
+NORTE DE SANTANDER,23929,1,srp_u_dosis,22742,0.95
+NORTE DE SANTANDER,23929,1,varicela_u_dosis,22800,0.95
+NORTE DE SANTANDER,23929,1,fa_u_dosis,16845,0.7
+NORTE DE SANTANDER,23929,1,neumo_m12_ref,21771,0.91
+NORTE DE SANTANDER,23929,1,vop_1er_ref,19466,0.81
+NORTE DE SANTANDER,23929,1,dpt_1er_ref,19577,0.82
+NORTE DE SANTANDER,23929,1,vop_2do_ref,21212,0.89
+NORTE DE SANTANDER,23929,1,dpt_5an_2do_ref,21408,0.89
+NORTE DE SANTANDER,23929,1,srp_5anosref,21362,0.89
+NORTE DE SANTANDER,23929,1,tdap_unica_dosis_en_cada_embarazo,17543,0.73
+PUTUMAYO,5544,1,bcg_dosis_unica,4139,0.75
+PUTUMAYO,5544,1,hb_d_unica,4009,0.72
+PUTUMAYO,5544,1,antipolio_1ras_dosis,4614,0.83
+PUTUMAYO,5544,1,vop_3_dosis,4692,0.85
+PUTUMAYO,5544,1,penta_1ras_dosis,4615,0.83
+PUTUMAYO,5544,1,penta_2das_dosis,4657,0.84
+PUTUMAYO,5544,1,penta_3ras_dosis,4691,0.85
+PUTUMAYO,5544,1,rotavirus_1ra_dosis,4459,0.8
+PUTUMAYO,5544,1,rotavirus_2da_dosis,4553,0.82
+PUTUMAYO,5544,1,flu_1ra_dosis,3344,0.6
+PUTUMAYO,5544,1,flu_2da_dosis,2735,0.49
+PUTUMAYO,5544,1,neumo_1ra_dosis,4612,0.83
+PUTUMAYO,5544,1,neumo_2da_dosis,4663,0.84
+PUTUMAYO,5544,1,srp_u_dosis,4918,0.89
+PUTUMAYO,5544,1,varicela_u_dosis,4834,0.87
+PUTUMAYO,5544,1,fa_u_dosis,4248,0.77
+PUTUMAYO,5544,1,neumo_m12_ref,4831,0.87
+PUTUMAYO,5544,1,vop_1er_ref,4573,0.82
+PUTUMAYO,5544,1,dpt_1er_ref,4577,0.83
+PUTUMAYO,5544,1,vop_2do_ref,4933,0.89
+PUTUMAYO,5544,1,dpt_5an_2do_ref,4931,0.89
+PUTUMAYO,5544,1,srp_5anosref,4945,0.89
+PUTUMAYO,5544,1,tdap_unica_dosis_en_cada_embarazo,3611,0.65
+QUINDIO,5981,1,bcg_dosis_unica,6086,1.02
+QUINDIO,5981,1,hb_d_unica,6051,1.01
+QUINDIO,5981,1,antipolio_1ras_dosis,5777,0.97
+QUINDIO,5981,1,vop_3_dosis,5720,0.96
+QUINDIO,5981,1,penta_1ras_dosis,5779,0.97
+QUINDIO,5981,1,penta_2das_dosis,5785,0.97
+QUINDIO,5981,1,penta_3ras_dosis,5715,0.96
+QUINDIO,5981,1,rotavirus_1ra_dosis,5767,0.96
+QUINDIO,5981,1,rotavirus_2da_dosis,5766,0.96
+QUINDIO,5981,1,flu_1ra_dosis,5051,0.84
+QUINDIO,5981,1,flu_2da_dosis,3760,0.63
+QUINDIO,5981,1,neumo_1ra_dosis,5837,0.98
+QUINDIO,5981,1,neumo_2da_dosis,5823,0.97
+QUINDIO,5981,1,srp_u_dosis,5942,0.99
+QUINDIO,5981,1,varicela_u_dosis,5906,0.99
+QUINDIO,5981,1,fa_u_dosis,5313,0.89
+QUINDIO,5981,1,neumo_m12_ref,5954,1.0
+QUINDIO,5981,1,vop_1er_ref,5853,0.98
+QUINDIO,5981,1,dpt_1er_ref,5864,0.98
+QUINDIO,5981,1,vop_2do_ref,5988,1.0
+QUINDIO,5981,1,dpt_5an_2do_ref,5973,1.0
+QUINDIO,5981,1,srp_5anosref,5884,0.98
+QUINDIO,5981,1,tdap_unica_dosis_en_cada_embarazo,5100,0.85
+RISARALDA,11369,1,bcg_dosis_unica,11320,1.0
+RISARALDA,11369,1,hb_d_unica,11208,0.99
+RISARALDA,11369,1,antipolio_1ras_dosis,10724,0.94
+RISARALDA,11369,1,vop_3_dosis,10715,0.94
+RISARALDA,11369,1,penta_1ras_dosis,10797,0.95
+RISARALDA,11369,1,penta_2das_dosis,10667,0.94
+RISARALDA,11369,1,penta_3ras_dosis,10717,0.94
+RISARALDA,11369,1,rotavirus_1ra_dosis,10649,0.94
+RISARALDA,11369,1,rotavirus_2da_dosis,10583,0.93
+RISARALDA,11369,1,flu_1ra_dosis,8354,0.73
+RISARALDA,11369,1,flu_2da_dosis,6714,0.59
+RISARALDA,11369,1,neumo_1ra_dosis,10707,0.94
+RISARALDA,11369,1,neumo_2da_dosis,10418,0.92
+RISARALDA,11369,1,srp_u_dosis,10903,0.96
+RISARALDA,11369,1,varicela_u_dosis,10774,0.95
+RISARALDA,11369,1,fa_u_dosis,7988,0.7
+RISARALDA,11369,1,neumo_m12_ref,10631,0.94
+RISARALDA,11369,1,vop_1er_ref,10636,0.94
+RISARALDA,11369,1,dpt_1er_ref,10628,0.93
+RISARALDA,11369,1,vop_2do_ref,11281,0.99
+RISARALDA,11369,1,dpt_5an_2do_ref,11242,0.99
+RISARALDA,11369,1,srp_5anosref,11065,0.97
+RISARALDA,11369,1,tdap_unica_dosis_en_cada_embarazo,9481,0.83
+SAN ANDRES ISLA,909,1,bcg_dosis_unica,835,0.92
+SAN ANDRES ISLA,909,1,hb_d_unica,831,0.91
+SAN ANDRES ISLA,909,1,antipolio_1ras_dosis,863,0.95
+SAN ANDRES ISLA,909,1,vop_3_dosis,801,0.88
+SAN ANDRES ISLA,909,1,penta_1ras_dosis,864,0.95
+SAN ANDRES ISLA,909,1,penta_2das_dosis,858,0.94
+SAN ANDRES ISLA,909,1,penta_3ras_dosis,800,0.88
+SAN ANDRES ISLA,909,1,rotavirus_1ra_dosis,852,0.94
+SAN ANDRES ISLA,909,1,rotavirus_2da_dosis,847,0.93
+SAN ANDRES ISLA,909,1,flu_1ra_dosis,496,0.55
+SAN ANDRES ISLA,909,1,flu_2da_dosis,341,0.38
+SAN ANDRES ISLA,909,1,neumo_1ra_dosis,863,0.95
+SAN ANDRES ISLA,909,1,neumo_2da_dosis,853,0.94
+SAN ANDRES ISLA,909,1,srp_u_dosis,834,0.92
+SAN ANDRES ISLA,909,1,varicela_u_dosis,820,0.9
+SAN ANDRES ISLA,909,1,fa_u_dosis,734,0.81
+SAN ANDRES ISLA,909,1,neumo_m12_ref,826,0.91
+SAN ANDRES ISLA,909,1,vop_1er_ref,862,0.95
+SAN ANDRES ISLA,909,1,dpt_1er_ref,857,0.94
+SAN ANDRES ISLA,909,1,vop_2do_ref,776,0.85
+SAN ANDRES ISLA,909,1,dpt_5an_2do_ref,773,0.85
+SAN ANDRES ISLA,909,1,srp_5anosref,771,0.85
+SAN ANDRES ISLA,909,1,tdap_unica_dosis_en_cada_embarazo,727,0.8
+SANTANDER,33241,1,bcg_dosis_unica,27003,0.81
+SANTANDER,33241,1,hb_d_unica,26268,0.79
+SANTANDER,33241,1,antipolio_1ras_dosis,30172,0.91
+SANTANDER,33241,1,vop_3_dosis,30209,0.91
+SANTANDER,33241,1,penta_1ras_dosis,30709,0.92
+SANTANDER,33241,1,penta_2das_dosis,30129,0.91
+SANTANDER,33241,1,penta_3ras_dosis,30051,0.9
+SANTANDER,33241,1,rotavirus_1ra_dosis,30076,0.9
+SANTANDER,33241,1,rotavirus_2da_dosis,30235,0.91
+SANTANDER,33241,1,flu_1ra_dosis,26603,0.8
+SANTANDER,33241,1,flu_2da_dosis,20577,0.62
+SANTANDER,33241,1,neumo_1ra_dosis,30234,0.91
+SANTANDER,33241,1,neumo_2da_dosis,30340,0.91
+SANTANDER,33241,1,srp_u_dosis,30904,0.93
+SANTANDER,33241,1,varicela_u_dosis,30238,0.91
+SANTANDER,33241,1,fa_u_dosis,24137,0.73
+SANTANDER,33241,1,neumo_m12_ref,29581,0.89
+SANTANDER,33241,1,vop_1er_ref,28169,0.85
+SANTANDER,33241,1,dpt_1er_ref,28381,0.85
+SANTANDER,33241,1,vop_2do_ref,28097,0.85
+SANTANDER,33241,1,dpt_5an_2do_ref,28395,0.85
+SANTANDER,33241,1,srp_5anosref,27129,0.82
+SANTANDER,33241,1,tdap_unica_dosis_en_cada_embarazo,25293,0.76
+SUCRE,16424,1,bcg_dosis_unica,13778,0.84
+SUCRE,16424,1,hb_d_unica,13647,0.83
+SUCRE,16424,1,antipolio_1ras_dosis,14398,0.88
+SUCRE,16424,1,vop_3_dosis,14144,0.86
+SUCRE,16424,1,penta_1ras_dosis,14414,0.88
+SUCRE,16424,1,penta_2das_dosis,14276,0.87
+SUCRE,16424,1,penta_3ras_dosis,14156,0.86
+SUCRE,16424,1,rotavirus_1ra_dosis,14107,0.86
+SUCRE,16424,1,rotavirus_2da_dosis,14009,0.85
+SUCRE,16424,1,flu_1ra_dosis,9361,0.57
+SUCRE,16424,1,flu_2da_dosis,8074,0.49
+SUCRE,16424,1,neumo_1ra_dosis,14353,0.87
+SUCRE,16424,1,neumo_2da_dosis,14221,0.87
+SUCRE,16424,1,srp_u_dosis,14498,0.88
+SUCRE,16424,1,varicela_u_dosis,14224,0.87
+SUCRE,16424,1,fa_u_dosis,12438,0.76
+SUCRE,16424,1,neumo_m12_ref,14357,0.87
+SUCRE,16424,1,vop_1er_ref,14546,0.89
+SUCRE,16424,1,dpt_1er_ref,14538,0.89
+SUCRE,16424,1,vop_2do_ref,15546,0.95
+SUCRE,16424,1,dpt_5an_2do_ref,15552,0.95
+SUCRE,16424,1,srp_5anosref,15525,0.95
+SUCRE,16424,1,tdap_unica_dosis_en_cada_embarazo,12348,0.75
+TOLIMA,19693,1,bcg_dosis_unica,16056,0.82
+TOLIMA,19693,1,hb_d_unica,15716,0.8
+TOLIMA,19693,1,antipolio_1ras_dosis,17276,0.88
+TOLIMA,19693,1,vop_3_dosis,17086,0.87
+TOLIMA,19693,1,penta_1ras_dosis,17299,0.88
+TOLIMA,19693,1,penta_2das_dosis,17194,0.87
+TOLIMA,19693,1,penta_3ras_dosis,17074,0.87
+TOLIMA,19693,1,rotavirus_1ra_dosis,17118,0.87
+TOLIMA,19693,1,rotavirus_2da_dosis,16999,0.86
+TOLIMA,19693,1,flu_1ra_dosis,15150,0.77
+TOLIMA,19693,1,flu_2da_dosis,9971,0.51
+TOLIMA,19693,1,neumo_1ra_dosis,17058,0.87
+TOLIMA,19693,1,neumo_2da_dosis,16940,0.86
+TOLIMA,19693,1,srp_u_dosis,17199,0.87
+TOLIMA,19693,1,varicela_u_dosis,16981,0.86
+TOLIMA,19693,1,fa_u_dosis,12960,0.66
+TOLIMA,19693,1,neumo_m12_ref,16742,0.85
+TOLIMA,19693,1,vop_1er_ref,16342,0.83
+TOLIMA,19693,1,dpt_1er_ref,16198,0.82
+TOLIMA,19693,1,vop_2do_ref,17351,0.88
+TOLIMA,19693,1,dpt_5an_2do_ref,17013,0.86
+TOLIMA,19693,1,srp_5anosref,17067,0.87
+TOLIMA,19693,1,tdap_unica_dosis_en_cada_embarazo,13311,0.68
+VALLE DEL CAUCA,57615,1,bcg_dosis_unica,50417,0.88
+VALLE DEL CAUCA,57615,1,hb_d_unica,49517,0.86
+VALLE DEL CAUCA,57615,1,antipolio_1ras_dosis,56223,0.98
+VALLE DEL CAUCA,57615,1,vop_3_dosis,55938,0.97
+VALLE DEL CAUCA,57615,1,penta_1ras_dosis,55708,0.97
+VALLE DEL CAUCA,57615,1,penta_2das_dosis,55989,0.97
+VALLE DEL CAUCA,57615,1,penta_3ras_dosis,55910,0.97
+VALLE DEL CAUCA,57615,1,rotavirus_1ra_dosis,55542,0.96
+VALLE DEL CAUCA,57615,1,rotavirus_2da_dosis,55645,0.97
+VALLE DEL CAUCA,57615,1,flu_1ra_dosis,42009,0.73
+VALLE DEL CAUCA,57615,1,flu_2da_dosis,26467,0.46
+VALLE DEL CAUCA,57615,1,neumo_1ra_dosis,55583,0.96
+VALLE DEL CAUCA,57615,1,neumo_2da_dosis,55879,0.97
+VALLE DEL CAUCA,57615,1,srp_u_dosis,55339,0.96
+VALLE DEL CAUCA,57615,1,varicela_u_dosis,55572,0.96
+VALLE DEL CAUCA,57615,1,fa_u_dosis,51520,0.89
+VALLE DEL CAUCA,57615,1,neumo_m12_ref,55249,0.96
+VALLE DEL CAUCA,57615,1,vop_1er_ref,54214,0.94
+VALLE DEL CAUCA,57615,1,dpt_1er_ref,54194,0.94
+VALLE DEL CAUCA,57615,1,vop_2do_ref,56196,0.98
+VALLE DEL CAUCA,57615,1,dpt_5an_2do_ref,56141,0.97
+VALLE DEL CAUCA,57615,1,srp_5anosref,56013,0.97
+VALLE DEL CAUCA,57615,1,tdap_unica_dosis_en_cada_embarazo,39126,0.68
+BUENAVENTURA,6213,1,bcg_dosis_unica,4707,0.76
+BUENAVENTURA,6213,1,hb_d_unica,4487,0.72
+BUENAVENTURA,6213,1,antipolio_1ras_dosis,4770,0.77
+BUENAVENTURA,6213,1,vop_3_dosis,4133,0.67
+BUENAVENTURA,6213,1,penta_1ras_dosis,4789,0.77
+BUENAVENTURA,6213,1,penta_2das_dosis,4520,0.73
+BUENAVENTURA,6213,1,penta_3ras_dosis,4135,0.67
+BUENAVENTURA,6213,1,rotavirus_1ra_dosis,4243,0.68
+BUENAVENTURA,6213,1,rotavirus_2da_dosis,4096,0.66
+BUENAVENTURA,6213,1,flu_1ra_dosis,3956,0.64
+BUENAVENTURA,6213,1,flu_2da_dosis,2664,0.43
+BUENAVENTURA,6213,1,neumo_1ra_dosis,4783,0.77
+BUENAVENTURA,6213,1,neumo_2da_dosis,4464,0.72
+BUENAVENTURA,6213,1,srp_u_dosis,4816,0.78
+BUENAVENTURA,6213,1,varicela_u_dosis,4693,0.76
+BUENAVENTURA,6213,1,fa_u_dosis,2928,0.47
+BUENAVENTURA,6213,1,neumo_m12_ref,4583,0.74
+BUENAVENTURA,6213,1,vop_1er_ref,3752,0.6
+BUENAVENTURA,6213,1,dpt_1er_ref,3789,0.61
+BUENAVENTURA,6213,1,vop_2do_ref,4913,0.79
+BUENAVENTURA,6213,1,dpt_5an_2do_ref,4900,0.79
+BUENAVENTURA,6213,1,srp_5anosref,4829,0.78
+BUENAVENTURA,6213,1,tdap_unica_dosis_en_cada_embarazo,3814,0.61
+VAUPES,878,1,bcg_dosis_unica,748,0.85
+VAUPES,878,1,hb_d_unica,486,0.55
+VAUPES,878,1,antipolio_1ras_dosis,747,0.85
+VAUPES,878,1,vop_3_dosis,586,0.67
+VAUPES,878,1,penta_1ras_dosis,744,0.85
+VAUPES,878,1,penta_2das_dosis,696,0.79
+VAUPES,878,1,penta_3ras_dosis,594,0.68
+VAUPES,878,1,rotavirus_1ra_dosis,519,0.59
+VAUPES,878,1,rotavirus_2da_dosis,540,0.62
+VAUPES,878,1,flu_1ra_dosis,342,0.39
+VAUPES,878,1,flu_2da_dosis,184,0.21
+VAUPES,878,1,neumo_1ra_dosis,777,0.88
+VAUPES,878,1,neumo_2da_dosis,706,0.8
+VAUPES,878,1,srp_u_dosis,814,0.93
+VAUPES,878,1,varicela_u_dosis,775,0.88
+VAUPES,878,1,fa_u_dosis,850,0.97
+VAUPES,878,1,neumo_m12_ref,774,0.88
+VAUPES,878,1,vop_1er_ref,533,0.61
+VAUPES,878,1,dpt_1er_ref,533,0.61
+VAUPES,878,1,vop_2do_ref,763,0.87
+VAUPES,878,1,dpt_5an_2do_ref,759,0.86
+VAUPES,878,1,srp_5anosref,742,0.85
+VAUPES,878,1,tdap_unica_dosis_en_cada_embarazo,434,0.49
+VICHADA,1875,1,bcg_dosis_unica,1286,0.69
+VICHADA,1875,1,hb_d_unica,843,0.45
+VICHADA,1875,1,antipolio_1ras_dosis,1903,1.01
+VICHADA,1875,1,vop_3_dosis,1156,0.62
+VICHADA,1875,1,penta_1ras_dosis,1900,1.01
+VICHADA,1875,1,penta_2das_dosis,1535,0.82
+VICHADA,1875,1,penta_3ras_dosis,1159,0.62
+VICHADA,1875,1,rotavirus_1ra_dosis,1249,0.67
+VICHADA,1875,1,rotavirus_2da_dosis,1136,0.61
+VICHADA,1875,1,flu_1ra_dosis,1116,0.6
+VICHADA,1875,1,flu_2da_dosis,541,0.29
+VICHADA,1875,1,neumo_1ra_dosis,1842,0.98
+VICHADA,1875,1,neumo_2da_dosis,1430,0.76
+VICHADA,1875,1,srp_u_dosis,1910,1.02
+VICHADA,1875,1,varicela_u_dosis,1769,0.94
+VICHADA,1875,1,fa_u_dosis,1158,0.62
+VICHADA,1875,1,neumo_m12_ref,1480,0.79
+VICHADA,1875,1,vop_1er_ref,1093,0.58
+VICHADA,1875,1,dpt_1er_ref,1094,0.58
+VICHADA,1875,1,vop_2do_ref,1269,0.68
+VICHADA,1875,1,dpt_5an_2do_ref,1272,0.68
+VICHADA,1875,1,srp_5anosref,1285,0.69
+VICHADA,1875,1,tdap_unica_dosis_en_cada_embarazo,1093,0.58
+AMAZONAS,1786,2,bcg_dosis_unica,1571,0.88
+AMAZONAS,1786,2,hb_d_unica,1408,0.79
+AMAZONAS,1786,2,antipolio_1ras_dosis,1548,0.87
+AMAZONAS,1786,2,vop_3_dosis,1482,0.83
+AMAZONAS,1786,2,penta_1ras_dosis,1554,0.87
+AMAZONAS,1786,2,penta_2das_dosis,1573,0.88
+AMAZONAS,1786,2,penta_3ras_dosis,1484,0.83
+AMAZONAS,1786,2,rotavirus_1ra_dosis,1458,0.82
+AMAZONAS,1786,2,rotavirus_2da_dosis,1469,0.82
+AMAZONAS,1786,2,flu_1ra_dosis,1315,0.74
+AMAZONAS,1786,2,flu_2da_dosis,934,0.52
+AMAZONAS,1786,2,neumo_1ra_dosis,1569,0.88
+AMAZONAS,1786,2,neumo_2da_dosis,1570,0.88
+AMAZONAS,1786,2,srp_u_dosis,1532,0.86
+AMAZONAS,1786,2,varicela_u_dosis,1495,0.84
+AMAZONAS,1786,2,fa_u_dosis,1722,0.96
+AMAZONAS,1786,2,neumo_m12_ref,1503,0.84
+AMAZONAS,1786,2,vop_1er_ref,1429,0.8
+AMAZONAS,1786,2,dpt_1er_ref,1429,0.8
+AMAZONAS,1786,2,vop_2do_ref,1565,0.88
+AMAZONAS,1786,2,dpt_5an_2do_ref,1563,0.88
+AMAZONAS,1786,2,srp_5anosref,1539,0.86
+AMAZONAS,1786,2,tdap_unica_dosis_en_cada_embarazo,1023,0.57
+ANTIOQUIA,79524,2,bcg_dosis_unica,77253,0.97
+ANTIOQUIA,79524,2,hb_d_unica,75637,0.95
+ANTIOQUIA,79524,2,antipolio_1ras_dosis,75725,0.95
+ANTIOQUIA,79524,2,vop_3_dosis,72541,0.91
+ANTIOQUIA,79524,2,penta_1ras_dosis,75710,0.95
+ANTIOQUIA,79524,2,penta_2das_dosis,74658,0.94
+ANTIOQUIA,79524,2,penta_3ras_dosis,72677,0.91
+ANTIOQUIA,79524,2,rotavirus_1ra_dosis,71797,0.9
+ANTIOQUIA,79524,2,rotavirus_2da_dosis,69215,0.87
+ANTIOQUIA,79524,2,flu_1ra_dosis,59206,0.74
+ANTIOQUIA,79524,2,flu_2da_dosis,43281,0.54
+ANTIOQUIA,79524,2,neumo_1ra_dosis,76910,0.97
+ANTIOQUIA,79524,2,neumo_2da_dosis,78580,0.99
+ANTIOQUIA,79524,2,srp_u_dosis,75061,0.94
+ANTIOQUIA,79524,2,varicela_u_dosis,73825,0.93
+ANTIOQUIA,79524,2,fa_u_dosis,68955,0.87
+ANTIOQUIA,79524,2,neumo_m12_ref,76299,0.96
+ANTIOQUIA,79524,2,vop_1er_ref,69896,0.88
+ANTIOQUIA,79524,2,dpt_1er_ref,70119,0.88
+ANTIOQUIA,79524,2,vop_2do_ref,74774,0.94
+ANTIOQUIA,79524,2,dpt_5an_2do_ref,74870,0.94
+ANTIOQUIA,79524,2,srp_5anosref,74345,0.93
+ANTIOQUIA,79524,2,tdap_unica_dosis_en_cada_embarazo,67252,0.85
+ARAUCA,4542,2,bcg_dosis_unica,4768,1.05
+ARAUCA,4542,2,hb_d_unica,4617,1.02
+ARAUCA,4542,2,antipolio_1ras_dosis,4845,1.07
+ARAUCA,4542,2,vop_3_dosis,4738,1.04
+ARAUCA,4542,2,penta_1ras_dosis,4954,1.09
+ARAUCA,4542,2,penta_2das_dosis,4963,1.09
+ARAUCA,4542,2,penta_3ras_dosis,4766,1.05
+ARAUCA,4542,2,rotavirus_1ra_dosis,4695,1.03
+ARAUCA,4542,2,rotavirus_2da_dosis,4692,1.03
+ARAUCA,4542,2,flu_1ra_dosis,2747,0.6
+ARAUCA,4542,2,flu_2da_dosis,2302,0.51
+ARAUCA,4542,2,neumo_1ra_dosis,5298,1.17
+ARAUCA,4542,2,neumo_2da_dosis,5076,1.12
+ARAUCA,4542,2,srp_u_dosis,5044,1.11
+ARAUCA,4542,2,varicela_u_dosis,5098,1.12
+ARAUCA,4542,2,fa_u_dosis,5963,1.31
+ARAUCA,4542,2,neumo_m12_ref,4912,1.08
+ARAUCA,4542,2,vop_1er_ref,4346,0.96
+ARAUCA,4542,2,dpt_1er_ref,4350,0.96
+ARAUCA,4542,2,vop_2do_ref,4672,1.03
+ARAUCA,4542,2,dpt_5an_2do_ref,4690,1.03
+ARAUCA,4542,2,srp_5anosref,4662,1.03
+ARAUCA,4542,2,tdap_unica_dosis_en_cada_embarazo,4182,0.92
+ATLANTICO,20841,2,bcg_dosis_unica,20448,0.98
+ATLANTICO,20841,2,hb_d_unica,19028,0.91
+ATLANTICO,20841,2,antipolio_1ras_dosis,21142,1.01
+ATLANTICO,20841,2,vop_3_dosis,21741,1.04
+ATLANTICO,20841,2,penta_1ras_dosis,20308,0.97
+ATLANTICO,20841,2,penta_2das_dosis,20491,0.98
+ATLANTICO,20841,2,penta_3ras_dosis,20912,1.0
+ATLANTICO,20841,2,rotavirus_1ra_dosis,16953,0.81
+ATLANTICO,20841,2,rotavirus_2da_dosis,18944,0.91
+ATLANTICO,20841,2,flu_1ra_dosis,14566,0.7
+ATLANTICO,20841,2,flu_2da_dosis,9223,0.44
+ATLANTICO,20841,2,neumo_1ra_dosis,19214,0.92
+ATLANTICO,20841,2,neumo_2da_dosis,21075,1.01
+ATLANTICO,20841,2,srp_u_dosis,21280,1.02
+ATLANTICO,20841,2,varicela_u_dosis,20732,0.99
+ATLANTICO,20841,2,fa_u_dosis,21213,1.02
+ATLANTICO,20841,2,neumo_m12_ref,20125,0.97
+ATLANTICO,20841,2,vop_1er_ref,19633,0.94
+ATLANTICO,20841,2,dpt_1er_ref,19476,0.93
+ATLANTICO,20841,2,vop_2do_ref,21221,1.02
+ATLANTICO,20841,2,dpt_5an_2do_ref,21465,1.03
+ATLANTICO,20841,2,srp_5anosref,20874,1.0
+ATLANTICO,20841,2,tdap_unica_dosis_en_cada_embarazo,15155,0.73
+BARRANQUILLA,21907,2,bcg_dosis_unica,21887,1.0
+BARRANQUILLA,21907,2,hb_d_unica,20342,0.93
+BARRANQUILLA,21907,2,antipolio_1ras_dosis,21625,0.99
+BARRANQUILLA,21907,2,vop_3_dosis,21257,0.97
+BARRANQUILLA,21907,2,penta_1ras_dosis,21678,0.99
+BARRANQUILLA,21907,2,penta_2das_dosis,21293,0.97
+BARRANQUILLA,21907,2,penta_3ras_dosis,21174,0.97
+BARRANQUILLA,21907,2,rotavirus_1ra_dosis,21519,0.98
+BARRANQUILLA,21907,2,rotavirus_2da_dosis,20945,0.96
+BARRANQUILLA,21907,2,flu_1ra_dosis,18560,0.85
+BARRANQUILLA,21907,2,flu_2da_dosis,12331,0.56
+BARRANQUILLA,21907,2,neumo_1ra_dosis,22248,1.02
+BARRANQUILLA,21907,2,neumo_2da_dosis,21778,0.99
+BARRANQUILLA,21907,2,srp_u_dosis,21285,0.97
+BARRANQUILLA,21907,2,varicela_u_dosis,21262,0.97
+BARRANQUILLA,21907,2,fa_u_dosis,20800,0.95
+BARRANQUILLA,21907,2,neumo_m12_ref,21213,0.97
+BARRANQUILLA,21907,2,vop_1er_ref,21346,0.97
+BARRANQUILLA,21907,2,dpt_1er_ref,21333,0.97
+BARRANQUILLA,21907,2,vop_2do_ref,20723,0.95
+BARRANQUILLA,21907,2,dpt_5an_2do_ref,20756,0.95
+BARRANQUILLA,21907,2,srp_5anosref,20712,0.95
+BARRANQUILLA,21907,2,tdap_unica_dosis_en_cada_embarazo,18010,0.82
+BOGOTA D.C.,105191,2,bcg_dosis_unica,109138,1.04
+BOGOTA D.C.,105191,2,hb_d_unica,108130,1.03
+BOGOTA D.C.,105191,2,antipolio_1ras_dosis,92493,0.88
+BOGOTA D.C.,105191,2,vop_3_dosis,93060,0.88
+BOGOTA D.C.,105191,2,penta_1ras_dosis,92583,0.88
+BOGOTA D.C.,105191,2,penta_2das_dosis,93134,0.89
+BOGOTA D.C.,105191,2,penta_3ras_dosis,93048,0.88
+BOGOTA D.C.,105191,2,rotavirus_1ra_dosis,91199,0.87
+BOGOTA D.C.,105191,2,rotavirus_2da_dosis,91947,0.87
+BOGOTA D.C.,105191,2,flu_1ra_dosis,79922,0.76
+BOGOTA D.C.,105191,2,flu_2da_dosis,54908,0.52
+BOGOTA D.C.,105191,2,neumo_1ra_dosis,93180,0.89
+BOGOTA D.C.,105191,2,neumo_2da_dosis,95957,0.91
+BOGOTA D.C.,105191,2,srp_u_dosis,97298,0.92
+BOGOTA D.C.,105191,2,varicela_u_dosis,96302,0.92
+BOGOTA D.C.,105191,2,fa_u_dosis,86490,0.82
+BOGOTA D.C.,105191,2,neumo_m12_ref,97059,0.92
+BOGOTA D.C.,105191,2,vop_1er_ref,88295,0.84
+BOGOTA D.C.,105191,2,dpt_1er_ref,88338,0.84
+BOGOTA D.C.,105191,2,vop_2do_ref,91378,0.87
+BOGOTA D.C.,105191,2,dpt_5an_2do_ref,91438,0.87
+BOGOTA D.C.,105191,2,srp_5anosref,91929,0.87
+BOGOTA D.C.,105191,2,tdap_unica_dosis_en_cada_embarazo,86079,0.82
+BOLIVAR,22079,2,bcg_dosis_unica,10386,0.47
+BOLIVAR,22079,2,hb_d_unica,9600,0.43
+BOLIVAR,22079,2,antipolio_1ras_dosis,19042,0.86
+BOLIVAR,22079,2,vop_3_dosis,18169,0.82
+BOLIVAR,22079,2,penta_1ras_dosis,19049,0.86
+BOLIVAR,22079,2,penta_2das_dosis,18588,0.84
+BOLIVAR,22079,2,penta_3ras_dosis,18202,0.82
+BOLIVAR,22079,2,rotavirus_1ra_dosis,18224,0.83
+BOLIVAR,22079,2,rotavirus_2da_dosis,17791,0.81
+BOLIVAR,22079,2,flu_1ra_dosis,15093,0.68
+BOLIVAR,22079,2,flu_2da_dosis,10293,0.47
+BOLIVAR,22079,2,neumo_1ra_dosis,18546,0.84
+BOLIVAR,22079,2,neumo_2da_dosis,18132,0.82
+BOLIVAR,22079,2,srp_u_dosis,18336,0.83
+BOLIVAR,22079,2,varicela_u_dosis,17581,0.8
+BOLIVAR,22079,2,fa_u_dosis,17013,0.77
+BOLIVAR,22079,2,neumo_m12_ref,17963,0.81
+BOLIVAR,22079,2,vop_1er_ref,17931,0.81
+BOLIVAR,22079,2,dpt_1er_ref,17836,0.81
+BOLIVAR,22079,2,vop_2do_ref,20049,0.91
+BOLIVAR,22079,2,dpt_5an_2do_ref,19930,0.9
+BOLIVAR,22079,2,srp_5anosref,19739,0.89
+BOLIVAR,22079,2,tdap_unica_dosis_en_cada_embarazo,16141,0.73
+CARTAGENA,19050,2,bcg_dosis_unica,19908,1.05
+CARTAGENA,19050,2,hb_d_unica,19783,1.04
+CARTAGENA,19050,2,antipolio_1ras_dosis,18503,0.97
+CARTAGENA,19050,2,vop_3_dosis,16788,0.88
+CARTAGENA,19050,2,penta_1ras_dosis,18551,0.97
+CARTAGENA,19050,2,penta_2das_dosis,17967,0.94
+CARTAGENA,19050,2,penta_3ras_dosis,16785,0.88
+CARTAGENA,19050,2,rotavirus_1ra_dosis,17876,0.94
+CARTAGENA,19050,2,rotavirus_2da_dosis,17428,0.91
+CARTAGENA,19050,2,flu_1ra_dosis,14261,0.75
+CARTAGENA,19050,2,flu_2da_dosis,10171,0.53
+CARTAGENA,19050,2,neumo_1ra_dosis,17891,0.94
+CARTAGENA,19050,2,neumo_2da_dosis,16717,0.88
+CARTAGENA,19050,2,srp_u_dosis,17790,0.93
+CARTAGENA,19050,2,varicela_u_dosis,16993,0.89
+CARTAGENA,19050,2,fa_u_dosis,15603,0.82
+CARTAGENA,19050,2,neumo_m12_ref,16149,0.85
+CARTAGENA,19050,2,vop_1er_ref,15744,0.83
+CARTAGENA,19050,2,dpt_1er_ref,15845,0.83
+CARTAGENA,19050,2,vop_2do_ref,16314,0.86
+CARTAGENA,19050,2,dpt_5an_2do_ref,16291,0.86
+CARTAGENA,19050,2,srp_5anosref,16482,0.87
+CARTAGENA,19050,2,tdap_unica_dosis_en_cada_embarazo,15962,0.84
+BOYACA,16381,2,bcg_dosis_unica,15080,0.92
+BOYACA,16381,2,hb_d_unica,14992,0.92
+BOYACA,16381,2,antipolio_1ras_dosis,15181,0.93
+BOYACA,16381,2,vop_3_dosis,15205,0.93
+BOYACA,16381,2,penta_1ras_dosis,15186,0.93
+BOYACA,16381,2,penta_2das_dosis,15220,0.93
+BOYACA,16381,2,penta_3ras_dosis,15204,0.93
+BOYACA,16381,2,rotavirus_1ra_dosis,15052,0.92
+BOYACA,16381,2,rotavirus_2da_dosis,15101,0.92
+BOYACA,16381,2,flu_1ra_dosis,13258,0.81
+BOYACA,16381,2,flu_2da_dosis,10539,0.64
+BOYACA,16381,2,neumo_1ra_dosis,15218,0.93
+BOYACA,16381,2,neumo_2da_dosis,15258,0.93
+BOYACA,16381,2,srp_u_dosis,15675,0.96
+BOYACA,16381,2,varicela_u_dosis,15645,0.96
+BOYACA,16381,2,fa_u_dosis,15016,0.92
+BOYACA,16381,2,neumo_m12_ref,15641,0.95
+BOYACA,16381,2,vop_1er_ref,15129,0.92
+BOYACA,16381,2,dpt_1er_ref,15141,0.92
+BOYACA,16381,2,vop_2do_ref,16992,1.04
+BOYACA,16381,2,dpt_5an_2do_ref,16997,1.04
+BOYACA,16381,2,srp_5anosref,16989,1.04
+BOYACA,16381,2,tdap_unica_dosis_en_cada_embarazo,13532,0.83
+CALDAS,10180,2,bcg_dosis_unica,9410,0.92
+CALDAS,10180,2,hb_d_unica,9500,0.93
+CALDAS,10180,2,antipolio_1ras_dosis,9672,0.95
+CALDAS,10180,2,vop_3_dosis,9769,0.96
+CALDAS,10180,2,penta_1ras_dosis,9695,0.95
+CALDAS,10180,2,penta_2das_dosis,9824,0.97
+CALDAS,10180,2,penta_3ras_dosis,9803,0.96
+CALDAS,10180,2,rotavirus_1ra_dosis,9371,0.92
+CALDAS,10180,2,rotavirus_2da_dosis,9468,0.93
+CALDAS,10180,2,flu_1ra_dosis,8539,0.84
+CALDAS,10180,2,flu_2da_dosis,6565,0.64
+CALDAS,10180,2,neumo_1ra_dosis,9385,0.92
+CALDAS,10180,2,neumo_2da_dosis,9447,0.93
+CALDAS,10180,2,srp_u_dosis,9652,0.95
+CALDAS,10180,2,varicela_u_dosis,9671,0.95
+CALDAS,10180,2,fa_u_dosis,9391,0.92
+CALDAS,10180,2,neumo_m12_ref,9395,0.92
+CALDAS,10180,2,vop_1er_ref,9466,0.93
+CALDAS,10180,2,dpt_1er_ref,9706,0.95
+CALDAS,10180,2,vop_2do_ref,9900,0.97
+CALDAS,10180,2,dpt_5an_2do_ref,10008,0.98
+CALDAS,10180,2,srp_5anosref,9582,0.94
+CALDAS,10180,2,tdap_unica_dosis_en_cada_embarazo,8408,0.83
+CAQUETA,8617,2,bcg_dosis_unica,7608,0.88
+CAQUETA,8617,2,hb_d_unica,7400,0.86
+CAQUETA,8617,2,antipolio_1ras_dosis,7254,0.84
+CAQUETA,8617,2,vop_3_dosis,6722,0.78
+CAQUETA,8617,2,penta_1ras_dosis,7256,0.84
+CAQUETA,8617,2,penta_2das_dosis,7058,0.82
+CAQUETA,8617,2,penta_3ras_dosis,6720,0.78
+CAQUETA,8617,2,rotavirus_1ra_dosis,6843,0.79
+CAQUETA,8617,2,rotavirus_2da_dosis,6759,0.78
+CAQUETA,8617,2,flu_1ra_dosis,6519,0.76
+CAQUETA,8617,2,flu_2da_dosis,4858,0.56
+CAQUETA,8617,2,neumo_1ra_dosis,7269,0.84
+CAQUETA,8617,2,neumo_2da_dosis,7069,0.82
+CAQUETA,8617,2,srp_u_dosis,6983,0.81
+CAQUETA,8617,2,varicela_u_dosis,6949,0.81
+CAQUETA,8617,2,fa_u_dosis,8602,1.0
+CAQUETA,8617,2,neumo_m12_ref,6806,0.79
+CAQUETA,8617,2,vop_1er_ref,6225,0.72
+CAQUETA,8617,2,dpt_1er_ref,6224,0.72
+CAQUETA,8617,2,vop_2do_ref,7331,0.85
+CAQUETA,8617,2,dpt_5an_2do_ref,7334,0.85
+CAQUETA,8617,2,srp_5anosref,7377,0.86
+CAQUETA,8617,2,tdap_unica_dosis_en_cada_embarazo,6123,0.71
+CASANARE,7543,2,bcg_dosis_unica,6542,0.87
+CASANARE,7543,2,hb_d_unica,5808,0.77
+CASANARE,7543,2,antipolio_1ras_dosis,6641,0.88
+CASANARE,7543,2,vop_3_dosis,6588,0.87
+CASANARE,7543,2,penta_1ras_dosis,6644,0.88
+CASANARE,7543,2,penta_2das_dosis,6582,0.87
+CASANARE,7543,2,penta_3ras_dosis,6606,0.88
+CASANARE,7543,2,rotavirus_1ra_dosis,6552,0.87
+CASANARE,7543,2,rotavirus_2da_dosis,6500,0.86
+CASANARE,7543,2,flu_1ra_dosis,5979,0.79
+CASANARE,7543,2,flu_2da_dosis,4360,0.58
+CASANARE,7543,2,neumo_1ra_dosis,6638,0.88
+CASANARE,7543,2,neumo_2da_dosis,6521,0.86
+CASANARE,7543,2,srp_u_dosis,6687,0.89
+CASANARE,7543,2,varicela_u_dosis,6644,0.88
+CASANARE,7543,2,fa_u_dosis,9301,1.23
+CASANARE,7543,2,neumo_m12_ref,6657,0.88
+CASANARE,7543,2,vop_1er_ref,6829,0.91
+CASANARE,7543,2,dpt_1er_ref,6829,0.91
+CASANARE,7543,2,vop_2do_ref,7246,0.96
+CASANARE,7543,2,dpt_5an_2do_ref,7252,0.96
+CASANARE,7543,2,srp_5anosref,7249,0.96
+CASANARE,7543,2,tdap_unica_dosis_en_cada_embarazo,5700,0.76
+CAUCA,22336,2,bcg_dosis_unica,17990,0.81
+CAUCA,22336,2,hb_d_unica,17597,0.79
+CAUCA,22336,2,antipolio_1ras_dosis,21088,0.94
+CAUCA,22336,2,vop_3_dosis,20713,0.93
+CAUCA,22336,2,penta_1ras_dosis,21104,0.94
+CAUCA,22336,2,penta_2das_dosis,20704,0.93
+CAUCA,22336,2,penta_3ras_dosis,20715,0.93
+CAUCA,22336,2,rotavirus_1ra_dosis,20429,0.91
+CAUCA,22336,2,rotavirus_2da_dosis,20155,0.9
+CAUCA,22336,2,flu_1ra_dosis,19045,0.85
+CAUCA,22336,2,flu_2da_dosis,12983,0.58
+CAUCA,22336,2,neumo_1ra_dosis,20417,0.91
+CAUCA,22336,2,neumo_2da_dosis,20364,0.91
+CAUCA,22336,2,srp_u_dosis,21265,0.95
+CAUCA,22336,2,varicela_u_dosis,21039,0.94
+CAUCA,22336,2,fa_u_dosis,19422,0.87
+CAUCA,22336,2,neumo_m12_ref,20258,0.91
+CAUCA,22336,2,vop_1er_ref,19566,0.88
+CAUCA,22336,2,dpt_1er_ref,19540,0.87
+CAUCA,22336,2,vop_2do_ref,21289,0.95
+CAUCA,22336,2,dpt_5an_2do_ref,21288,0.95
+CAUCA,22336,2,srp_5anosref,21162,0.95
+CAUCA,22336,2,tdap_unica_dosis_en_cada_embarazo,16279,0.73
+CESAR,23487,2,bcg_dosis_unica,21378,0.91
+CESAR,23487,2,hb_d_unica,20611,0.88
+CESAR,23487,2,antipolio_1ras_dosis,22755,0.97
+CESAR,23487,2,vop_3_dosis,21262,0.91
+CESAR,23487,2,penta_1ras_dosis,22779,0.97
+CESAR,23487,2,penta_2das_dosis,22054,0.94
+CESAR,23487,2,penta_3ras_dosis,21256,0.91
+CESAR,23487,2,rotavirus_1ra_dosis,21779,0.93
+CESAR,23487,2,rotavirus_2da_dosis,21202,0.9
+CESAR,23487,2,flu_1ra_dosis,18349,0.78
+CESAR,23487,2,flu_2da_dosis,13555,0.58
+CESAR,23487,2,neumo_1ra_dosis,21982,0.94
+CESAR,23487,2,neumo_2da_dosis,21039,0.9
+CESAR,23487,2,srp_u_dosis,22458,0.96
+CESAR,23487,2,varicela_u_dosis,21916,0.93
+CESAR,23487,2,fa_u_dosis,21103,0.9
+CESAR,23487,2,neumo_m12_ref,21197,0.9
+CESAR,23487,2,vop_1er_ref,20574,0.88
+CESAR,23487,2,dpt_1er_ref,20581,0.88
+CESAR,23487,2,vop_2do_ref,22496,0.96
+CESAR,23487,2,dpt_5an_2do_ref,22492,0.96
+CESAR,23487,2,srp_5anosref,21944,0.93
+CESAR,23487,2,tdap_unica_dosis_en_cada_embarazo,20209,0.86
+CHOCO,11596,2,bcg_dosis_unica,9249,0.8
+CHOCO,11596,2,hb_d_unica,7127,0.61
+CHOCO,11596,2,antipolio_1ras_dosis,10358,0.89
+CHOCO,11596,2,vop_3_dosis,8519,0.73
+CHOCO,11596,2,penta_1ras_dosis,10363,0.89
+CHOCO,11596,2,penta_2das_dosis,9323,0.8
+CHOCO,11596,2,penta_3ras_dosis,8517,0.73
+CHOCO,11596,2,rotavirus_1ra_dosis,8518,0.73
+CHOCO,11596,2,rotavirus_2da_dosis,8053,0.69
+CHOCO,11596,2,flu_1ra_dosis,7561,0.65
+CHOCO,11596,2,flu_2da_dosis,4434,0.38
+CHOCO,11596,2,neumo_1ra_dosis,10421,0.9
+CHOCO,11596,2,neumo_2da_dosis,9363,0.81
+CHOCO,11596,2,srp_u_dosis,9661,0.83
+CHOCO,11596,2,varicela_u_dosis,9290,0.8
+CHOCO,11596,2,fa_u_dosis,11850,1.02
+CHOCO,11596,2,neumo_m12_ref,9374,0.81
+CHOCO,11596,2,vop_1er_ref,6927,0.6
+CHOCO,11596,2,dpt_1er_ref,6929,0.6
+CHOCO,11596,2,vop_2do_ref,8781,0.76
+CHOCO,11596,2,dpt_5an_2do_ref,8781,0.76
+CHOCO,11596,2,srp_5anosref,8757,0.76
+CHOCO,11596,2,tdap_unica_dosis_en_cada_embarazo,6880,0.59
+CORDOBA,31986,2,bcg_dosis_unica,26405,0.83
+CORDOBA,31986,2,hb_d_unica,26179,0.82
+CORDOBA,31986,2,antipolio_1ras_dosis,28687,0.9
+CORDOBA,31986,2,vop_3_dosis,28670,0.9
+CORDOBA,31986,2,penta_1ras_dosis,28765,0.9
+CORDOBA,31986,2,penta_2das_dosis,28533,0.89
+CORDOBA,31986,2,penta_3ras_dosis,28672,0.9
+CORDOBA,31986,2,rotavirus_1ra_dosis,28045,0.88
+CORDOBA,31986,2,rotavirus_2da_dosis,27758,0.87
+CORDOBA,31986,2,flu_1ra_dosis,22699,0.71
+CORDOBA,31986,2,flu_2da_dosis,15741,0.49
+CORDOBA,31986,2,neumo_1ra_dosis,28365,0.89
+CORDOBA,31986,2,neumo_2da_dosis,28561,0.89
+CORDOBA,31986,2,srp_u_dosis,28293,0.88
+CORDOBA,31986,2,varicela_u_dosis,26921,0.84
+CORDOBA,31986,2,fa_u_dosis,26566,0.83
+CORDOBA,31986,2,neumo_m12_ref,27811,0.87
+CORDOBA,31986,2,vop_1er_ref,26773,0.84
+CORDOBA,31986,2,dpt_1er_ref,26766,0.84
+CORDOBA,31986,2,vop_2do_ref,29229,0.91
+CORDOBA,31986,2,dpt_5an_2do_ref,29198,0.91
+CORDOBA,31986,2,srp_5anosref,29058,0.91
+CORDOBA,31986,2,tdap_unica_dosis_en_cada_embarazo,23799,0.74
+CUNDINAMARCA,36312,2,bcg_dosis_unica,18824,0.52
+CUNDINAMARCA,36312,2,hb_d_unica,18656,0.51
+CUNDINAMARCA,36312,2,antipolio_1ras_dosis,31640,0.87
+CUNDINAMARCA,36312,2,vop_3_dosis,33620,0.93
+CUNDINAMARCA,36312,2,penta_1ras_dosis,31651,0.87
+CUNDINAMARCA,36312,2,penta_2das_dosis,32620,0.9
+CUNDINAMARCA,36312,2,penta_3ras_dosis,33628,0.93
+CUNDINAMARCA,36312,2,rotavirus_1ra_dosis,31292,0.86
+CUNDINAMARCA,36312,2,rotavirus_2da_dosis,32293,0.89
+CUNDINAMARCA,36312,2,flu_1ra_dosis,25848,0.71
+CUNDINAMARCA,36312,2,flu_2da_dosis,17760,0.49
+CUNDINAMARCA,36312,2,neumo_1ra_dosis,31455,0.87
+CUNDINAMARCA,36312,2,neumo_2da_dosis,32377,0.89
+CUNDINAMARCA,36312,2,srp_u_dosis,34536,0.95
+CUNDINAMARCA,36312,2,varicela_u_dosis,33303,0.92
+CUNDINAMARCA,36312,2,fa_u_dosis,32506,0.9
+CUNDINAMARCA,36312,2,neumo_m12_ref,33994,0.94
+CUNDINAMARCA,36312,2,vop_1er_ref,33007,0.91
+CUNDINAMARCA,36312,2,dpt_1er_ref,33043,0.91
+CUNDINAMARCA,36312,2,vop_2do_ref,35542,0.98
+CUNDINAMARCA,36312,2,dpt_5an_2do_ref,35587,0.98
+CUNDINAMARCA,36312,2,srp_5anosref,35597,0.98
+CUNDINAMARCA,36312,2,tdap_unica_dosis_en_cada_embarazo,25864,0.71
+GUAINIA,880,2,bcg_dosis_unica,1097,1.25
+GUAINIA,880,2,hb_d_unica,884,1.0
+GUAINIA,880,2,antipolio_1ras_dosis,999,1.14
+GUAINIA,880,2,vop_3_dosis,774,0.88
+GUAINIA,880,2,penta_1ras_dosis,1001,1.14
+GUAINIA,880,2,penta_2das_dosis,925,1.05
+GUAINIA,880,2,penta_3ras_dosis,777,0.88
+GUAINIA,880,2,rotavirus_1ra_dosis,797,0.91
+GUAINIA,880,2,rotavirus_2da_dosis,764,0.87
+GUAINIA,880,2,flu_1ra_dosis,707,0.8
+GUAINIA,880,2,flu_2da_dosis,418,0.48
+GUAINIA,880,2,neumo_1ra_dosis,1016,1.15
+GUAINIA,880,2,neumo_2da_dosis,922,1.05
+GUAINIA,880,2,srp_u_dosis,879,1.0
+GUAINIA,880,2,varicela_u_dosis,866,0.98
+GUAINIA,880,2,fa_u_dosis,950,1.08
+GUAINIA,880,2,neumo_m12_ref,814,0.92
+GUAINIA,880,2,vop_1er_ref,546,0.62
+GUAINIA,880,2,dpt_1er_ref,545,0.62
+GUAINIA,880,2,vop_2do_ref,759,0.86
+GUAINIA,880,2,dpt_5an_2do_ref,759,0.86
+GUAINIA,880,2,srp_5anosref,758,0.86
+GUAINIA,880,2,tdap_unica_dosis_en_cada_embarazo,588,0.67
+GUAVIARE,1377,2,bcg_dosis_unica,1328,0.96
+GUAVIARE,1377,2,hb_d_unica,1290,0.94
+GUAVIARE,1377,2,antipolio_1ras_dosis,1360,0.99
+GUAVIARE,1377,2,vop_3_dosis,1277,0.93
+GUAVIARE,1377,2,penta_1ras_dosis,1361,0.99
+GUAVIARE,1377,2,penta_2das_dosis,1317,0.96
+GUAVIARE,1377,2,penta_3ras_dosis,1278,0.93
+GUAVIARE,1377,2,rotavirus_1ra_dosis,1303,0.95
+GUAVIARE,1377,2,rotavirus_2da_dosis,1285,0.93
+GUAVIARE,1377,2,flu_1ra_dosis,993,0.72
+GUAVIARE,1377,2,flu_2da_dosis,622,0.45
+GUAVIARE,1377,2,neumo_1ra_dosis,1374,1.0
+GUAVIARE,1377,2,neumo_2da_dosis,1276,0.93
+GUAVIARE,1377,2,srp_u_dosis,1302,0.95
+GUAVIARE,1377,2,varicela_u_dosis,1285,0.93
+GUAVIARE,1377,2,fa_u_dosis,1376,1.0
+GUAVIARE,1377,2,neumo_m12_ref,1262,0.92
+GUAVIARE,1377,2,vop_1er_ref,1153,0.84
+GUAVIARE,1377,2,dpt_1er_ref,1153,0.84
+GUAVIARE,1377,2,vop_2do_ref,1366,0.99
+GUAVIARE,1377,2,dpt_5an_2do_ref,1367,0.99
+GUAVIARE,1377,2,srp_5anosref,1377,1.0
+GUAVIARE,1377,2,tdap_unica_dosis_en_cada_embarazo,1057,0.77
+HUILA,20627,2,bcg_dosis_unica,20245,0.98
+HUILA,20627,2,hb_d_unica,20197,0.98
+HUILA,20627,2,antipolio_1ras_dosis,19347,0.94
+HUILA,20627,2,vop_3_dosis,18920,0.92
+HUILA,20627,2,penta_1ras_dosis,19326,0.94
+HUILA,20627,2,penta_2das_dosis,19042,0.92
+HUILA,20627,2,penta_3ras_dosis,18921,0.92
+HUILA,20627,2,rotavirus_1ra_dosis,19123,0.93
+HUILA,20627,2,rotavirus_2da_dosis,18882,0.92
+HUILA,20627,2,flu_1ra_dosis,15907,0.77
+HUILA,20627,2,flu_2da_dosis,12470,0.6
+HUILA,20627,2,neumo_1ra_dosis,19363,0.94
+HUILA,20627,2,neumo_2da_dosis,19083,0.93
+HUILA,20627,2,srp_u_dosis,19269,0.93
+HUILA,20627,2,varicela_u_dosis,19073,0.92
+HUILA,20627,2,fa_u_dosis,18120,0.88
+HUILA,20627,2,neumo_m12_ref,19211,0.93
+HUILA,20627,2,vop_1er_ref,18277,0.89
+HUILA,20627,2,dpt_1er_ref,18287,0.89
+HUILA,20627,2,vop_2do_ref,19849,0.96
+HUILA,20627,2,dpt_5an_2do_ref,19848,0.96
+HUILA,20627,2,srp_5anosref,19887,0.96
+HUILA,20627,2,tdap_unica_dosis_en_cada_embarazo,17316,0.84
+LA GUAJIRA,21390,2,bcg_dosis_unica,19777,0.92
+LA GUAJIRA,21390,2,hb_d_unica,18216,0.85
+LA GUAJIRA,21390,2,antipolio_1ras_dosis,20068,0.94
+LA GUAJIRA,21390,2,vop_3_dosis,18001,0.84
+LA GUAJIRA,21390,2,penta_1ras_dosis,20099,0.94
+LA GUAJIRA,21390,2,penta_2das_dosis,18602,0.87
+LA GUAJIRA,21390,2,penta_3ras_dosis,18098,0.85
+LA GUAJIRA,21390,2,rotavirus_1ra_dosis,17400,0.81
+LA GUAJIRA,21390,2,rotavirus_2da_dosis,16676,0.78
+LA GUAJIRA,21390,2,flu_1ra_dosis,15835,0.74
+LA GUAJIRA,21390,2,flu_2da_dosis,9138,0.43
+LA GUAJIRA,21390,2,neumo_1ra_dosis,19541,0.91
+LA GUAJIRA,21390,2,neumo_2da_dosis,17803,0.83
+LA GUAJIRA,21390,2,srp_u_dosis,19502,0.91
+LA GUAJIRA,21390,2,varicela_u_dosis,19217,0.9
+LA GUAJIRA,21390,2,fa_u_dosis,13640,0.64
+LA GUAJIRA,21390,2,neumo_m12_ref,18039,0.84
+LA GUAJIRA,21390,2,vop_1er_ref,13422,0.63
+LA GUAJIRA,21390,2,dpt_1er_ref,13414,0.63
+LA GUAJIRA,21390,2,vop_2do_ref,17111,0.8
+LA GUAJIRA,21390,2,dpt_5an_2do_ref,17253,0.81
+LA GUAJIRA,21390,2,srp_5anosref,17229,0.81
+LA GUAJIRA,21390,2,tdap_unica_dosis_en_cada_embarazo,13957,0.65
+MAGDALENA,17924,2,bcg_dosis_unica,14158,0.79
+MAGDALENA,17924,2,hb_d_unica,13800,0.77
+MAGDALENA,17924,2,antipolio_1ras_dosis,16708,0.93
+MAGDALENA,17924,2,vop_3_dosis,15906,0.89
+MAGDALENA,17924,2,penta_1ras_dosis,16706,0.93
+MAGDALENA,17924,2,penta_2das_dosis,16296,0.91
+MAGDALENA,17924,2,penta_3ras_dosis,15905,0.89
+MAGDALENA,17924,2,rotavirus_1ra_dosis,16324,0.91
+MAGDALENA,17924,2,rotavirus_2da_dosis,16007,0.89
+MAGDALENA,17924,2,flu_1ra_dosis,12055,0.67
+MAGDALENA,17924,2,flu_2da_dosis,8448,0.47
+MAGDALENA,17924,2,neumo_1ra_dosis,16676,0.93
+MAGDALENA,17924,2,neumo_2da_dosis,16279,0.91
+MAGDALENA,17924,2,srp_u_dosis,16502,0.92
+MAGDALENA,17924,2,varicela_u_dosis,16419,0.92
+MAGDALENA,17924,2,fa_u_dosis,15969,0.89
+MAGDALENA,17924,2,neumo_m12_ref,16343,0.91
+MAGDALENA,17924,2,vop_1er_ref,15821,0.88
+MAGDALENA,17924,2,dpt_1er_ref,15820,0.88
+MAGDALENA,17924,2,vop_2do_ref,16777,0.94
+MAGDALENA,17924,2,dpt_5an_2do_ref,16762,0.94
+MAGDALENA,17924,2,srp_5anosref,16813,0.94
+MAGDALENA,17924,2,tdap_unica_dosis_en_cada_embarazo,13045,0.73
+SANTA MARTA,9053,2,bcg_dosis_unica,9188,1.01
+SANTA MARTA,9053,2,hb_d_unica,9080,1.0
+SANTA MARTA,9053,2,antipolio_1ras_dosis,8439,0.93
+SANTA MARTA,9053,2,vop_3_dosis,7665,0.85
+SANTA MARTA,9053,2,penta_1ras_dosis,8392,0.93
+SANTA MARTA,9053,2,penta_2das_dosis,8114,0.9
+SANTA MARTA,9053,2,penta_3ras_dosis,7574,0.84
+SANTA MARTA,9053,2,rotavirus_1ra_dosis,7837,0.87
+SANTA MARTA,9053,2,rotavirus_2da_dosis,7638,0.84
+SANTA MARTA,9053,2,flu_1ra_dosis,6235,0.69
+SANTA MARTA,9053,2,flu_2da_dosis,4125,0.46
+SANTA MARTA,9053,2,neumo_1ra_dosis,8376,0.93
+SANTA MARTA,9053,2,neumo_2da_dosis,7969,0.88
+SANTA MARTA,9053,2,srp_u_dosis,8169,0.9
+SANTA MARTA,9053,2,varicela_u_dosis,7530,0.83
+SANTA MARTA,9053,2,fa_u_dosis,6862,0.76
+SANTA MARTA,9053,2,neumo_m12_ref,7927,0.88
+SANTA MARTA,9053,2,vop_1er_ref,7173,0.79
+SANTA MARTA,9053,2,dpt_1er_ref,7272,0.8
+SANTA MARTA,9053,2,vop_2do_ref,7313,0.81
+SANTA MARTA,9053,2,dpt_5an_2do_ref,7385,0.82
+SANTA MARTA,9053,2,srp_5anosref,7172,0.79
+SANTA MARTA,9053,2,tdap_unica_dosis_en_cada_embarazo,6499,0.72
+META,16846,2,bcg_dosis_unica,15808,0.94
+META,16846,2,hb_d_unica,15869,0.94
+META,16846,2,antipolio_1ras_dosis,15088,0.9
+META,16846,2,vop_3_dosis,14676,0.87
+META,16846,2,penta_1ras_dosis,15082,0.9
+META,16846,2,penta_2das_dosis,15012,0.89
+META,16846,2,penta_3ras_dosis,14619,0.87
+META,16846,2,rotavirus_1ra_dosis,14379,0.85
+META,16846,2,rotavirus_2da_dosis,14354,0.85
+META,16846,2,flu_1ra_dosis,10865,0.64
+META,16846,2,flu_2da_dosis,8328,0.49
+META,16846,2,neumo_1ra_dosis,14501,0.86
+META,16846,2,neumo_2da_dosis,14093,0.84
+META,16846,2,srp_u_dosis,15001,0.89
+META,16846,2,varicela_u_dosis,14996,0.89
+META,16846,2,fa_u_dosis,16260,0.97
+META,16846,2,neumo_m12_ref,13539,0.8
+META,16846,2,vop_1er_ref,14312,0.85
+META,16846,2,dpt_1er_ref,14296,0.85
+META,16846,2,vop_2do_ref,15070,0.89
+META,16846,2,dpt_5an_2do_ref,15115,0.9
+META,16846,2,srp_5anosref,15024,0.89
+META,16846,2,tdap_unica_dosis_en_cada_embarazo,12387,0.74
+NARIÑO,21573,2,bcg_dosis_unica,19668,0.91
+NARIÑO,21573,2,hb_d_unica,19290,0.89
+NARIÑO,21573,2,antipolio_1ras_dosis,19338,0.9
+NARIÑO,21573,2,vop_3_dosis,19500,0.9
+NARIÑO,21573,2,penta_1ras_dosis,19382,0.9
+NARIÑO,21573,2,penta_2das_dosis,19192,0.89
+NARIÑO,21573,2,penta_3ras_dosis,19504,0.9
+NARIÑO,21573,2,rotavirus_1ra_dosis,18892,0.88
+NARIÑO,21573,2,rotavirus_2da_dosis,18885,0.88
+NARIÑO,21573,2,flu_1ra_dosis,16258,0.75
+NARIÑO,21573,2,flu_2da_dosis,12232,0.57
+NARIÑO,21573,2,neumo_1ra_dosis,19421,0.9
+NARIÑO,21573,2,neumo_2da_dosis,19526,0.91
+NARIÑO,21573,2,srp_u_dosis,19693,0.91
+NARIÑO,21573,2,varicela_u_dosis,19685,0.91
+NARIÑO,21573,2,fa_u_dosis,18253,0.85
+NARIÑO,21573,2,neumo_m12_ref,19724,0.91
+NARIÑO,21573,2,vop_1er_ref,18356,0.85
+NARIÑO,21573,2,dpt_1er_ref,18360,0.85
+NARIÑO,21573,2,vop_2do_ref,19576,0.91
+NARIÑO,21573,2,dpt_5an_2do_ref,19569,0.91
+NARIÑO,21573,2,srp_5anosref,19642,0.91
+NARIÑO,21573,2,tdap_unica_dosis_en_cada_embarazo,16518,0.77
+NORTE DE SANTANDER,23996,2,bcg_dosis_unica,21757,0.91
+NORTE DE SANTANDER,23996,2,hb_d_unica,21112,0.88
+NORTE DE SANTANDER,23996,2,antipolio_1ras_dosis,23861,0.99
+NORTE DE SANTANDER,23996,2,vop_3_dosis,24532,1.02
+NORTE DE SANTANDER,23996,2,penta_1ras_dosis,24319,1.01
+NORTE DE SANTANDER,23996,2,penta_2das_dosis,24981,1.04
+NORTE DE SANTANDER,23996,2,penta_3ras_dosis,24661,1.03
+NORTE DE SANTANDER,23996,2,rotavirus_1ra_dosis,23781,0.99
+NORTE DE SANTANDER,23996,2,rotavirus_2da_dosis,23609,0.98
+NORTE DE SANTANDER,23996,2,flu_1ra_dosis,21108,0.88
+NORTE DE SANTANDER,23996,2,flu_2da_dosis,13236,0.55
+NORTE DE SANTANDER,23996,2,neumo_1ra_dosis,28044,1.17
+NORTE DE SANTANDER,23996,2,neumo_2da_dosis,24337,1.01
+NORTE DE SANTANDER,23996,2,srp_u_dosis,23993,1.0
+NORTE DE SANTANDER,23996,2,varicela_u_dosis,24932,1.04
+NORTE DE SANTANDER,23996,2,fa_u_dosis,19094,0.8
+NORTE DE SANTANDER,23996,2,neumo_m12_ref,23226,0.97
+NORTE DE SANTANDER,23996,2,vop_1er_ref,19946,0.83
+NORTE DE SANTANDER,23996,2,dpt_1er_ref,19996,0.83
+NORTE DE SANTANDER,23996,2,vop_2do_ref,21138,0.88
+NORTE DE SANTANDER,23996,2,dpt_5an_2do_ref,21159,0.88
+NORTE DE SANTANDER,23996,2,srp_5anosref,20907,0.87
+NORTE DE SANTANDER,23996,2,tdap_unica_dosis_en_cada_embarazo,18139,0.76
+PUTUMAYO,5156,2,bcg_dosis_unica,4331,0.84
+PUTUMAYO,5156,2,hb_d_unica,4369,0.85
+PUTUMAYO,5156,2,antipolio_1ras_dosis,4786,0.93
+PUTUMAYO,5156,2,vop_3_dosis,4592,0.89
+PUTUMAYO,5156,2,penta_1ras_dosis,4787,0.93
+PUTUMAYO,5156,2,penta_2das_dosis,4682,0.91
+PUTUMAYO,5156,2,penta_3ras_dosis,4593,0.89
+PUTUMAYO,5156,2,rotavirus_1ra_dosis,4622,0.9
+PUTUMAYO,5156,2,rotavirus_2da_dosis,4555,0.88
+PUTUMAYO,5156,2,flu_1ra_dosis,3257,0.63
+PUTUMAYO,5156,2,flu_2da_dosis,2555,0.5
+PUTUMAYO,5156,2,neumo_1ra_dosis,4797,0.93
+PUTUMAYO,5156,2,neumo_2da_dosis,4692,0.91
+PUTUMAYO,5156,2,srp_u_dosis,4718,0.92
+PUTUMAYO,5156,2,varicela_u_dosis,4673,0.91
+PUTUMAYO,5156,2,fa_u_dosis,7119,1.38
+PUTUMAYO,5156,2,neumo_m12_ref,4696,0.91
+PUTUMAYO,5156,2,vop_1er_ref,4548,0.88
+PUTUMAYO,5156,2,dpt_1er_ref,4554,0.88
+PUTUMAYO,5156,2,vop_2do_ref,5240,1.02
+PUTUMAYO,5156,2,dpt_5an_2do_ref,5238,1.02
+PUTUMAYO,5156,2,srp_5anosref,5260,1.02
+PUTUMAYO,5156,2,tdap_unica_dosis_en_cada_embarazo,3984,0.77
+QUINDIO,5938,2,bcg_dosis_unica,6125,1.03
+QUINDIO,5938,2,hb_d_unica,6084,1.02
+QUINDIO,5938,2,antipolio_1ras_dosis,5681,0.96
+QUINDIO,5938,2,vop_3_dosis,5579,0.94
+QUINDIO,5938,2,penta_1ras_dosis,5690,0.96
+QUINDIO,5938,2,penta_2das_dosis,5724,0.96
+QUINDIO,5938,2,penta_3ras_dosis,5577,0.94
+QUINDIO,5938,2,rotavirus_1ra_dosis,5690,0.96
+QUINDIO,5938,2,rotavirus_2da_dosis,5732,0.97
+QUINDIO,5938,2,flu_1ra_dosis,4576,0.77
+QUINDIO,5938,2,flu_2da_dosis,3546,0.6
+QUINDIO,5938,2,neumo_1ra_dosis,5751,0.97
+QUINDIO,5938,2,neumo_2da_dosis,5774,0.97
+QUINDIO,5938,2,srp_u_dosis,5799,0.98
+QUINDIO,5938,2,varicela_u_dosis,5787,0.97
+QUINDIO,5938,2,fa_u_dosis,5562,0.94
+QUINDIO,5938,2,neumo_m12_ref,5774,0.97
+QUINDIO,5938,2,vop_1er_ref,5678,0.96
+QUINDIO,5938,2,dpt_1er_ref,5687,0.96
+QUINDIO,5938,2,vop_2do_ref,5830,0.98
+QUINDIO,5938,2,dpt_5an_2do_ref,5822,0.98
+QUINDIO,5938,2,srp_5anosref,5834,0.98
+QUINDIO,5938,2,tdap_unica_dosis_en_cada_embarazo,5200,0.88
+RISARALDA,11247,2,bcg_dosis_unica,11039,0.98
+RISARALDA,11247,2,hb_d_unica,10983,0.98
+RISARALDA,11247,2,antipolio_1ras_dosis,10418,0.93
+RISARALDA,11247,2,vop_3_dosis,10188,0.91
+RISARALDA,11247,2,penta_1ras_dosis,10427,0.93
+RISARALDA,11247,2,penta_2das_dosis,10351,0.92
+RISARALDA,11247,2,penta_3ras_dosis,10187,0.91
+RISARALDA,11247,2,rotavirus_1ra_dosis,10208,0.91
+RISARALDA,11247,2,rotavirus_2da_dosis,10169,0.9
+RISARALDA,11247,2,flu_1ra_dosis,8852,0.79
+RISARALDA,11247,2,flu_2da_dosis,6400,0.57
+RISARALDA,11247,2,neumo_1ra_dosis,10311,0.92
+RISARALDA,11247,2,neumo_2da_dosis,10246,0.91
+RISARALDA,11247,2,srp_u_dosis,10595,0.94
+RISARALDA,11247,2,varicela_u_dosis,10584,0.94
+RISARALDA,11247,2,fa_u_dosis,10047,0.89
+RISARALDA,11247,2,neumo_m12_ref,10201,0.91
+RISARALDA,11247,2,vop_1er_ref,10431,0.93
+RISARALDA,11247,2,dpt_1er_ref,10315,0.92
+RISARALDA,11247,2,vop_2do_ref,11090,0.99
+RISARALDA,11247,2,dpt_5an_2do_ref,11016,0.98
+RISARALDA,11247,2,srp_5anosref,10840,0.96
+RISARALDA,11247,2,tdap_unica_dosis_en_cada_embarazo,9239,0.82
+SAN ANDRES ISLA,911,2,bcg_dosis_unica,794,0.87
+SAN ANDRES ISLA,911,2,hb_d_unica,788,0.86
+SAN ANDRES ISLA,911,2,antipolio_1ras_dosis,820,0.9
+SAN ANDRES ISLA,911,2,vop_3_dosis,867,0.95
+SAN ANDRES ISLA,911,2,penta_1ras_dosis,823,0.9
+SAN ANDRES ISLA,911,2,penta_2das_dosis,841,0.92
+SAN ANDRES ISLA,911,2,penta_3ras_dosis,862,0.95
+SAN ANDRES ISLA,911,2,rotavirus_1ra_dosis,789,0.87
+SAN ANDRES ISLA,911,2,rotavirus_2da_dosis,825,0.91
+SAN ANDRES ISLA,911,2,flu_1ra_dosis,745,0.82
+SAN ANDRES ISLA,911,2,flu_2da_dosis,490,0.54
+SAN ANDRES ISLA,911,2,neumo_1ra_dosis,824,0.9
+SAN ANDRES ISLA,911,2,neumo_2da_dosis,850,0.93
+SAN ANDRES ISLA,911,2,srp_u_dosis,866,0.95
+SAN ANDRES ISLA,911,2,varicela_u_dosis,860,0.94
+SAN ANDRES ISLA,911,2,fa_u_dosis,735,0.81
+SAN ANDRES ISLA,911,2,neumo_m12_ref,866,0.95
+SAN ANDRES ISLA,911,2,vop_1er_ref,789,0.87
+SAN ANDRES ISLA,911,2,dpt_1er_ref,791,0.87
+SAN ANDRES ISLA,911,2,vop_2do_ref,784,0.86
+SAN ANDRES ISLA,911,2,dpt_5an_2do_ref,804,0.88
+SAN ANDRES ISLA,911,2,srp_5anosref,821,0.9
+SAN ANDRES ISLA,911,2,tdap_unica_dosis_en_cada_embarazo,735,0.81
+SANTANDER,33357,2,bcg_dosis_unica,30640,0.92
+SANTANDER,33357,2,hb_d_unica,30687,0.92
+SANTANDER,33357,2,antipolio_1ras_dosis,29175,0.87
+SANTANDER,33357,2,vop_3_dosis,29387,0.88
+SANTANDER,33357,2,penta_1ras_dosis,29504,0.88
+SANTANDER,33357,2,penta_2das_dosis,29388,0.88
+SANTANDER,33357,2,penta_3ras_dosis,29619,0.89
+SANTANDER,33357,2,rotavirus_1ra_dosis,29219,0.88
+SANTANDER,33357,2,rotavirus_2da_dosis,29164,0.87
+SANTANDER,33357,2,flu_1ra_dosis,26155,0.78
+SANTANDER,33357,2,flu_2da_dosis,20321,0.61
+SANTANDER,33357,2,neumo_1ra_dosis,29859,0.9
+SANTANDER,33357,2,neumo_2da_dosis,29736,0.89
+SANTANDER,33357,2,srp_u_dosis,29984,0.9
+SANTANDER,33357,2,varicela_u_dosis,30268,0.91
+SANTANDER,33357,2,fa_u_dosis,28308,0.85
+SANTANDER,33357,2,neumo_m12_ref,30151,0.9
+SANTANDER,33357,2,vop_1er_ref,28457,0.85
+SANTANDER,33357,2,dpt_1er_ref,28550,0.86
+SANTANDER,33357,2,vop_2do_ref,29113,0.87
+SANTANDER,33357,2,dpt_5an_2do_ref,29306,0.88
+SANTANDER,33357,2,srp_5anosref,27990,0.84
+SANTANDER,33357,2,tdap_unica_dosis_en_cada_embarazo,25680,0.77
+SUCRE,15738,2,bcg_dosis_unica,14992,0.95
+SUCRE,15738,2,hb_d_unica,14906,0.95
+SUCRE,15738,2,antipolio_1ras_dosis,15220,0.97
+SUCRE,15738,2,vop_3_dosis,14257,0.91
+SUCRE,15738,2,penta_1ras_dosis,15268,0.97
+SUCRE,15738,2,penta_2das_dosis,14755,0.94
+SUCRE,15738,2,penta_3ras_dosis,14247,0.91
+SUCRE,15738,2,rotavirus_1ra_dosis,14875,0.95
+SUCRE,15738,2,rotavirus_2da_dosis,14302,0.91
+SUCRE,15738,2,flu_1ra_dosis,10464,0.66
+SUCRE,15738,2,flu_2da_dosis,9441,0.6
+SUCRE,15738,2,neumo_1ra_dosis,15451,0.98
+SUCRE,15738,2,neumo_2da_dosis,14664,0.93
+SUCRE,15738,2,srp_u_dosis,14752,0.94
+SUCRE,15738,2,varicela_u_dosis,14361,0.91
+SUCRE,15738,2,fa_u_dosis,14108,0.9
+SUCRE,15738,2,neumo_m12_ref,14581,0.93
+SUCRE,15738,2,vop_1er_ref,14153,0.9
+SUCRE,15738,2,dpt_1er_ref,14138,0.9
+SUCRE,15738,2,vop_2do_ref,16058,1.02
+SUCRE,15738,2,dpt_5an_2do_ref,16057,1.02
+SUCRE,15738,2,srp_5anosref,16052,1.02
+SUCRE,15738,2,tdap_unica_dosis_en_cada_embarazo,13690,0.87
+TOLIMA,19010,2,bcg_dosis_unica,16503,0.87
+TOLIMA,19010,2,hb_d_unica,16267,0.86
+TOLIMA,19010,2,antipolio_1ras_dosis,17250,0.91
+TOLIMA,19010,2,vop_3_dosis,16827,0.89
+TOLIMA,19010,2,penta_1ras_dosis,17264,0.91
+TOLIMA,19010,2,penta_2das_dosis,17270,0.91
+TOLIMA,19010,2,penta_3ras_dosis,16749,0.88
+TOLIMA,19010,2,rotavirus_1ra_dosis,17147,0.9
+TOLIMA,19010,2,rotavirus_2da_dosis,17234,0.91
+TOLIMA,19010,2,flu_1ra_dosis,14310,0.75
+TOLIMA,19010,2,flu_2da_dosis,9334,0.49
+TOLIMA,19010,2,neumo_1ra_dosis,17088,0.9
+TOLIMA,19010,2,neumo_2da_dosis,17065,0.9
+TOLIMA,19010,2,srp_u_dosis,17589,0.93
+TOLIMA,19010,2,varicela_u_dosis,17083,0.9
+TOLIMA,19010,2,fa_u_dosis,16545,0.87
+TOLIMA,19010,2,neumo_m12_ref,17373,0.91
+TOLIMA,19010,2,vop_1er_ref,16889,0.89
+TOLIMA,19010,2,dpt_1er_ref,16866,0.89
+TOLIMA,19010,2,vop_2do_ref,17735,0.93
+TOLIMA,19010,2,dpt_5an_2do_ref,17696,0.93
+TOLIMA,19010,2,srp_5anosref,17519,0.92
+TOLIMA,19010,2,tdap_unica_dosis_en_cada_embarazo,14868,0.78
+VALLE DEL CAUCA,58240,2,bcg_dosis_unica,50642,0.87
+VALLE DEL CAUCA,58240,2,hb_d_unica,50588,0.87
+VALLE DEL CAUCA,58240,2,antipolio_1ras_dosis,54615,0.94
+VALLE DEL CAUCA,58240,2,vop_3_dosis,54918,0.94
+VALLE DEL CAUCA,58240,2,penta_1ras_dosis,54947,0.94
+VALLE DEL CAUCA,58240,2,penta_2das_dosis,54820,0.94
+VALLE DEL CAUCA,58240,2,penta_3ras_dosis,54670,0.94
+VALLE DEL CAUCA,58240,2,rotavirus_1ra_dosis,54573,0.94
+VALLE DEL CAUCA,58240,2,rotavirus_2da_dosis,54372,0.93
+VALLE DEL CAUCA,58240,2,flu_1ra_dosis,36587,0.63
+VALLE DEL CAUCA,58240,2,flu_2da_dosis,25972,0.45
+VALLE DEL CAUCA,58240,2,neumo_1ra_dosis,54541,0.94
+VALLE DEL CAUCA,58240,2,neumo_2da_dosis,54364,0.93
+VALLE DEL CAUCA,58240,2,srp_u_dosis,55992,0.96
+VALLE DEL CAUCA,58240,2,varicela_u_dosis,56228,0.97
+VALLE DEL CAUCA,58240,2,fa_u_dosis,54410,0.93
+VALLE DEL CAUCA,58240,2,neumo_m12_ref,55354,0.95
+VALLE DEL CAUCA,58240,2,vop_1er_ref,54461,0.94
+VALLE DEL CAUCA,58240,2,dpt_1er_ref,54693,0.94
+VALLE DEL CAUCA,58240,2,vop_2do_ref,55884,0.96
+VALLE DEL CAUCA,58240,2,dpt_5an_2do_ref,56161,0.96
+VALLE DEL CAUCA,58240,2,srp_5anosref,55916,0.96
+VALLE DEL CAUCA,58240,2,tdap_unica_dosis_en_cada_embarazo,49125,0.84
+BUENAVENTURA,6138,2,bcg_dosis_unica,4861,0.79
+BUENAVENTURA,6138,2,hb_d_unica,4590,0.75
+BUENAVENTURA,6138,2,antipolio_1ras_dosis,5004,0.82
+BUENAVENTURA,6138,2,vop_3_dosis,4009,0.65
+BUENAVENTURA,6138,2,penta_1ras_dosis,5038,0.82
+BUENAVENTURA,6138,2,penta_2das_dosis,4610,0.75
+BUENAVENTURA,6138,2,penta_3ras_dosis,4047,0.66
+BUENAVENTURA,6138,2,rotavirus_1ra_dosis,4464,0.73
+BUENAVENTURA,6138,2,rotavirus_2da_dosis,4218,0.69
+BUENAVENTURA,6138,2,flu_1ra_dosis,3503,0.57
+BUENAVENTURA,6138,2,flu_2da_dosis,2193,0.36
+BUENAVENTURA,6138,2,neumo_1ra_dosis,5036,0.82
+BUENAVENTURA,6138,2,neumo_2da_dosis,4573,0.75
+BUENAVENTURA,6138,2,srp_u_dosis,4689,0.76
+BUENAVENTURA,6138,2,varicela_u_dosis,4550,0.74
+BUENAVENTURA,6138,2,fa_u_dosis,3383,0.55
+BUENAVENTURA,6138,2,neumo_m12_ref,4521,0.74
+BUENAVENTURA,6138,2,vop_1er_ref,3592,0.59
+BUENAVENTURA,6138,2,dpt_1er_ref,3614,0.59
+BUENAVENTURA,6138,2,vop_2do_ref,4585,0.75
+BUENAVENTURA,6138,2,dpt_5an_2do_ref,4591,0.75
+BUENAVENTURA,6138,2,srp_5anosref,4504,0.73
+BUENAVENTURA,6138,2,tdap_unica_dosis_en_cada_embarazo,3952,0.64
+VAUPES,862,2,bcg_dosis_unica,716,0.83
+VAUPES,862,2,hb_d_unica,588,0.68
+VAUPES,862,2,antipolio_1ras_dosis,694,0.81
+VAUPES,862,2,vop_3_dosis,703,0.82
+VAUPES,862,2,penta_1ras_dosis,699,0.81
+VAUPES,862,2,penta_2das_dosis,639,0.74
+VAUPES,862,2,penta_3ras_dosis,694,0.81
+VAUPES,862,2,rotavirus_1ra_dosis,568,0.66
+VAUPES,862,2,rotavirus_2da_dosis,548,0.64
+VAUPES,862,2,flu_1ra_dosis,517,0.6
+VAUPES,862,2,flu_2da_dosis,263,0.31
+VAUPES,862,2,neumo_1ra_dosis,700,0.81
+VAUPES,862,2,neumo_2da_dosis,653,0.76
+VAUPES,862,2,srp_u_dosis,746,0.87
+VAUPES,862,2,varicela_u_dosis,691,0.8
+VAUPES,862,2,fa_u_dosis,765,0.89
+VAUPES,862,2,neumo_m12_ref,726,0.84
+VAUPES,862,2,vop_1er_ref,489,0.57
+VAUPES,862,2,dpt_1er_ref,490,0.57
+VAUPES,862,2,vop_2do_ref,766,0.89
+VAUPES,862,2,dpt_5an_2do_ref,767,0.89
+VAUPES,862,2,srp_5anosref,752,0.87
+VAUPES,862,2,tdap_unica_dosis_en_cada_embarazo,563,0.65
+VICHADA,1871,2,bcg_dosis_unica,1517,0.81
+VICHADA,1871,2,hb_d_unica,957,0.51
+VICHADA,1871,2,antipolio_1ras_dosis,1780,0.95
+VICHADA,1871,2,vop_3_dosis,1099,0.59
+VICHADA,1871,2,penta_1ras_dosis,1774,0.95
+VICHADA,1871,2,penta_2das_dosis,1475,0.79
+VICHADA,1871,2,penta_3ras_dosis,1099,0.59
+VICHADA,1871,2,rotavirus_1ra_dosis,1199,0.64
+VICHADA,1871,2,rotavirus_2da_dosis,1134,0.61
+VICHADA,1871,2,flu_1ra_dosis,1079,0.58
+VICHADA,1871,2,flu_2da_dosis,641,0.34
+VICHADA,1871,2,neumo_1ra_dosis,1802,0.96
+VICHADA,1871,2,neumo_2da_dosis,1407,0.75
+VICHADA,1871,2,srp_u_dosis,1665,0.89
+VICHADA,1871,2,varicela_u_dosis,1409,0.75
+VICHADA,1871,2,fa_u_dosis,2081,1.11
+VICHADA,1871,2,neumo_m12_ref,1334,0.71
+VICHADA,1871,2,vop_1er_ref,917,0.49
+VICHADA,1871,2,dpt_1er_ref,908,0.49
+VICHADA,1871,2,vop_2do_ref,1254,0.67
+VICHADA,1871,2,dpt_5an_2do_ref,1243,0.66
+VICHADA,1871,2,srp_5anosref,1161,0.62
+VICHADA,1871,2,tdap_unica_dosis_en_cada_embarazo,1031,0.55
+AMAZONAS,1761,3,bcg_dosis_unica,1510,0.86
+AMAZONAS,1761,3,hb_d_unica,1371,0.78
+AMAZONAS,1761,3,antipolio_1ras_dosis,1482,0.84
+AMAZONAS,1761,3,vop_3_dosis,1422,0.81
+AMAZONAS,1761,3,penta_1ras_dosis,1482,0.84
+AMAZONAS,1761,3,penta_2das_dosis,1454,0.83
+AMAZONAS,1761,3,penta_3ras_dosis,1429,0.81
+AMAZONAS,1761,3,rotavirus_1ra_dosis,1374,0.78
+AMAZONAS,1761,3,rotavirus_2da_dosis,1382,0.78
+AMAZONAS,1761,3,flu_1ra_dosis,1364,0.77
+AMAZONAS,1761,3,flu_2da_dosis,1107,0.63
+AMAZONAS,1761,3,neumo_1ra_dosis,1477,0.84
+AMAZONAS,1761,3,neumo_2da_dosis,1459,0.83
+AMAZONAS,1761,3,srp_u_dosis,1550,0.88
+AMAZONAS,1761,3,varicela_u_dosis,1515,0.86
+AMAZONAS,1761,3,fa_u_dosis,1579,0.9
+AMAZONAS,1761,3,neumo_m12_ref,1541,0.88
+AMAZONAS,1761,3,vop_1er_ref,1374,0.78
+AMAZONAS,1761,3,dpt_1er_ref,1375,0.78
+AMAZONAS,1761,3,vop_2do_ref,1390,0.79
+AMAZONAS,1761,3,dpt_5an_2do_ref,1388,0.79
+AMAZONAS,1761,3,srp_5anosref,1385,0.79
+AMAZONAS,1761,3,tdap_unica_dosis_en_cada_embarazo,1093,0.62
+ANTIOQUIA,80134,3,bcg_dosis_unica,74320,0.93
+ANTIOQUIA,80134,3,hb_d_unica,73602,0.92
+ANTIOQUIA,80134,3,antipolio_1ras_dosis,74066,0.92
+ANTIOQUIA,80134,3,vop_3_dosis,73627,0.92
+ANTIOQUIA,80134,3,penta_1ras_dosis,74116,0.92
+ANTIOQUIA,80134,3,penta_2das_dosis,74138,0.93
+ANTIOQUIA,80134,3,penta_3ras_dosis,73535,0.92
+ANTIOQUIA,80134,3,rotavirus_1ra_dosis,70602,0.88
+ANTIOQUIA,80134,3,rotavirus_2da_dosis,71135,0.89
+ANTIOQUIA,80134,3,flu_1ra_dosis,67178,0.84
+ANTIOQUIA,80134,3,flu_2da_dosis,53732,0.67
+ANTIOQUIA,80134,3,neumo_1ra_dosis,74727,0.93
+ANTIOQUIA,80134,3,neumo_2da_dosis,74348,0.93
+ANTIOQUIA,80134,3,srp_u_dosis,76809,0.96
+ANTIOQUIA,80134,3,varicela_u_dosis,76708,0.96
+ANTIOQUIA,80134,3,fa_u_dosis,68839,0.86
+ANTIOQUIA,80134,3,neumo_m12_ref,75827,0.95
+ANTIOQUIA,80134,3,vop_1er_ref,69119,0.86
+ANTIOQUIA,80134,3,dpt_1er_ref,69072,0.86
+ANTIOQUIA,80134,3,vop_2do_ref,73528,0.92
+ANTIOQUIA,80134,3,dpt_5an_2do_ref,73627,0.92
+ANTIOQUIA,80134,3,srp_5anosref,74051,0.92
+ANTIOQUIA,80134,3,tdap_unica_dosis_en_cada_embarazo,65047,0.81
+ARAUCA,4629,3,bcg_dosis_unica,5195,1.12
+ARAUCA,4629,3,hb_d_unica,5087,1.1
+ARAUCA,4629,3,antipolio_1ras_dosis,5005,1.08
+ARAUCA,4629,3,vop_3_dosis,4843,1.05
+ARAUCA,4629,3,penta_1ras_dosis,5008,1.08
+ARAUCA,4629,3,penta_2das_dosis,4909,1.06
+ARAUCA,4629,3,penta_3ras_dosis,4846,1.05
+ARAUCA,4629,3,rotavirus_1ra_dosis,4868,1.05
+ARAUCA,4629,3,rotavirus_2da_dosis,4725,1.02
+ARAUCA,4629,3,flu_1ra_dosis,4138,0.89
+ARAUCA,4629,3,flu_2da_dosis,3075,0.66
+ARAUCA,4629,3,neumo_1ra_dosis,5153,1.11
+ARAUCA,4629,3,neumo_2da_dosis,4940,1.07
+ARAUCA,4629,3,srp_u_dosis,4997,1.08
+ARAUCA,4629,3,varicela_u_dosis,5041,1.09
+ARAUCA,4629,3,fa_u_dosis,5120,1.11
+ARAUCA,4629,3,neumo_m12_ref,4852,1.05
+ARAUCA,4629,3,vop_1er_ref,4348,0.94
+ARAUCA,4629,3,dpt_1er_ref,4346,0.94
+ARAUCA,4629,3,vop_2do_ref,4471,0.97
+ARAUCA,4629,3,dpt_5an_2do_ref,4497,0.97
+ARAUCA,4629,3,srp_5anosref,4491,0.97
+ARAUCA,4629,3,tdap_unica_dosis_en_cada_embarazo,4181,0.9
+ATLANTICO,21092,3,bcg_dosis_unica,20272,0.96
+ATLANTICO,21092,3,hb_d_unica,19429,0.92
+ATLANTICO,21092,3,antipolio_1ras_dosis,19795,0.94
+ATLANTICO,21092,3,vop_3_dosis,21146,1.0
+ATLANTICO,21092,3,penta_1ras_dosis,19715,0.93
+ATLANTICO,21092,3,penta_2das_dosis,19993,0.95
+ATLANTICO,21092,3,penta_3ras_dosis,21135,1.0
+ATLANTICO,21092,3,rotavirus_1ra_dosis,19087,0.9
+ATLANTICO,21092,3,rotavirus_2da_dosis,20848,0.99
+ATLANTICO,21092,3,flu_1ra_dosis,17941,0.85
+ATLANTICO,21092,3,flu_2da_dosis,11704,0.55
+ATLANTICO,21092,3,neumo_1ra_dosis,19081,0.9
+ATLANTICO,21092,3,neumo_2da_dosis,20741,0.98
+ATLANTICO,21092,3,srp_u_dosis,21438,1.02
+ATLANTICO,21092,3,varicela_u_dosis,21677,1.03
+ATLANTICO,21092,3,fa_u_dosis,20094,0.95
+ATLANTICO,21092,3,neumo_m12_ref,21105,1.0
+ATLANTICO,21092,3,vop_1er_ref,19874,0.94
+ATLANTICO,21092,3,dpt_1er_ref,19930,0.94
+ATLANTICO,21092,3,vop_2do_ref,20911,0.99
+ATLANTICO,21092,3,dpt_5an_2do_ref,20898,0.99
+ATLANTICO,21092,3,srp_5anosref,20960,0.99
+ATLANTICO,21092,3,tdap_unica_dosis_en_cada_embarazo,16064,0.76
+BARRANQUILLA,21844,3,bcg_dosis_unica,21589,0.99
+BARRANQUILLA,21844,3,hb_d_unica,21588,0.99
+BARRANQUILLA,21844,3,antipolio_1ras_dosis,21352,0.98
+BARRANQUILLA,21844,3,vop_3_dosis,20957,0.96
+BARRANQUILLA,21844,3,penta_1ras_dosis,21321,0.98
+BARRANQUILLA,21844,3,penta_2das_dosis,20980,0.96
+BARRANQUILLA,21844,3,penta_3ras_dosis,21058,0.96
+BARRANQUILLA,21844,3,rotavirus_1ra_dosis,21271,0.97
+BARRANQUILLA,21844,3,rotavirus_2da_dosis,20811,0.95
+BARRANQUILLA,21844,3,flu_1ra_dosis,20227,0.93
+BARRANQUILLA,21844,3,flu_2da_dosis,14064,0.64
+BARRANQUILLA,21844,3,neumo_1ra_dosis,21715,0.99
+BARRANQUILLA,21844,3,neumo_2da_dosis,21330,0.98
+BARRANQUILLA,21844,3,srp_u_dosis,22021,1.01
+BARRANQUILLA,21844,3,varicela_u_dosis,21720,0.99
+BARRANQUILLA,21844,3,fa_u_dosis,21025,0.96
+BARRANQUILLA,21844,3,neumo_m12_ref,21502,0.98
+BARRANQUILLA,21844,3,vop_1er_ref,20985,0.96
+BARRANQUILLA,21844,3,dpt_1er_ref,21087,0.97
+BARRANQUILLA,21844,3,vop_2do_ref,22355,1.02
+BARRANQUILLA,21844,3,dpt_5an_2do_ref,22370,1.02
+BARRANQUILLA,21844,3,srp_5anosref,22347,1.02
+BARRANQUILLA,21844,3,tdap_unica_dosis_en_cada_embarazo,17656,0.81
+BOGOTA D.C.,105191,3,bcg_dosis_unica,101990,0.97
+BOGOTA D.C.,105191,3,hb_d_unica,102118,0.97
+BOGOTA D.C.,105191,3,antipolio_1ras_dosis,88109,0.84
+BOGOTA D.C.,105191,3,vop_3_dosis,90247,0.86
+BOGOTA D.C.,105191,3,penta_1ras_dosis,87999,0.84
+BOGOTA D.C.,105191,3,penta_2das_dosis,89256,0.85
+BOGOTA D.C.,105191,3,penta_3ras_dosis,90293,0.86
+BOGOTA D.C.,105191,3,rotavirus_1ra_dosis,86624,0.82
+BOGOTA D.C.,105191,3,rotavirus_2da_dosis,87097,0.83
+BOGOTA D.C.,105191,3,flu_1ra_dosis,61012,0.58
+BOGOTA D.C.,105191,3,flu_2da_dosis,44525,0.42
+BOGOTA D.C.,105191,3,neumo_1ra_dosis,89852,0.85
+BOGOTA D.C.,105191,3,neumo_2da_dosis,90885,0.86
+BOGOTA D.C.,105191,3,srp_u_dosis,94619,0.9
+BOGOTA D.C.,105191,3,varicela_u_dosis,95189,0.9
+BOGOTA D.C.,105191,3,fa_u_dosis,84108,0.8
+BOGOTA D.C.,105191,3,neumo_m12_ref,92243,0.88
+BOGOTA D.C.,105191,3,vop_1er_ref,85234,0.81
+BOGOTA D.C.,105191,3,dpt_1er_ref,85283,0.81
+BOGOTA D.C.,105191,3,vop_2do_ref,93458,0.89
+BOGOTA D.C.,105191,3,dpt_5an_2do_ref,93544,0.89
+BOGOTA D.C.,105191,3,srp_5anosref,94598,0.9
+BOGOTA D.C.,105191,3,tdap_unica_dosis_en_cada_embarazo,83019,0.79
+BOLIVAR,21923,3,bcg_dosis_unica,10641,0.49
+BOLIVAR,21923,3,hb_d_unica,10193,0.46
+BOLIVAR,21923,3,antipolio_1ras_dosis,18532,0.85
+BOLIVAR,21923,3,vop_3_dosis,18825,0.86
+BOLIVAR,21923,3,penta_1ras_dosis,18391,0.84
+BOLIVAR,21923,3,penta_2das_dosis,18660,0.85
+BOLIVAR,21923,3,penta_3ras_dosis,18767,0.86
+BOLIVAR,21923,3,rotavirus_1ra_dosis,17806,0.81
+BOLIVAR,21923,3,rotavirus_2da_dosis,17887,0.82
+BOLIVAR,21923,3,flu_1ra_dosis,17900,0.82
+BOLIVAR,21923,3,flu_2da_dosis,13075,0.6
+BOLIVAR,21923,3,neumo_1ra_dosis,18754,0.86
+BOLIVAR,21923,3,neumo_2da_dosis,19065,0.87
+BOLIVAR,21923,3,srp_u_dosis,20020,0.91
+BOLIVAR,21923,3,varicela_u_dosis,19970,0.91
+BOLIVAR,21923,3,fa_u_dosis,16338,0.75
+BOLIVAR,21923,3,neumo_m12_ref,19829,0.9
+BOLIVAR,21923,3,vop_1er_ref,17751,0.81
+BOLIVAR,21923,3,dpt_1er_ref,17907,0.82
+BOLIVAR,21923,3,vop_2do_ref,18549,0.85
+BOLIVAR,21923,3,dpt_5an_2do_ref,18859,0.86
+BOLIVAR,21923,3,srp_5anosref,18407,0.84
+BOLIVAR,21923,3,tdap_unica_dosis_en_cada_embarazo,15716,0.72
+CARTAGENA,19588,3,bcg_dosis_unica,19157,0.98
+CARTAGENA,19588,3,hb_d_unica,19154,0.98
+CARTAGENA,19588,3,antipolio_1ras_dosis,18117,0.92
+CARTAGENA,19588,3,vop_3_dosis,17605,0.9
+CARTAGENA,19588,3,penta_1ras_dosis,18207,0.93
+CARTAGENA,19588,3,penta_2das_dosis,18095,0.92
+CARTAGENA,19588,3,penta_3ras_dosis,17604,0.9
+CARTAGENA,19588,3,rotavirus_1ra_dosis,17534,0.9
+CARTAGENA,19588,3,rotavirus_2da_dosis,17398,0.89
+CARTAGENA,19588,3,flu_1ra_dosis,15277,0.78
+CARTAGENA,19588,3,flu_2da_dosis,11695,0.6
+CARTAGENA,19588,3,neumo_1ra_dosis,19612,1.0
+CARTAGENA,19588,3,neumo_2da_dosis,18949,0.97
+CARTAGENA,19588,3,srp_u_dosis,19222,0.98
+CARTAGENA,19588,3,varicela_u_dosis,19048,0.97
+CARTAGENA,19588,3,fa_u_dosis,15356,0.78
+CARTAGENA,19588,3,neumo_m12_ref,19055,0.97
+CARTAGENA,19588,3,vop_1er_ref,15373,0.78
+CARTAGENA,19588,3,dpt_1er_ref,15394,0.79
+CARTAGENA,19588,3,vop_2do_ref,16901,0.86
+CARTAGENA,19588,3,dpt_5an_2do_ref,16911,0.86
+CARTAGENA,19588,3,srp_5anosref,17150,0.88
+CARTAGENA,19588,3,tdap_unica_dosis_en_cada_embarazo,15634,0.8
+BOYACA,15751,3,bcg_dosis_unica,13822,0.88
+BOYACA,15751,3,hb_d_unica,13737,0.87
+BOYACA,15751,3,antipolio_1ras_dosis,14420,0.92
+BOYACA,15751,3,vop_3_dosis,14643,0.93
+BOYACA,15751,3,penta_1ras_dosis,14422,0.92
+BOYACA,15751,3,penta_2das_dosis,14452,0.92
+BOYACA,15751,3,penta_3ras_dosis,14639,0.93
+BOYACA,15751,3,rotavirus_1ra_dosis,14301,0.91
+BOYACA,15751,3,rotavirus_2da_dosis,14350,0.91
+BOYACA,15751,3,flu_1ra_dosis,13105,0.83
+BOYACA,15751,3,flu_2da_dosis,12075,0.77
+BOYACA,15751,3,neumo_1ra_dosis,14445,0.92
+BOYACA,15751,3,neumo_2da_dosis,14489,0.92
+BOYACA,15751,3,srp_u_dosis,15240,0.97
+BOYACA,15751,3,varicela_u_dosis,15221,0.97
+BOYACA,15751,3,fa_u_dosis,14912,0.95
+BOYACA,15751,3,neumo_m12_ref,15164,0.96
+BOYACA,15751,3,vop_1er_ref,14863,0.94
+BOYACA,15751,3,dpt_1er_ref,14860,0.94
+BOYACA,15751,3,vop_2do_ref,16570,1.05
+BOYACA,15751,3,dpt_5an_2do_ref,16569,1.05
+BOYACA,15751,3,srp_5anosref,16603,1.05
+BOYACA,15751,3,tdap_unica_dosis_en_cada_embarazo,12577,0.8
+CALDAS,10331,3,bcg_dosis_unica,8759,0.85
+CALDAS,10331,3,hb_d_unica,8686,0.84
+CALDAS,10331,3,antipolio_1ras_dosis,8882,0.86
+CALDAS,10331,3,vop_3_dosis,9887,0.96
+CALDAS,10331,3,penta_1ras_dosis,8780,0.85
+CALDAS,10331,3,penta_2das_dosis,8909,0.86
+CALDAS,10331,3,penta_3ras_dosis,9848,0.95
+CALDAS,10331,3,rotavirus_1ra_dosis,8767,0.85
+CALDAS,10331,3,rotavirus_2da_dosis,9491,0.92
+CALDAS,10331,3,flu_1ra_dosis,8424,0.82
+CALDAS,10331,3,flu_2da_dosis,7074,0.68
+CALDAS,10331,3,neumo_1ra_dosis,8844,0.86
+CALDAS,10331,3,neumo_2da_dosis,9892,0.96
+CALDAS,10331,3,srp_u_dosis,9994,0.97
+CALDAS,10331,3,varicela_u_dosis,9981,0.97
+CALDAS,10331,3,fa_u_dosis,9632,0.93
+CALDAS,10331,3,neumo_m12_ref,9800,0.95
+CALDAS,10331,3,vop_1er_ref,9022,0.87
+CALDAS,10331,3,dpt_1er_ref,9124,0.88
+CALDAS,10331,3,vop_2do_ref,9641,0.93
+CALDAS,10331,3,dpt_5an_2do_ref,9738,0.94
+CALDAS,10331,3,srp_5anosref,9018,0.87
+CALDAS,10331,3,tdap_unica_dosis_en_cada_embarazo,11263,1.09
+CAQUETA,7870,3,bcg_dosis_unica,7285,0.93
+CAQUETA,7870,3,hb_d_unica,7070,0.9
+CAQUETA,7870,3,antipolio_1ras_dosis,7177,0.91
+CAQUETA,7870,3,vop_3_dosis,6819,0.87
+CAQUETA,7870,3,penta_1ras_dosis,7177,0.91
+CAQUETA,7870,3,penta_2das_dosis,7044,0.9
+CAQUETA,7870,3,penta_3ras_dosis,6823,0.87
+CAQUETA,7870,3,rotavirus_1ra_dosis,6747,0.86
+CAQUETA,7870,3,rotavirus_2da_dosis,6738,0.86
+CAQUETA,7870,3,flu_1ra_dosis,6646,0.84
+CAQUETA,7870,3,flu_2da_dosis,5157,0.66
+CAQUETA,7870,3,neumo_1ra_dosis,7185,0.91
+CAQUETA,7870,3,neumo_2da_dosis,7046,0.9
+CAQUETA,7870,3,srp_u_dosis,7325,0.93
+CAQUETA,7870,3,varicela_u_dosis,7315,0.93
+CAQUETA,7870,3,fa_u_dosis,7635,0.97
+CAQUETA,7870,3,neumo_m12_ref,7160,0.91
+CAQUETA,7870,3,vop_1er_ref,6216,0.79
+CAQUETA,7870,3,dpt_1er_ref,6216,0.79
+CAQUETA,7870,3,vop_2do_ref,7022,0.89
+CAQUETA,7870,3,dpt_5an_2do_ref,7021,0.89
+CAQUETA,7870,3,srp_5anosref,7076,0.9
+CAQUETA,7870,3,tdap_unica_dosis_en_cada_embarazo,6217,0.79
+CASANARE,7411,3,bcg_dosis_unica,6053,0.82
+CASANARE,7411,3,hb_d_unica,5982,0.81
+CASANARE,7411,3,antipolio_1ras_dosis,6461,0.87
+CASANARE,7411,3,vop_3_dosis,6500,0.88
+CASANARE,7411,3,penta_1ras_dosis,6471,0.87
+CASANARE,7411,3,penta_2das_dosis,6601,0.89
+CASANARE,7411,3,penta_3ras_dosis,6497,0.88
+CASANARE,7411,3,rotavirus_1ra_dosis,6405,0.86
+CASANARE,7411,3,rotavirus_2da_dosis,6533,0.88
+CASANARE,7411,3,flu_1ra_dosis,6287,0.85
+CASANARE,7411,3,flu_2da_dosis,5203,0.7
+CASANARE,7411,3,neumo_1ra_dosis,6469,0.87
+CASANARE,7411,3,neumo_2da_dosis,6565,0.89
+CASANARE,7411,3,srp_u_dosis,6835,0.92
+CASANARE,7411,3,varicela_u_dosis,6827,0.92
+CASANARE,7411,3,fa_u_dosis,7037,0.95
+CASANARE,7411,3,neumo_m12_ref,6846,0.92
+CASANARE,7411,3,vop_1er_ref,6613,0.89
+CASANARE,7411,3,dpt_1er_ref,6612,0.89
+CASANARE,7411,3,vop_2do_ref,7057,0.95
+CASANARE,7411,3,dpt_5an_2do_ref,7056,0.95
+CASANARE,7411,3,srp_5anosref,7055,0.95
+CASANARE,7411,3,tdap_unica_dosis_en_cada_embarazo,5460,0.74
+CAUCA,22724,3,bcg_dosis_unica,16596,0.73
+CAUCA,22724,3,hb_d_unica,16216,0.71
+CAUCA,22724,3,antipolio_1ras_dosis,19546,0.86
+CAUCA,22724,3,vop_3_dosis,20543,0.9
+CAUCA,22724,3,penta_1ras_dosis,19548,0.86
+CAUCA,22724,3,penta_2das_dosis,19797,0.87
+CAUCA,22724,3,penta_3ras_dosis,20547,0.9
+CAUCA,22724,3,rotavirus_1ra_dosis,19020,0.84
+CAUCA,22724,3,rotavirus_2da_dosis,19352,0.85
+CAUCA,22724,3,flu_1ra_dosis,18890,0.83
+CAUCA,22724,3,flu_2da_dosis,14340,0.63
+CAUCA,22724,3,neumo_1ra_dosis,19571,0.86
+CAUCA,22724,3,neumo_2da_dosis,19960,0.88
+CAUCA,22724,3,srp_u_dosis,21279,0.94
+CAUCA,22724,3,varicela_u_dosis,21097,0.93
+CAUCA,22724,3,fa_u_dosis,18806,0.83
+CAUCA,22724,3,neumo_m12_ref,21362,0.94
+CAUCA,22724,3,vop_1er_ref,18884,0.83
+CAUCA,22724,3,dpt_1er_ref,18896,0.83
+CAUCA,22724,3,vop_2do_ref,20863,0.92
+CAUCA,22724,3,dpt_5an_2do_ref,20845,0.92
+CAUCA,22724,3,srp_5anosref,20858,0.92
+CAUCA,22724,3,tdap_unica_dosis_en_cada_embarazo,16179,0.71
+CESAR,23773,3,bcg_dosis_unica,22214,0.93
+CESAR,23773,3,hb_d_unica,21469,0.9
+CESAR,23773,3,antipolio_1ras_dosis,23437,0.99
+CESAR,23773,3,vop_3_dosis,22560,0.95
+CESAR,23773,3,penta_1ras_dosis,23433,0.99
+CESAR,23773,3,penta_2das_dosis,23095,0.97
+CESAR,23773,3,penta_3ras_dosis,22573,0.95
+CESAR,23773,3,rotavirus_1ra_dosis,21520,0.91
+CESAR,23773,3,rotavirus_2da_dosis,20946,0.88
+CESAR,23773,3,flu_1ra_dosis,20959,0.88
+CESAR,23773,3,flu_2da_dosis,15682,0.66
+CESAR,23773,3,neumo_1ra_dosis,25013,1.05
+CESAR,23773,3,neumo_2da_dosis,23750,1.0
+CESAR,23773,3,srp_u_dosis,24429,1.03
+CESAR,23773,3,varicela_u_dosis,24178,1.02
+CESAR,23773,3,fa_u_dosis,21647,0.91
+CESAR,23773,3,neumo_m12_ref,23830,1.0
+CESAR,23773,3,vop_1er_ref,20559,0.86
+CESAR,23773,3,dpt_1er_ref,20519,0.86
+CESAR,23773,3,vop_2do_ref,22543,0.95
+CESAR,23773,3,dpt_5an_2do_ref,22464,0.94
+CESAR,23773,3,srp_5anosref,22564,0.95
+CESAR,23773,3,tdap_unica_dosis_en_cada_embarazo,20879,0.88
+CHOCO,11304,3,bcg_dosis_unica,9441,0.84
+CHOCO,11304,3,hb_d_unica,7096,0.63
+CHOCO,11304,3,antipolio_1ras_dosis,10886,0.96
+CHOCO,11304,3,vop_3_dosis,9192,0.81
+CHOCO,11304,3,penta_1ras_dosis,10889,0.96
+CHOCO,11304,3,penta_2das_dosis,10000,0.88
+CHOCO,11304,3,penta_3ras_dosis,9199,0.81
+CHOCO,11304,3,rotavirus_1ra_dosis,8622,0.76
+CHOCO,11304,3,rotavirus_2da_dosis,8446,0.75
+CHOCO,11304,3,flu_1ra_dosis,9353,0.83
+CHOCO,11304,3,flu_2da_dosis,5556,0.49
+CHOCO,11304,3,neumo_1ra_dosis,10798,0.96
+CHOCO,11304,3,neumo_2da_dosis,9948,0.88
+CHOCO,11304,3,srp_u_dosis,10747,0.95
+CHOCO,11304,3,varicela_u_dosis,10841,0.96
+CHOCO,11304,3,fa_u_dosis,11099,0.98
+CHOCO,11304,3,neumo_m12_ref,10169,0.9
+CHOCO,11304,3,vop_1er_ref,6780,0.6
+CHOCO,11304,3,dpt_1er_ref,6781,0.6
+CHOCO,11304,3,vop_2do_ref,8816,0.78
+CHOCO,11304,3,dpt_5an_2do_ref,8815,0.78
+CHOCO,11304,3,srp_5anosref,8878,0.79
+CHOCO,11304,3,tdap_unica_dosis_en_cada_embarazo,6937,0.61
+CORDOBA,32140,3,bcg_dosis_unica,26796,0.83
+CORDOBA,32140,3,hb_d_unica,26063,0.81
+CORDOBA,32140,3,antipolio_1ras_dosis,27894,0.87
+CORDOBA,32140,3,vop_3_dosis,27831,0.87
+CORDOBA,32140,3,penta_1ras_dosis,27829,0.87
+CORDOBA,32140,3,penta_2das_dosis,27914,0.87
+CORDOBA,32140,3,penta_3ras_dosis,27811,0.87
+CORDOBA,32140,3,rotavirus_1ra_dosis,27204,0.85
+CORDOBA,32140,3,rotavirus_2da_dosis,27417,0.85
+CORDOBA,32140,3,flu_1ra_dosis,26537,0.83
+CORDOBA,32140,3,flu_2da_dosis,20960,0.65
+CORDOBA,32140,3,neumo_1ra_dosis,27915,0.87
+CORDOBA,32140,3,neumo_2da_dosis,27938,0.87
+CORDOBA,32140,3,srp_u_dosis,29019,0.9
+CORDOBA,32140,3,varicela_u_dosis,28999,0.9
+CORDOBA,32140,3,fa_u_dosis,27002,0.84
+CORDOBA,32140,3,neumo_m12_ref,28682,0.89
+CORDOBA,32140,3,vop_1er_ref,26943,0.84
+CORDOBA,32140,3,dpt_1er_ref,27030,0.84
+CORDOBA,32140,3,vop_2do_ref,28619,0.89
+CORDOBA,32140,3,dpt_5an_2do_ref,28658,0.89
+CORDOBA,32140,3,srp_5anosref,28656,0.89
+CORDOBA,32140,3,tdap_unica_dosis_en_cada_embarazo,24452,0.76
+CUNDINAMARCA,36013,3,bcg_dosis_unica,17249,0.48
+CUNDINAMARCA,36013,3,hb_d_unica,17132,0.48
+CUNDINAMARCA,36013,3,antipolio_1ras_dosis,31368,0.87
+CUNDINAMARCA,36013,3,vop_3_dosis,33684,0.94
+CUNDINAMARCA,36013,3,penta_1ras_dosis,31361,0.87
+CUNDINAMARCA,36013,3,penta_2das_dosis,32643,0.91
+CUNDINAMARCA,36013,3,penta_3ras_dosis,33683,0.94
+CUNDINAMARCA,36013,3,rotavirus_1ra_dosis,31053,0.86
+CUNDINAMARCA,36013,3,rotavirus_2da_dosis,32361,0.9
+CUNDINAMARCA,36013,3,flu_1ra_dosis,29321,0.81
+CUNDINAMARCA,36013,3,flu_2da_dosis,20636,0.57
+CUNDINAMARCA,36013,3,neumo_1ra_dosis,31528,0.88
+CUNDINAMARCA,36013,3,neumo_2da_dosis,32691,0.91
+CUNDINAMARCA,36013,3,srp_u_dosis,35425,0.98
+CUNDINAMARCA,36013,3,varicela_u_dosis,35601,0.99
+CUNDINAMARCA,36013,3,fa_u_dosis,32690,0.91
+CUNDINAMARCA,36013,3,neumo_m12_ref,35324,0.98
+CUNDINAMARCA,36013,3,vop_1er_ref,32802,0.91
+CUNDINAMARCA,36013,3,dpt_1er_ref,32850,0.91
+CUNDINAMARCA,36013,3,vop_2do_ref,35614,0.99
+CUNDINAMARCA,36013,3,dpt_5an_2do_ref,35720,0.99
+CUNDINAMARCA,36013,3,srp_5anosref,35729,0.99
+CUNDINAMARCA,36013,3,tdap_unica_dosis_en_cada_embarazo,25694,0.71
+GUAINIA,884,3,bcg_dosis_unica,1048,1.19
+GUAINIA,884,3,hb_d_unica,868,0.98
+GUAINIA,884,3,antipolio_1ras_dosis,1034,1.17
+GUAINIA,884,3,vop_3_dosis,893,1.01
+GUAINIA,884,3,penta_1ras_dosis,1033,1.17
+GUAINIA,884,3,penta_2das_dosis,943,1.07
+GUAINIA,884,3,penta_3ras_dosis,893,1.01
+GUAINIA,884,3,rotavirus_1ra_dosis,822,0.93
+GUAINIA,884,3,rotavirus_2da_dosis,789,0.89
+GUAINIA,884,3,flu_1ra_dosis,790,0.89
+GUAINIA,884,3,flu_2da_dosis,552,0.62
+GUAINIA,884,3,neumo_1ra_dosis,1044,1.18
+GUAINIA,884,3,neumo_2da_dosis,938,1.06
+GUAINIA,884,3,srp_u_dosis,1032,1.17
+GUAINIA,884,3,varicela_u_dosis,1019,1.15
+GUAINIA,884,3,fa_u_dosis,1045,1.18
+GUAINIA,884,3,neumo_m12_ref,946,1.07
+GUAINIA,884,3,vop_1er_ref,648,0.73
+GUAINIA,884,3,dpt_1er_ref,649,0.73
+GUAINIA,884,3,vop_2do_ref,828,0.94
+GUAINIA,884,3,dpt_5an_2do_ref,830,0.94
+GUAINIA,884,3,srp_5anosref,847,0.96
+GUAINIA,884,3,tdap_unica_dosis_en_cada_embarazo,681,0.77
+GUAVIARE,1386,3,bcg_dosis_unica,1331,0.96
+GUAVIARE,1386,3,hb_d_unica,1296,0.94
+GUAVIARE,1386,3,antipolio_1ras_dosis,1322,0.95
+GUAVIARE,1386,3,vop_3_dosis,1368,0.99
+GUAVIARE,1386,3,penta_1ras_dosis,1322,0.95
+GUAVIARE,1386,3,penta_2das_dosis,1340,0.97
+GUAVIARE,1386,3,penta_3ras_dosis,1370,0.99
+GUAVIARE,1386,3,rotavirus_1ra_dosis,1261,0.91
+GUAVIARE,1386,3,rotavirus_2da_dosis,1285,0.93
+GUAVIARE,1386,3,flu_1ra_dosis,1000,0.72
+GUAVIARE,1386,3,flu_2da_dosis,884,0.64
+GUAVIARE,1386,3,neumo_1ra_dosis,1328,0.96
+GUAVIARE,1386,3,neumo_2da_dosis,1357,0.98
+GUAVIARE,1386,3,srp_u_dosis,1403,1.01
+GUAVIARE,1386,3,varicela_u_dosis,1410,1.02
+GUAVIARE,1386,3,fa_u_dosis,1435,1.04
+GUAVIARE,1386,3,neumo_m12_ref,1419,1.02
+GUAVIARE,1386,3,vop_1er_ref,1220,0.88
+GUAVIARE,1386,3,dpt_1er_ref,1221,0.88
+GUAVIARE,1386,3,vop_2do_ref,1336,0.96
+GUAVIARE,1386,3,dpt_5an_2do_ref,1336,0.96
+GUAVIARE,1386,3,srp_5anosref,1343,0.97
+GUAVIARE,1386,3,tdap_unica_dosis_en_cada_embarazo,1183,0.85
+HUILA,20502,3,bcg_dosis_unica,19127,0.93
+HUILA,20502,3,hb_d_unica,19130,0.93
+HUILA,20502,3,antipolio_1ras_dosis,18631,0.91
+HUILA,20502,3,vop_3_dosis,18544,0.9
+HUILA,20502,3,penta_1ras_dosis,18627,0.91
+HUILA,20502,3,penta_2das_dosis,18699,0.91
+HUILA,20502,3,penta_3ras_dosis,18541,0.9
+HUILA,20502,3,rotavirus_1ra_dosis,18406,0.9
+HUILA,20502,3,rotavirus_2da_dosis,18514,0.9
+HUILA,20502,3,flu_1ra_dosis,16158,0.79
+HUILA,20502,3,flu_2da_dosis,13220,0.64
+HUILA,20502,3,neumo_1ra_dosis,18614,0.91
+HUILA,20502,3,neumo_2da_dosis,18676,0.91
+HUILA,20502,3,srp_u_dosis,19559,0.95
+HUILA,20502,3,varicela_u_dosis,19414,0.95
+HUILA,20502,3,fa_u_dosis,18310,0.89
+HUILA,20502,3,neumo_m12_ref,19414,0.95
+HUILA,20502,3,vop_1er_ref,18483,0.9
+HUILA,20502,3,dpt_1er_ref,18478,0.9
+HUILA,20502,3,vop_2do_ref,19904,0.97
+HUILA,20502,3,dpt_5an_2do_ref,19907,0.97
+HUILA,20502,3,srp_5anosref,19935,0.97
+HUILA,20502,3,tdap_unica_dosis_en_cada_embarazo,16948,0.83
+LA_GUAJIRA,21574,3,bcg_dosis_unica,21362,0.99
+LA_GUAJIRA,21574,3,hb_d_unica,19727,0.91
+LA_GUAJIRA,21574,3,antipolio_1ras_dosis,21130,0.98
+LA_GUAJIRA,21574,3,vop_3_dosis,19098,0.89
+LA_GUAJIRA,21574,3,penta_1ras_dosis,21134,0.98
+LA_GUAJIRA,21574,3,penta_2das_dosis,19525,0.91
+LA_GUAJIRA,21574,3,penta_3ras_dosis,19096,0.89
+LA_GUAJIRA,21574,3,rotavirus_1ra_dosis,18444,0.85
+LA_GUAJIRA,21574,3,rotavirus_2da_dosis,17678,0.82
+LA_GUAJIRA,21574,3,flu_1ra_dosis,18662,0.87
+LA_GUAJIRA,21574,3,flu_2da_dosis,12509,0.58
+LA_GUAJIRA,21574,3,neumo_1ra_dosis,21873,1.01
+LA_GUAJIRA,21574,3,neumo_2da_dosis,19797,0.92
+LA_GUAJIRA,21574,3,srp_u_dosis,20981,0.97
+LA_GUAJIRA,21574,3,varicela_u_dosis,20701,0.96
+LA_GUAJIRA,21574,3,fa_u_dosis,14063,0.65
+LA_GUAJIRA,21574,3,neumo_m12_ref,20194,0.94
+LA_GUAJIRA,21574,3,vop_1er_ref,14174,0.66
+LA_GUAJIRA,21574,3,dpt_1er_ref,14177,0.66
+LA_GUAJIRA,21574,3,vop_2do_ref,17215,0.8
+LA_GUAJIRA,21574,3,dpt_5an_2do_ref,17229,0.8
+LA_GUAJIRA,21574,3,srp_5anosref,17221,0.8
+LA_GUAJIRA,21574,3,tdap_unica_dosis_en_cada_embarazo,14547,0.67
+MAGDALENA,17950,3,bcg_dosis_unica,13561,0.76
+MAGDALENA,17950,3,hb_d_unica,13135,0.73
+MAGDALENA,17950,3,antipolio_1ras_dosis,16313,0.91
+MAGDALENA,17950,3,vop_3_dosis,16302,0.91
+MAGDALENA,17950,3,penta_1ras_dosis,16315,0.91
+MAGDALENA,17950,3,penta_2das_dosis,16360,0.91
+MAGDALENA,17950,3,penta_3ras_dosis,16293,0.91
+MAGDALENA,17950,3,rotavirus_1ra_dosis,15692,0.87
+MAGDALENA,17950,3,rotavirus_2da_dosis,15861,0.88
+MAGDALENA,17950,3,flu_1ra_dosis,14206,0.79
+MAGDALENA,17950,3,flu_2da_dosis,10411,0.58
+MAGDALENA,17950,3,neumo_1ra_dosis,16370,0.91
+MAGDALENA,17950,3,neumo_2da_dosis,16317,0.91
+MAGDALENA,17950,3,srp_u_dosis,17056,0.95
+MAGDALENA,17950,3,varicela_u_dosis,17095,0.95
+MAGDALENA,17950,3,fa_u_dosis,15466,0.86
+MAGDALENA,17950,3,neumo_m12_ref,16870,0.94
+MAGDALENA,17950,3,vop_1er_ref,15387,0.86
+MAGDALENA,17950,3,dpt_1er_ref,15357,0.86
+MAGDALENA,17950,3,vop_2do_ref,16423,0.91
+MAGDALENA,17950,3,dpt_5an_2do_ref,16442,0.92
+MAGDALENA,17950,3,srp_5anosref,16442,0.92
+MAGDALENA,17950,3,tdap_unica_dosis_en_cada_embarazo,13323,0.74
+SANTA MARTA,9130,3,bcg_dosis_unica,8574,0.94
+SANTA MARTA,9130,3,hb_d_unica,8192,0.9
+SANTA MARTA,9130,3,antipolio_1ras_dosis,8466,0.93
+SANTA MARTA,9130,3,vop_3_dosis,7941,0.87
+SANTA MARTA,9130,3,penta_1ras_dosis,8394,0.92
+SANTA MARTA,9130,3,penta_2das_dosis,8247,0.9
+SANTA MARTA,9130,3,penta_3ras_dosis,7956,0.87
+SANTA MARTA,9130,3,rotavirus_1ra_dosis,7970,0.87
+SANTA MARTA,9130,3,rotavirus_2da_dosis,7746,0.85
+SANTA MARTA,9130,3,flu_1ra_dosis,6992,0.77
+SANTA MARTA,9130,3,flu_2da_dosis,4710,0.52
+SANTA MARTA,9130,3,neumo_1ra_dosis,8240,0.9
+SANTA MARTA,9130,3,neumo_2da_dosis,8103,0.89
+SANTA MARTA,9130,3,srp_u_dosis,8400,0.92
+SANTA MARTA,9130,3,varicela_u_dosis,8275,0.91
+SANTA MARTA,9130,3,fa_u_dosis,7181,0.79
+SANTA MARTA,9130,3,neumo_m12_ref,7823,0.86
+SANTA MARTA,9130,3,vop_1er_ref,7179,0.79
+SANTA MARTA,9130,3,dpt_1er_ref,7389,0.81
+SANTA MARTA,9130,3,vop_2do_ref,7473,0.82
+SANTA MARTA,9130,3,dpt_5an_2do_ref,7651,0.84
+SANTA MARTA,9130,3,srp_5anosref,7462,0.82
+SANTA MARTA,9130,3,tdap_unica_dosis_en_cada_embarazo,6602,0.72
+META,16307,3,bcg_dosis_unica,15334,0.94
+META,16307,3,hb_d_unica,15376,0.94
+META,16307,3,antipolio_1ras_dosis,14829,0.91
+META,16307,3,vop_3_dosis,14453,0.89
+META,16307,3,penta_1ras_dosis,14849,0.91
+META,16307,3,penta_2das_dosis,14819,0.91
+META,16307,3,penta_3ras_dosis,14425,0.88
+META,16307,3,rotavirus_1ra_dosis,14364,0.88
+META,16307,3,rotavirus_2da_dosis,14473,0.89
+META,16307,3,flu_1ra_dosis,11777,0.72
+META,16307,3,flu_2da_dosis,8358,0.51
+META,16307,3,neumo_1ra_dosis,15512,0.95
+META,16307,3,neumo_2da_dosis,15739,0.97
+META,16307,3,srp_u_dosis,15395,0.94
+META,16307,3,varicela_u_dosis,15392,0.94
+META,16307,3,fa_u_dosis,15823,0.97
+META,16307,3,neumo_m12_ref,16054,0.98
+META,16307,3,vop_1er_ref,14171,0.87
+META,16307,3,dpt_1er_ref,14171,0.87
+META,16307,3,vop_2do_ref,14894,0.91
+META,16307,3,dpt_5an_2do_ref,14786,0.91
+META,16307,3,srp_5anosref,14901,0.91
+META,16307,3,tdap_unica_dosis_en_cada_embarazo,12268,0.75
+NARIÑO,21730,3,bcg_dosis_unica,18534,0.85
+NARIÑO,21730,3,hb_d_unica,18082,0.83
+NARIÑO,21730,3,antipolio_1ras_dosis,18614,0.86
+NARIÑO,21730,3,vop_3_dosis,18259,0.84
+NARIÑO,21730,3,penta_1ras_dosis,18617,0.86
+NARIÑO,21730,3,penta_2das_dosis,18486,0.85
+NARIÑO,21730,3,penta_3ras_dosis,18253,0.84
+NARIÑO,21730,3,rotavirus_1ra_dosis,18039,0.83
+NARIÑO,21730,3,rotavirus_2da_dosis,18072,0.83
+NARIÑO,21730,3,flu_1ra_dosis,15030,0.69
+NARIÑO,21730,3,flu_2da_dosis,13041,0.6
+NARIÑO,21730,3,neumo_1ra_dosis,18726,0.86
+NARIÑO,21730,3,neumo_2da_dosis,18518,0.85
+NARIÑO,21730,3,srp_u_dosis,19585,0.9
+NARIÑO,21730,3,varicela_u_dosis,19691,0.91
+NARIÑO,21730,3,fa_u_dosis,18065,0.83
+NARIÑO,21730,3,neumo_m12_ref,19386,0.89
+NARIÑO,21730,3,vop_1er_ref,18156,0.84
+NARIÑO,21730,3,dpt_1er_ref,18162,0.84
+NARIÑO,21730,3,vop_2do_ref,19227,0.88
+NARIÑO,21730,3,dpt_5an_2do_ref,19209,0.88
+NARIÑO,21730,3,srp_5anosref,19236,0.89
+NARIÑO,21730,3,tdap_unica_dosis_en_cada_embarazo,15901,0.73
+NORTE_DE_SANTANDER,24173,3,bcg_dosis_unica,20619,0.85
+NORTE_DE_SANTANDER,24173,3,hb_d_unica,20311,0.84
+NORTE_DE_SANTANDER,24173,3,antipolio_1ras_dosis,22131,0.92
+NORTE_DE_SANTANDER,24173,3,vop_3_dosis,22414,0.93
+NORTE_DE_SANTANDER,24173,3,penta_1ras_dosis,22162,0.92
+NORTE_DE_SANTANDER,24173,3,penta_2das_dosis,21924,0.91
+NORTE_DE_SANTANDER,24173,3,penta_3ras_dosis,22065,0.91
+NORTE_DE_SANTANDER,24173,3,rotavirus_1ra_dosis,21426,0.89
+NORTE_DE_SANTANDER,24173,3,rotavirus_2da_dosis,20965,0.87
+NORTE_DE_SANTANDER,24173,3,flu_1ra_dosis,21995,0.91
+NORTE_DE_SANTANDER,24173,3,flu_2da_dosis,15901,0.66
+NORTE_DE_SANTANDER,24173,3,neumo_1ra_dosis,23224,0.96
+NORTE_DE_SANTANDER,24173,3,neumo_2da_dosis,22032,0.91
+NORTE_DE_SANTANDER,24173,3,srp_u_dosis,22408,0.93
+NORTE_DE_SANTANDER,24173,3,varicela_u_dosis,19435,0.8
+NORTE_DE_SANTANDER,24173,3,fa_u_dosis,24573,1.02
+NORTE_DE_SANTANDER,24173,3,neumo_m12_ref,21682,0.9
+NORTE_DE_SANTANDER,24173,3,vop_1er_ref,18663,0.77
+NORTE_DE_SANTANDER,24173,3,dpt_1er_ref,18701,0.77
+NORTE_DE_SANTANDER,24173,3,vop_2do_ref,20319,0.84
+NORTE_DE_SANTANDER,24173,3,dpt_5an_2do_ref,20381,0.84
+NORTE_DE_SANTANDER,24173,3,srp_5anosref,20241,0.84
+NORTE_DE_SANTANDER,24173,3,tdap_unica_dosis_en_cada_embarazo,18385,0.76
+PUTUMAYO,5039,3,bcg_dosis_unica,4142,0.82
+PUTUMAYO,5039,3,hb_d_unica,4095,0.81
+PUTUMAYO,5039,3,antipolio_1ras_dosis,4709,0.93
+PUTUMAYO,5039,3,vop_3_dosis,4700,0.93
+PUTUMAYO,5039,3,penta_1ras_dosis,4712,0.94
+PUTUMAYO,5039,3,penta_2das_dosis,4736,0.94
+PUTUMAYO,5039,3,penta_3ras_dosis,4699,0.93
+PUTUMAYO,5039,3,rotavirus_1ra_dosis,4574,0.91
+PUTUMAYO,5039,3,rotavirus_2da_dosis,4612,0.92
+PUTUMAYO,5039,3,flu_1ra_dosis,3152,0.63
+PUTUMAYO,5039,3,flu_2da_dosis,2778,0.55
+PUTUMAYO,5039,3,neumo_1ra_dosis,4725,0.94
+PUTUMAYO,5039,3,neumo_2da_dosis,4735,0.94
+PUTUMAYO,5039,3,srp_u_dosis,4906,0.97
+PUTUMAYO,5039,3,varicela_u_dosis,4788,0.95
+PUTUMAYO,5039,3,fa_u_dosis,5144,1.02
+PUTUMAYO,5039,3,neumo_m12_ref,4850,0.96
+PUTUMAYO,5039,3,vop_1er_ref,4469,0.89
+PUTUMAYO,5039,3,dpt_1er_ref,4488,0.89
+PUTUMAYO,5039,3,vop_2do_ref,4891,0.97
+PUTUMAYO,5039,3,dpt_5an_2do_ref,4911,0.97
+PUTUMAYO,5039,3,srp_5anosref,4945,0.98
+PUTUMAYO,5039,3,tdap_unica_dosis_en_cada_embarazo,3967,0.79
+QUINDIO,5894,3,bcg_dosis_unica,5792,0.98
+QUINDIO,5894,3,hb_d_unica,5748,0.98
+QUINDIO,5894,3,antipolio_1ras_dosis,5570,0.95
+QUINDIO,5894,3,vop_3_dosis,5699,0.97
+QUINDIO,5894,3,penta_1ras_dosis,5571,0.95
+QUINDIO,5894,3,penta_2das_dosis,5641,0.96
+QUINDIO,5894,3,penta_3ras_dosis,5698,0.97
+QUINDIO,5894,3,rotavirus_1ra_dosis,5517,0.94
+QUINDIO,5894,3,rotavirus_2da_dosis,5549,0.94
+QUINDIO,5894,3,flu_1ra_dosis,5727,0.97
+QUINDIO,5894,3,flu_2da_dosis,4573,0.78
+QUINDIO,5894,3,neumo_1ra_dosis,5610,0.95
+QUINDIO,5894,3,neumo_2da_dosis,5655,0.96
+QUINDIO,5894,3,srp_u_dosis,5891,1.0
+QUINDIO,5894,3,varicela_u_dosis,5941,1.01
+QUINDIO,5894,3,fa_u_dosis,5578,0.95
+QUINDIO,5894,3,neumo_m12_ref,5838,0.99
+QUINDIO,5894,3,vop_1er_ref,5620,0.95
+QUINDIO,5894,3,dpt_1er_ref,5628,0.95
+QUINDIO,5894,3,vop_2do_ref,5970,1.01
+QUINDIO,5894,3,dpt_5an_2do_ref,5956,1.01
+QUINDIO,5894,3,srp_5anosref,5982,1.01
+QUINDIO,5894,3,tdap_unica_dosis_en_cada_embarazo,5045,0.86
+RISARALDA,11014,3,bcg_dosis_unica,10772,0.98
+RISARALDA,11014,3,hb_d_unica,10585,0.96
+RISARALDA,11014,3,antipolio_1ras_dosis,10206,0.93
+RISARALDA,11014,3,vop_3_dosis,10254,0.93
+RISARALDA,11014,3,penta_1ras_dosis,10209,0.93
+RISARALDA,11014,3,penta_2das_dosis,10169,0.92
+RISARALDA,11014,3,penta_3ras_dosis,10244,0.93
+RISARALDA,11014,3,rotavirus_1ra_dosis,9987,0.91
+RISARALDA,11014,3,rotavirus_2da_dosis,9998,0.91
+RISARALDA,11014,3,flu_1ra_dosis,8568,0.78
+RISARALDA,11014,3,flu_2da_dosis,6847,0.62
+RISARALDA,11014,3,neumo_1ra_dosis,10331,0.94
+RISARALDA,11014,3,neumo_2da_dosis,10361,0.94
+RISARALDA,11014,3,srp_u_dosis,10662,0.97
+RISARALDA,11014,3,varicela_u_dosis,10742,0.98
+RISARALDA,11014,3,fa_u_dosis,9978,0.91
+RISARALDA,11014,3,neumo_m12_ref,10551,0.96
+RISARALDA,11014,3,vop_1er_ref,10429,0.95
+RISARALDA,11014,3,dpt_1er_ref,10446,0.95
+RISARALDA,11014,3,vop_2do_ref,11095,1.01
+RISARALDA,11014,3,dpt_5an_2do_ref,10987,1.0
+RISARALDA,11014,3,srp_5anosref,11038,1.0
+RISARALDA,11014,3,tdap_unica_dosis_en_cada_embarazo,9103,0.83
+SAN_ANDRES_ISLAS,916,3,bcg_dosis_unica,743,0.81
+SAN_ANDRES_ISLAS,916,3,hb_d_unica,739,0.81
+SAN_ANDRES_ISLAS,916,3,antipolio_1ras_dosis,789,0.86
+SAN_ANDRES_ISLAS,916,3,vop_3_dosis,815,0.89
+SAN_ANDRES_ISLAS,916,3,penta_1ras_dosis,785,0.86
+SAN_ANDRES_ISLAS,916,3,penta_2das_dosis,799,0.87
+SAN_ANDRES_ISLAS,916,3,penta_3ras_dosis,824,0.9
+SAN_ANDRES_ISLAS,916,3,rotavirus_1ra_dosis,761,0.83
+SAN_ANDRES_ISLAS,916,3,rotavirus_2da_dosis,779,0.85
+SAN_ANDRES_ISLAS,916,3,flu_1ra_dosis,684,0.75
+SAN_ANDRES_ISLAS,916,3,flu_2da_dosis,587,0.64
+SAN_ANDRES_ISLAS,916,3,neumo_1ra_dosis,790,0.86
+SAN_ANDRES_ISLAS,916,3,neumo_2da_dosis,796,0.87
+SAN_ANDRES_ISLAS,916,3,srp_u_dosis,820,0.9
+SAN_ANDRES_ISLAS,916,3,varicela_u_dosis,811,0.89
+SAN_ANDRES_ISLAS,916,3,fa_u_dosis,752,0.82
+SAN_ANDRES_ISLAS,916,3,neumo_m12_ref,818,0.89
+SAN_ANDRES_ISLAS,916,3,vop_1er_ref,773,0.84
+SAN_ANDRES_ISLAS,916,3,dpt_1er_ref,776,0.85
+SAN_ANDRES_ISLAS,916,3,vop_2do_ref,825,0.9
+SAN_ANDRES_ISLAS,916,3,dpt_5an_2do_ref,828,0.9
+SAN_ANDRES_ISLAS,916,3,srp_5anosref,829,0.91
+SAN_ANDRES_ISLAS,916,3,tdap_unica_dosis_en_cada_embarazo,688,0.75
+SANTANDER,32919,3,bcg_dosis_unica,28657,0.87
+SANTANDER,32919,3,hb_d_unica,28711,0.87
+SANTANDER,32919,3,antipolio_1ras_dosis,28702,0.87
+SANTANDER,32919,3,vop_3_dosis,28717,0.87
+SANTANDER,32919,3,penta_1ras_dosis,28794,0.87
+SANTANDER,32919,3,penta_2das_dosis,28749,0.87
+SANTANDER,32919,3,penta_3ras_dosis,28753,0.87
+SANTANDER,32919,3,rotavirus_1ra_dosis,28410,0.86
+SANTANDER,32919,3,rotavirus_2da_dosis,28436,0.86
+SANTANDER,32919,3,flu_1ra_dosis,27870,0.85
+SANTANDER,32919,3,flu_2da_dosis,22475,0.68
+SANTANDER,32919,3,neumo_1ra_dosis,28811,0.88
+SANTANDER,32919,3,neumo_2da_dosis,28889,0.88
+SANTANDER,32919,3,srp_u_dosis,29716,0.9
+SANTANDER,32919,3,varicela_u_dosis,29652,0.9
+SANTANDER,32919,3,fa_u_dosis,27513,0.84
+SANTANDER,32919,3,neumo_m12_ref,29606,0.9
+SANTANDER,32919,3,vop_1er_ref,27280,0.83
+SANTANDER,32919,3,dpt_1er_ref,27476,0.83
+SANTANDER,32919,3,vop_2do_ref,28233,0.86
+SANTANDER,32919,3,dpt_5an_2do_ref,28322,0.86
+SANTANDER,32919,3,srp_5anosref,28130,0.85
+SANTANDER,32919,3,tdap_unica_dosis_en_cada_embarazo,24608,0.75
+SUCRE,15218,3,bcg_dosis_unica,14776,0.97
+SUCRE,15218,3,hb_d_unica,14737,0.97
+SUCRE,15218,3,antipolio_1ras_dosis,15132,0.99
+SUCRE,15218,3,vop_3_dosis,15111,0.99
+SUCRE,15218,3,penta_1ras_dosis,15137,0.99
+SUCRE,15218,3,penta_2das_dosis,15038,0.99
+SUCRE,15218,3,penta_3ras_dosis,15122,0.99
+SUCRE,15218,3,rotavirus_1ra_dosis,14563,0.96
+SUCRE,15218,3,rotavirus_2da_dosis,14458,0.95
+SUCRE,15218,3,flu_1ra_dosis,11609,0.76
+SUCRE,15218,3,flu_2da_dosis,10249,0.67
+SUCRE,15218,3,neumo_1ra_dosis,15246,1.0
+SUCRE,15218,3,neumo_2da_dosis,15198,1.0
+SUCRE,15218,3,srp_u_dosis,15308,1.01
+SUCRE,15218,3,varicela_u_dosis,15232,1.0
+SUCRE,15218,3,fa_u_dosis,13987,0.92
+SUCRE,15218,3,neumo_m12_ref,15251,1.0
+SUCRE,15218,3,vop_1er_ref,13898,0.91
+SUCRE,15218,3,dpt_1er_ref,13905,0.91
+SUCRE,15218,3,vop_2do_ref,15230,1.0
+SUCRE,15218,3,dpt_5an_2do_ref,15247,1.0
+SUCRE,15218,3,srp_5anosref,15299,1.01
+SUCRE,15218,3,tdap_unica_dosis_en_cada_embarazo,13542,0.89
+TOLIMA,18351,3,bcg_dosis_unica,15258,0.83
+TOLIMA,18351,3,hb_d_unica,15077,0.82
+TOLIMA,18351,3,antipolio_1ras_dosis,17233,0.94
+TOLIMA,18351,3,vop_3_dosis,17361,0.95
+TOLIMA,18351,3,penta_1ras_dosis,17236,0.94
+TOLIMA,18351,3,penta_2das_dosis,17205,0.94
+TOLIMA,18351,3,penta_3ras_dosis,17353,0.95
+TOLIMA,18351,3,rotavirus_1ra_dosis,17062,0.93
+TOLIMA,18351,3,rotavirus_2da_dosis,17001,0.93
+TOLIMA,18351,3,flu_1ra_dosis,16389,0.89
+TOLIMA,18351,3,flu_2da_dosis,13725,0.75
+TOLIMA,18351,3,neumo_1ra_dosis,17396,0.95
+TOLIMA,18351,3,neumo_2da_dosis,17509,0.95
+TOLIMA,18351,3,srp_u_dosis,18184,0.99
+TOLIMA,18351,3,varicela_u_dosis,18166,0.99
+TOLIMA,18351,3,fa_u_dosis,16624,0.91
+TOLIMA,18351,3,neumo_m12_ref,18323,1.0
+TOLIMA,18351,3,vop_1er_ref,16723,0.91
+TOLIMA,18351,3,dpt_1er_ref,16765,0.91
+TOLIMA,18351,3,vop_2do_ref,17835,0.97
+TOLIMA,18351,3,dpt_5an_2do_ref,18026,0.98
+TOLIMA,18351,3,srp_5anosref,17631,0.96
+TOLIMA,18351,3,tdap_unica_dosis_en_cada_embarazo,14143,0.77
+VALLE_DEL_CAUCA,52858,3,bcg_dosis_unica,46624,0.88
+VALLE_DEL_CAUCA,52858,3,hb_d_unica,45985,0.87
+VALLE_DEL_CAUCA,52858,3,antipolio_1ras_dosis,52054,0.98
+VALLE_DEL_CAUCA,52858,3,vop_3_dosis,51981,0.98
+VALLE_DEL_CAUCA,52858,3,penta_1ras_dosis,51790,0.98
+VALLE_DEL_CAUCA,52858,3,penta_2das_dosis,52278,0.99
+VALLE_DEL_CAUCA,52858,3,penta_3ras_dosis,52121,0.99
+VALLE_DEL_CAUCA,52858,3,rotavirus_1ra_dosis,51609,0.98
+VALLE_DEL_CAUCA,52858,3,rotavirus_2da_dosis,51990,0.98
+VALLE_DEL_CAUCA,52858,3,flu_1ra_dosis,41491,0.78
+VALLE_DEL_CAUCA,52858,3,flu_2da_dosis,32324,0.61
+VALLE_DEL_CAUCA,52858,3,neumo_1ra_dosis,51938,0.98
+VALLE_DEL_CAUCA,52858,3,neumo_2da_dosis,52468,0.99
+VALLE_DEL_CAUCA,52858,3,srp_u_dosis,52751,1.0
+VALLE_DEL_CAUCA,52858,3,varicela_u_dosis,53373,1.01
+VALLE_DEL_CAUCA,52858,3,fa_u_dosis,51176,0.97
+VALLE_DEL_CAUCA,52858,3,neumo_m12_ref,52531,0.99
+VALLE_DEL_CAUCA,52858,3,vop_1er_ref,51449,0.97
+VALLE_DEL_CAUCA,52858,3,dpt_1er_ref,51404,0.97
+VALLE_DEL_CAUCA,52858,3,vop_2do_ref,53212,1.01
+VALLE_DEL_CAUCA,52858,3,dpt_5an_2do_ref,54054,1.02
+VALLE_DEL_CAUCA,52858,3,srp_5anosref,53352,1.01
+VALLE_DEL_CAUCA,52858,3,tdap_unica_dosis_en_cada_embarazo,38512,0.73
+BUENAVENTURA,5113,3,bcg_dosis_unica,4481,0.88
+BUENAVENTURA,5113,3,hb_d_unica,4304,0.84
+BUENAVENTURA,5113,3,antipolio_1ras_dosis,4575,0.89
+BUENAVENTURA,5113,3,vop_3_dosis,3958,0.77
+BUENAVENTURA,5113,3,penta_1ras_dosis,4586,0.9
+BUENAVENTURA,5113,3,penta_2das_dosis,4287,0.84
+BUENAVENTURA,5113,3,penta_3ras_dosis,3955,0.77
+BUENAVENTURA,5113,3,rotavirus_1ra_dosis,4023,0.79
+BUENAVENTURA,5113,3,rotavirus_2da_dosis,3873,0.76
+BUENAVENTURA,5113,3,flu_1ra_dosis,4143,0.81
+BUENAVENTURA,5113,3,flu_2da_dosis,2977,0.58
+BUENAVENTURA,5113,3,neumo_1ra_dosis,4523,0.88
+BUENAVENTURA,5113,3,neumo_2da_dosis,4151,0.81
+BUENAVENTURA,5113,3,srp_u_dosis,4608,0.9
+BUENAVENTURA,5113,3,varicela_u_dosis,4584,0.9
+BUENAVENTURA,5113,3,fa_u_dosis,3083,0.6
+BUENAVENTURA,5113,3,neumo_m12_ref,4393,0.86
+BUENAVENTURA,5113,3,vop_1er_ref,3177,0.62
+BUENAVENTURA,5113,3,dpt_1er_ref,3171,0.62
+BUENAVENTURA,5113,3,vop_2do_ref,3914,0.77
+BUENAVENTURA,5113,3,dpt_5an_2do_ref,3927,0.77
+BUENAVENTURA,5113,3,srp_5anosref,3743,0.73
+BUENAVENTURA,5113,3,tdap_unica_dosis_en_cada_embarazo,3754,0.73
+VAUPES,861,3,bcg_dosis_unica,782,0.91
+VAUPES,861,3,hb_d_unica,596,0.69
+VAUPES,861,3,antipolio_1ras_dosis,778,0.9
+VAUPES,861,3,vop_3_dosis,645,0.75
+VAUPES,861,3,penta_1ras_dosis,779,0.9
+VAUPES,861,3,penta_2das_dosis,714,0.83
+VAUPES,861,3,penta_3ras_dosis,641,0.74
+VAUPES,861,3,rotavirus_1ra_dosis,669,0.78
+VAUPES,861,3,rotavirus_2da_dosis,636,0.74
+VAUPES,861,3,flu_1ra_dosis,592,0.69
+VAUPES,861,3,flu_2da_dosis,428,0.5
+VAUPES,861,3,neumo_1ra_dosis,774,0.9
+VAUPES,861,3,neumo_2da_dosis,712,0.83
+VAUPES,861,3,srp_u_dosis,723,0.84
+VAUPES,861,3,varicela_u_dosis,738,0.86
+VAUPES,861,3,fa_u_dosis,757,0.88
+VAUPES,861,3,neumo_m12_ref,676,0.79
+VAUPES,861,3,vop_1er_ref,608,0.71
+VAUPES,861,3,dpt_1er_ref,610,0.71
+VAUPES,861,3,vop_2do_ref,720,0.84
+VAUPES,861,3,dpt_5an_2do_ref,708,0.82
+VAUPES,861,3,srp_5anosref,719,0.84
+VAUPES,861,3,tdap_unica_dosis_en_cada_embarazo,503,0.58
+VICHADA,1895,3,bcg_dosis_unica,1682,0.89
+VICHADA,1895,3,hb_d_unica,1085,0.57
+VICHADA,1895,3,antipolio_1ras_dosis,1874,0.99
+VICHADA,1895,3,vop_3_dosis,1267,0.67
+VICHADA,1895,3,penta_1ras_dosis,1865,0.98
+VICHADA,1895,3,penta_2das_dosis,1588,0.84
+VICHADA,1895,3,penta_3ras_dosis,1273,0.67
+VICHADA,1895,3,rotavirus_1ra_dosis,1284,0.68
+VICHADA,1895,3,rotavirus_2da_dosis,1185,0.63
+VICHADA,1895,3,flu_1ra_dosis,1311,0.69
+VICHADA,1895,3,flu_2da_dosis,791,0.42
+VICHADA,1895,3,neumo_1ra_dosis,1923,1.01
+VICHADA,1895,3,neumo_2da_dosis,1546,0.82
+VICHADA,1895,3,srp_u_dosis,1817,0.96
+VICHADA,1895,3,varicela_u_dosis,1736,0.92
+VICHADA,1895,3,fa_u_dosis,1842,0.97
+VICHADA,1895,3,neumo_m12_ref,1434,0.76
+VICHADA,1895,3,vop_1er_ref,956,0.5
+VICHADA,1895,3,dpt_1er_ref,945,0.5
+VICHADA,1895,3,vop_2do_ref,1307,0.69
+VICHADA,1895,3,dpt_5an_2do_ref,1312,0.69
+VICHADA,1895,3,srp_5anosref,1280,0.68
+VICHADA,1895,3,tdap_unica_dosis_en_cada_embarazo,1162,0.61
+AMAZONAS,1668,4,bcg_dosis_unica,1353,0.81
+AMAZONAS,1668,4,hb_d_unica,1205,0.72
+AMAZONAS,1668,4,antipolio_1ras_dosis,1429,0.86
+AMAZONAS,1668,4,vop_3_dosis,1468,0.88
+AMAZONAS,1668,4,penta_1ras_dosis,1424,0.85
+AMAZONAS,1668,4,penta_2das_dosis,1472,0.88
+AMAZONAS,1668,4,penta_3ras_dosis,1467,0.88
+AMAZONAS,1668,4,rotavirus_1ra_dosis,1318,0.79
+AMAZONAS,1668,4,rotavirus_2da_dosis,1363,0.82
+AMAZONAS,1668,4,flu_1ra_dosis,1234,0.74
+AMAZONAS,1668,4,flu_2da_dosis,951,0.57
+AMAZONAS,1668,4,neumo_1ra_dosis,1426,0.85
+AMAZONAS,1668,4,neumo_2da_dosis,1477,0.89
+AMAZONAS,1668,4,srp_u_dosis,1545,0.93
+AMAZONAS,1668,4,varicela_u_dosis,1494,0.9
+AMAZONAS,1668,4,fa_u_dosis,1567,0.94
+AMAZONAS,1668,4,neumo_m12_ref,1563,0.94
+AMAZONAS,1668,4,vop_1er_ref,1308,0.78
+AMAZONAS,1668,4,dpt_1er_ref,1300,0.78
+AMAZONAS,1668,4,vop_2do_ref,1583,0.95
+AMAZONAS,1668,4,dpt_5an_2do_ref,1582,0.95
+AMAZONAS,1668,4,srp_5anosref,1583,0.95
+AMAZONAS,1668,4,tdap_unica_dosis_en_cada_embarazo,979,0.59
+ANTIOQUIA,77622,4,bcg_dosis_unica,69840,0.9
+ANTIOQUIA,77622,4,hb_d_unica,69229,0.89
+ANTIOQUIA,77622,4,antipolio_1ras_dosis,72306,0.93
+ANTIOQUIA,77622,4,vop_3_dosis,70732,0.91
+ANTIOQUIA,77622,4,penta_1ras_dosis,72362,0.93
+ANTIOQUIA,77622,4,penta_2das_dosis,72006,0.93
+ANTIOQUIA,77622,4,penta_3ras_dosis,70752,0.91
+ANTIOQUIA,77622,4,rotavirus_1ra_dosis,70558,0.91
+ANTIOQUIA,77622,4,rotavirus_2da_dosis,70612,0.91
+ANTIOQUIA,77622,4,flu_1ra_dosis,53755,0.69
+ANTIOQUIA,77622,4,flu_2da_dosis,43606,0.56
+ANTIOQUIA,77622,4,neumo_1ra_dosis,72634,0.94
+ANTIOQUIA,77622,4,neumo_2da_dosis,71754,0.92
+ANTIOQUIA,77622,4,srp_u_dosis,73842,0.95
+ANTIOQUIA,77622,4,varicela_u_dosis,66259,0.85
+ANTIOQUIA,77622,4,fa_u_dosis,74272,0.96
+ANTIOQUIA,77622,4,neumo_m12_ref,69153,0.89
+ANTIOQUIA,77622,4,vop_1er_ref,69344,0.89
+ANTIOQUIA,77622,4,dpt_1er_ref,69292,0.89
+ANTIOQUIA,77622,4,vop_2do_ref,74256,0.96
+ANTIOQUIA,77622,4,dpt_5an_2do_ref,74083,0.95
+ANTIOQUIA,77622,4,srp_5anosref,74676,0.96
+ANTIOQUIA,77622,4,tdap_unica_dosis_en_cada_embarazo,60498,0.78
+ARAUCA,4492,4,bcg_dosis_unica,4873,1.08
+ARAUCA,4492,4,hb_d_unica,4805,1.07
+ARAUCA,4492,4,antipolio_1ras_dosis,5210,1.16
+ARAUCA,4492,4,vop_3_dosis,4936,1.1
+ARAUCA,4492,4,penta_1ras_dosis,5213,1.16
+ARAUCA,4492,4,penta_2das_dosis,5028,1.12
+ARAUCA,4492,4,penta_3ras_dosis,4936,1.1
+ARAUCA,4492,4,rotavirus_1ra_dosis,5030,1.12
+ARAUCA,4492,4,rotavirus_2da_dosis,4879,1.09
+ARAUCA,4492,4,flu_1ra_dosis,3351,0.75
+ARAUCA,4492,4,flu_2da_dosis,2659,0.59
+ARAUCA,4492,4,neumo_1ra_dosis,5254,1.17
+ARAUCA,4492,4,neumo_2da_dosis,5052,1.12
+ARAUCA,4492,4,srp_u_dosis,4884,1.09
+ARAUCA,4492,4,varicela_u_dosis,4867,1.08
+ARAUCA,4492,4,fa_u_dosis,4901,1.09
+ARAUCA,4492,4,neumo_m12_ref,4972,1.11
+ARAUCA,4492,4,vop_1er_ref,4493,1.0
+ARAUCA,4492,4,dpt_1er_ref,4490,1.0
+ARAUCA,4492,4,vop_2do_ref,4325,0.96
+ARAUCA,4492,4,dpt_5an_2do_ref,4325,0.96
+ARAUCA,4492,4,srp_5anosref,4354,0.97
+ARAUCA,4492,4,tdap_unica_dosis_en_cada_embarazo,3819,0.85
+ATLANTICO,20382,4,bcg_dosis_unica,21160,1.04
+ATLANTICO,20382,4,hb_d_unica,20788,1.02
+ATLANTICO,20382,4,antipolio_1ras_dosis,19253,0.94
+ATLANTICO,20382,4,vop_3_dosis,20131,0.99
+ATLANTICO,20382,4,penta_1ras_dosis,19264,0.95
+ATLANTICO,20382,4,penta_2das_dosis,19815,0.97
+ATLANTICO,20382,4,penta_3ras_dosis,20021,0.98
+ATLANTICO,20382,4,rotavirus_1ra_dosis,19248,0.94
+ATLANTICO,20382,4,rotavirus_2da_dosis,19968,0.98
+ATLANTICO,20382,4,flu_1ra_dosis,15529,0.76
+ATLANTICO,20382,4,flu_2da_dosis,10817,0.53
+ATLANTICO,20382,4,neumo_1ra_dosis,19543,0.96
+ATLANTICO,20382,4,neumo_2da_dosis,20307,1.0
+ATLANTICO,20382,4,srp_u_dosis,20556,1.01
+ATLANTICO,20382,4,varicela_u_dosis,20310,1.0
+ATLANTICO,20382,4,fa_u_dosis,20456,1.0
+ATLANTICO,20382,4,neumo_m12_ref,20539,1.01
+ATLANTICO,20382,4,vop_1er_ref,21173,1.04
+ATLANTICO,20382,4,dpt_1er_ref,20328,1.0
+ATLANTICO,20382,4,vop_2do_ref,20355,1.0
+ATLANTICO,20382,4,dpt_5an_2do_ref,20395,1.0
+ATLANTICO,20382,4,srp_5anosref,20313,1.0
+ATLANTICO,20382,4,tdap_unica_dosis_en_cada_embarazo,14948,0.73
+BARRANQUILLA,21846,4,bcg_dosis_unica,20833,0.95
+BARRANQUILLA,21846,4,hb_d_unica,20890,0.96
+BARRANQUILLA,21846,4,antipolio_1ras_dosis,20831,0.95
+BARRANQUILLA,21846,4,vop_3_dosis,19675,0.9
+BARRANQUILLA,21846,4,penta_1ras_dosis,20814,0.95
+BARRANQUILLA,21846,4,penta_2das_dosis,20116,0.92
+BARRANQUILLA,21846,4,penta_3ras_dosis,19725,0.9
+BARRANQUILLA,21846,4,rotavirus_1ra_dosis,20666,0.95
+BARRANQUILLA,21846,4,rotavirus_2da_dosis,20048,0.92
+BARRANQUILLA,21846,4,flu_1ra_dosis,18475,0.85
+BARRANQUILLA,21846,4,flu_2da_dosis,12925,0.59
+BARRANQUILLA,21846,4,neumo_1ra_dosis,21607,0.99
+BARRANQUILLA,21846,4,neumo_2da_dosis,20382,0.93
+BARRANQUILLA,21846,4,srp_u_dosis,21326,0.98
+BARRANQUILLA,21846,4,varicela_u_dosis,21175,0.97
+BARRANQUILLA,21846,4,fa_u_dosis,21380,0.98
+BARRANQUILLA,21846,4,neumo_m12_ref,20765,0.95
+BARRANQUILLA,21846,4,vop_1er_ref,20887,0.96
+BARRANQUILLA,21846,4,dpt_1er_ref,20977,0.96
+BARRANQUILLA,21846,4,vop_2do_ref,21130,0.97
+BARRANQUILLA,21846,4,dpt_5an_2do_ref,21086,0.97
+BARRANQUILLA,21846,4,srp_5anosref,21282,0.97
+BARRANQUILLA,21846,4,tdap_unica_dosis_en_cada_embarazo,16481,0.75
+BOGOTA D.C.,99134,4,bcg_dosis_unica,99950,1.01
+BOGOTA D.C.,99134,4,hb_d_unica,100156,1.01
+BOGOTA D.C.,99134,4,antipolio_1ras_dosis,87446,0.88
+BOGOTA D.C.,99134,4,vop_3_dosis,88353,0.89
+BOGOTA D.C.,99134,4,penta_1ras_dosis,87488,0.88
+BOGOTA D.C.,99134,4,penta_2das_dosis,88027,0.89
+BOGOTA D.C.,99134,4,penta_3ras_dosis,88353,0.89
+BOGOTA D.C.,99134,4,rotavirus_1ra_dosis,85773,0.87
+BOGOTA D.C.,99134,4,rotavirus_2da_dosis,84685,0.85
+BOGOTA D.C.,99134,4,flu_1ra_dosis,81259,0.82
+BOGOTA D.C.,99134,4,flu_2da_dosis,57566,0.58
+BOGOTA D.C.,99134,4,neumo_1ra_dosis,90283,0.91
+BOGOTA D.C.,99134,4,neumo_2da_dosis,89444,0.9
+BOGOTA D.C.,99134,4,srp_u_dosis,91767,0.93
+BOGOTA D.C.,99134,4,varicela_u_dosis,93122,0.94
+BOGOTA D.C.,99134,4,fa_u_dosis,93252,0.94
+BOGOTA D.C.,99134,4,neumo_m12_ref,80888,0.82
+BOGOTA D.C.,99134,4,vop_1er_ref,82008,0.83
+BOGOTA D.C.,99134,4,dpt_1er_ref,82072,0.83
+BOGOTA D.C.,99134,4,vop_2do_ref,97486,0.98
+BOGOTA D.C.,99134,4,dpt_5an_2do_ref,98099,0.99
+BOGOTA D.C.,99134,4,srp_5anosref,98596,0.99
+BOGOTA D.C.,99134,4,tdap_unica_dosis_en_cada_embarazo,78533,0.79
+BOLIVAR,21034,4,bcg_dosis_unica,9307,0.44
+BOLIVAR,21034,4,hb_d_unica,9082,0.43
+BOLIVAR,21034,4,antipolio_1ras_dosis,18127,0.86
+BOLIVAR,21034,4,vop_3_dosis,17497,0.83
+BOLIVAR,21034,4,penta_1ras_dosis,18196,0.87
+BOLIVAR,21034,4,penta_2das_dosis,17945,0.85
+BOLIVAR,21034,4,penta_3ras_dosis,17450,0.83
+BOLIVAR,21034,4,rotavirus_1ra_dosis,17458,0.83
+BOLIVAR,21034,4,rotavirus_2da_dosis,17303,0.82
+BOLIVAR,21034,4,flu_1ra_dosis,16222,0.77
+BOLIVAR,21034,4,flu_2da_dosis,12375,0.59
+BOLIVAR,21034,4,neumo_1ra_dosis,18209,0.87
+BOLIVAR,21034,4,neumo_2da_dosis,18038,0.86
+BOLIVAR,21034,4,srp_u_dosis,18676,0.89
+BOLIVAR,21034,4,varicela_u_dosis,18476,0.88
+BOLIVAR,21034,4,fa_u_dosis,18801,0.89
+BOLIVAR,21034,4,neumo_m12_ref,17627,0.84
+BOLIVAR,21034,4,vop_1er_ref,18284,0.87
+BOLIVAR,21034,4,dpt_1er_ref,18296,0.87
+BOLIVAR,21034,4,vop_2do_ref,17539,0.83
+BOLIVAR,21034,4,dpt_5an_2do_ref,17456,0.83
+BOLIVAR,21034,4,srp_5anosref,17299,0.82
+BOLIVAR,21034,4,tdap_unica_dosis_en_cada_embarazo,14096,0.67
+CARTAGENA,18631,4,bcg_dosis_unica,18639,1.0
+CARTAGENA,18631,4,hb_d_unica,18690,1.0
+CARTAGENA,18631,4,antipolio_1ras_dosis,17942,0.96
+CARTAGENA,18631,4,vop_3_dosis,16568,0.89
+CARTAGENA,18631,4,penta_1ras_dosis,17943,0.96
+CARTAGENA,18631,4,penta_2das_dosis,17260,0.93
+CARTAGENA,18631,4,penta_3ras_dosis,16575,0.89
+CARTAGENA,18631,4,rotavirus_1ra_dosis,17452,0.94
+CARTAGENA,18631,4,rotavirus_2da_dosis,16940,0.91
+CARTAGENA,18631,4,flu_1ra_dosis,15264,0.82
+CARTAGENA,18631,4,flu_2da_dosis,11265,0.6
+CARTAGENA,18631,4,neumo_1ra_dosis,18124,0.97
+CARTAGENA,18631,4,neumo_2da_dosis,17444,0.94
+CARTAGENA,18631,4,srp_u_dosis,17082,0.92
+CARTAGENA,18631,4,varicela_u_dosis,16863,0.91
+CARTAGENA,18631,4,fa_u_dosis,17159,0.92
+CARTAGENA,18631,4,neumo_m12_ref,15710,0.84
+CARTAGENA,18631,4,vop_1er_ref,15456,0.83
+CARTAGENA,18631,4,dpt_1er_ref,15451,0.83
+CARTAGENA,18631,4,vop_2do_ref,15939,0.86
+CARTAGENA,18631,4,dpt_5an_2do_ref,15859,0.85
+CARTAGENA,18631,4,srp_5anosref,16045,0.86
+CARTAGENA,18631,4,tdap_unica_dosis_en_cada_embarazo,14430,0.77
+BOYACA,15381,4,bcg_dosis_unica,13225,0.86
+BOYACA,15381,4,hb_d_unica,13130,0.85
+BOYACA,15381,4,antipolio_1ras_dosis,13721,0.89
+BOYACA,15381,4,vop_3_dosis,13592,0.88
+BOYACA,15381,4,penta_1ras_dosis,13723,0.89
+BOYACA,15381,4,penta_2das_dosis,13635,0.89
+BOYACA,15381,4,penta_3ras_dosis,13588,0.88
+BOYACA,15381,4,rotavirus_1ra_dosis,13572,0.88
+BOYACA,15381,4,rotavirus_2da_dosis,13492,0.88
+BOYACA,15381,4,flu_1ra_dosis,11237,0.73
+BOYACA,15381,4,flu_2da_dosis,9998,0.65
+BOYACA,15381,4,neumo_1ra_dosis,13752,0.89
+BOYACA,15381,4,neumo_2da_dosis,13641,0.89
+BOYACA,15381,4,srp_u_dosis,14331,0.93
+BOYACA,15381,4,varicela_u_dosis,14330,0.93
+BOYACA,15381,4,fa_u_dosis,14353,0.93
+BOYACA,15381,4,neumo_m12_ref,14397,0.94
+BOYACA,15381,4,vop_1er_ref,14583,0.95
+BOYACA,15381,4,dpt_1er_ref,14589,0.95
+BOYACA,15381,4,vop_2do_ref,16229,1.06
+BOYACA,15381,4,dpt_5an_2do_ref,16234,1.06
+BOYACA,15381,4,srp_5anosref,16239,1.06
+BOYACA,15381,4,tdap_unica_dosis_en_cada_embarazo,11924,0.78
+CALDAS,9958,4,bcg_dosis_unica,8355,0.84
+CALDAS,9958,4,hb_d_unica,8341,0.84
+CALDAS,9958,4,antipolio_1ras_dosis,8470,0.85
+CALDAS,9958,4,vop_3_dosis,8929,0.9
+CALDAS,9958,4,penta_1ras_dosis,8464,0.85
+CALDAS,9958,4,penta_2das_dosis,8496,0.85
+CALDAS,9958,4,penta_3ras_dosis,8933,0.9
+CALDAS,9958,4,rotavirus_1ra_dosis,8505,0.85
+CALDAS,9958,4,rotavirus_2da_dosis,8605,0.86
+CALDAS,9958,4,flu_1ra_dosis,8154,0.82
+CALDAS,9958,4,flu_2da_dosis,6974,0.7
+CALDAS,9958,4,neumo_1ra_dosis,8599,0.86
+CALDAS,9958,4,neumo_2da_dosis,8649,0.87
+CALDAS,9958,4,srp_u_dosis,9611,0.97
+CALDAS,9958,4,varicela_u_dosis,9631,0.97
+CALDAS,9958,4,fa_u_dosis,9637,0.97
+CALDAS,9958,4,neumo_m12_ref,9339,0.94
+CALDAS,9958,4,vop_1er_ref,9393,0.94
+CALDAS,9958,4,dpt_1er_ref,9454,0.95
+CALDAS,9958,4,vop_2do_ref,10029,1.01
+CALDAS,9958,4,dpt_5an_2do_ref,10102,1.01
+CALDAS,9958,4,srp_5anosref,10061,1.01
+CALDAS,9958,4,tdap_unica_dosis_en_cada_embarazo,7629,0.77
+CAQUETA,7495,4,bcg_dosis_unica,7160,0.96
+CAQUETA,7495,4,hb_d_unica,7006,0.93
+CAQUETA,7495,4,antipolio_1ras_dosis,7173,0.96
+CAQUETA,7495,4,vop_3_dosis,6798,0.91
+CAQUETA,7495,4,penta_1ras_dosis,7172,0.96
+CAQUETA,7495,4,penta_2das_dosis,7003,0.93
+CAQUETA,7495,4,penta_3ras_dosis,6801,0.91
+CAQUETA,7495,4,rotavirus_1ra_dosis,6814,0.91
+CAQUETA,7495,4,rotavirus_2da_dosis,6735,0.9
+CAQUETA,7495,4,flu_1ra_dosis,6216,0.83
+CAQUETA,7495,4,flu_2da_dosis,4625,0.62
+CAQUETA,7495,4,neumo_1ra_dosis,7187,0.96
+CAQUETA,7495,4,neumo_2da_dosis,7009,0.94
+CAQUETA,7495,4,srp_u_dosis,7033,0.94
+CAQUETA,7495,4,varicela_u_dosis,7042,0.94
+CAQUETA,7495,4,fa_u_dosis,7049,0.94
+CAQUETA,7495,4,neumo_m12_ref,7293,0.97
+CAQUETA,7495,4,vop_1er_ref,6416,0.86
+CAQUETA,7495,4,dpt_1er_ref,6418,0.86
+CAQUETA,7495,4,vop_2do_ref,6834,0.91
+CAQUETA,7495,4,dpt_5an_2do_ref,6835,0.91
+CAQUETA,7495,4,srp_5anosref,6896,0.92
+CAQUETA,7495,4,tdap_unica_dosis_en_cada_embarazo,5931,0.79
+CASANARE,6661,4,bcg_dosis_unica,6365,0.96
+CASANARE,6661,4,hb_d_unica,6293,0.94
+CASANARE,6661,4,antipolio_1ras_dosis,6298,0.95
+CASANARE,6661,4,vop_3_dosis,6287,0.94
+CASANARE,6661,4,penta_1ras_dosis,6298,0.95
+CASANARE,6661,4,penta_2das_dosis,6311,0.95
+CASANARE,6661,4,penta_3ras_dosis,6288,0.94
+CASANARE,6661,4,rotavirus_1ra_dosis,6277,0.94
+CASANARE,6661,4,rotavirus_2da_dosis,6389,0.96
+CASANARE,6661,4,flu_1ra_dosis,5603,0.84
+CASANARE,6661,4,flu_2da_dosis,4681,0.7
+CASANARE,6661,4,neumo_1ra_dosis,6364,0.96
+CASANARE,6661,4,neumo_2da_dosis,6375,0.96
+CASANARE,6661,4,srp_u_dosis,6460,0.97
+CASANARE,6661,4,varicela_u_dosis,6440,0.97
+CASANARE,6661,4,fa_u_dosis,6477,0.97
+CASANARE,6661,4,neumo_m12_ref,6625,0.99
+CASANARE,6661,4,vop_1er_ref,6461,0.97
+CASANARE,6661,4,dpt_1er_ref,6463,0.97
+CASANARE,6661,4,vop_2do_ref,7027,1.05
+CASANARE,6661,4,dpt_5an_2do_ref,6980,1.05
+CASANARE,6661,4,srp_5anosref,7017,1.05
+CASANARE,6661,4,tdap_unica_dosis_en_cada_embarazo,5219,0.78
+CAUCA,22008,4,bcg_dosis_unica,15193,0.69
+CAUCA,22008,4,hb_d_unica,14869,0.68
+CAUCA,22008,4,antipolio_1ras_dosis,18493,0.84
+CAUCA,22008,4,vop_3_dosis,19069,0.87
+CAUCA,22008,4,penta_1ras_dosis,18480,0.84
+CAUCA,22008,4,penta_2das_dosis,18534,0.84
+CAUCA,22008,4,penta_3ras_dosis,19046,0.87
+CAUCA,22008,4,rotavirus_1ra_dosis,18103,0.82
+CAUCA,22008,4,rotavirus_2da_dosis,18311,0.83
+CAUCA,22008,4,flu_1ra_dosis,17887,0.81
+CAUCA,22008,4,flu_2da_dosis,14151,0.64
+CAUCA,22008,4,neumo_1ra_dosis,18571,0.84
+CAUCA,22008,4,neumo_2da_dosis,18645,0.85
+CAUCA,22008,4,srp_u_dosis,19923,0.91
+CAUCA,22008,4,varicela_u_dosis,18926,0.86
+CAUCA,22008,4,fa_u_dosis,19551,0.89
+CAUCA,22008,4,neumo_m12_ref,18985,0.86
+CAUCA,22008,4,vop_1er_ref,19042,0.87
+CAUCA,22008,4,dpt_1er_ref,18961,0.86
+CAUCA,22008,4,vop_2do_ref,20256,0.92
+CAUCA,22008,4,dpt_5an_2do_ref,20182,0.92
+CAUCA,22008,4,srp_5anosref,20275,0.92
+CAUCA,22008,4,tdap_unica_dosis_en_cada_embarazo,16038,0.73
+CESAR,22925,4,bcg_dosis_unica,21041,0.92
+CESAR,22925,4,hb_d_unica,20387,0.89
+CESAR,22925,4,antipolio_1ras_dosis,23669,1.03
+CESAR,22925,4,vop_3_dosis,22343,0.97
+CESAR,22925,4,penta_1ras_dosis,23664,1.03
+CESAR,22925,4,penta_2das_dosis,23274,1.02
+CESAR,22925,4,penta_3ras_dosis,22352,0.98
+CESAR,22925,4,rotavirus_1ra_dosis,22786,0.99
+CESAR,22925,4,rotavirus_2da_dosis,22531,0.98
+CESAR,22925,4,flu_1ra_dosis,19771,0.86
+CESAR,22925,4,flu_2da_dosis,15155,0.66
+CESAR,22925,4,neumo_1ra_dosis,23803,1.04
+CESAR,22925,4,neumo_2da_dosis,23297,1.02
+CESAR,22925,4,srp_u_dosis,22649,0.99
+CESAR,22925,4,varicela_u_dosis,22425,0.98
+CESAR,22925,4,fa_u_dosis,22669,0.99
+CESAR,22925,4,neumo_m12_ref,21348,0.93
+CESAR,22925,4,vop_1er_ref,20832,0.91
+CESAR,22925,4,dpt_1er_ref,20848,0.91
+CESAR,22925,4,vop_2do_ref,21523,0.94
+CESAR,22925,4,dpt_5an_2do_ref,21488,0.94
+CESAR,22925,4,srp_5anosref,21628,0.94
+CESAR,22925,4,tdap_unica_dosis_en_cada_embarazo,19301,0.84
+CHOCO,11791,4,bcg_dosis_unica,8314,0.71
+CHOCO,11791,4,hb_d_unica,6315,0.54
+CHOCO,11791,4,antipolio_1ras_dosis,9854,0.84
+CHOCO,11791,4,vop_3_dosis,8663,0.73
+CHOCO,11791,4,penta_1ras_dosis,9851,0.84
+CHOCO,11791,4,penta_2das_dosis,9321,0.79
+CHOCO,11791,4,penta_3ras_dosis,8666,0.73
+CHOCO,11791,4,rotavirus_1ra_dosis,7965,0.68
+CHOCO,11791,4,rotavirus_2da_dosis,8008,0.68
+CHOCO,11791,4,flu_1ra_dosis,8992,0.76
+CHOCO,11791,4,flu_2da_dosis,5455,0.46
+CHOCO,11791,4,neumo_1ra_dosis,9867,0.84
+CHOCO,11791,4,neumo_2da_dosis,9311,0.79
+CHOCO,11791,4,srp_u_dosis,10158,0.86
+CHOCO,11791,4,varicela_u_dosis,10124,0.86
+CHOCO,11791,4,fa_u_dosis,10154,0.86
+CHOCO,11791,4,neumo_m12_ref,10426,0.88
+CHOCO,11791,4,vop_1er_ref,7136,0.61
+CHOCO,11791,4,dpt_1er_ref,7137,0.61
+CHOCO,11791,4,vop_2do_ref,8208,0.7
+CHOCO,11791,4,dpt_5an_2do_ref,8207,0.7
+CHOCO,11791,4,srp_5anosref,8280,0.7
+CHOCO,11791,4,tdap_unica_dosis_en_cada_embarazo,6101,0.52
+CORDOBA,30629,4,bcg_dosis_unica,24127,0.79
+CORDOBA,30629,4,hb_d_unica,23947,0.78
+CORDOBA,30629,4,antipolio_1ras_dosis,25996,0.85
+CORDOBA,30629,4,vop_3_dosis,26349,0.86
+CORDOBA,30629,4,penta_1ras_dosis,26006,0.85
+CORDOBA,30629,4,penta_2das_dosis,25861,0.84
+CORDOBA,30629,4,penta_3ras_dosis,26363,0.86
+CORDOBA,30629,4,rotavirus_1ra_dosis,25486,0.83
+CORDOBA,30629,4,rotavirus_2da_dosis,25460,0.83
+CORDOBA,30629,4,flu_1ra_dosis,24490,0.8
+CORDOBA,30629,4,flu_2da_dosis,18760,0.61
+CORDOBA,30629,4,neumo_1ra_dosis,26085,0.85
+CORDOBA,30629,4,neumo_2da_dosis,25973,0.85
+CORDOBA,30629,4,srp_u_dosis,27134,0.89
+CORDOBA,30629,4,varicela_u_dosis,26562,0.87
+CORDOBA,30629,4,fa_u_dosis,27083,0.88
+CORDOBA,30629,4,neumo_m12_ref,26749,0.87
+CORDOBA,30629,4,vop_1er_ref,26710,0.87
+CORDOBA,30629,4,dpt_1er_ref,26715,0.87
+CORDOBA,30629,4,vop_2do_ref,27099,0.88
+CORDOBA,30629,4,dpt_5an_2do_ref,27041,0.88
+CORDOBA,30629,4,srp_5anosref,27114,0.89
+CORDOBA,30629,4,tdap_unica_dosis_en_cada_embarazo,21312,0.7
+CUNDINAMARCA,35671,4,bcg_dosis_unica,19095,0.54
+CUNDINAMARCA,35671,4,hb_d_unica,19019,0.53
+CUNDINAMARCA,35671,4,antipolio_1ras_dosis,31080,0.87
+CUNDINAMARCA,35671,4,vop_3_dosis,32898,0.92
+CUNDINAMARCA,35671,4,penta_1ras_dosis,31119,0.87
+CUNDINAMARCA,35671,4,penta_2das_dosis,31818,0.89
+CUNDINAMARCA,35671,4,penta_3ras_dosis,32913,0.92
+CUNDINAMARCA,35671,4,rotavirus_1ra_dosis,30722,0.86
+CUNDINAMARCA,35671,4,rotavirus_2da_dosis,31432,0.88
+CUNDINAMARCA,35671,4,flu_1ra_dosis,27353,0.77
+CUNDINAMARCA,35671,4,flu_2da_dosis,21915,0.61
+CUNDINAMARCA,35671,4,neumo_1ra_dosis,31372,0.88
+CUNDINAMARCA,35671,4,neumo_2da_dosis,31894,0.89
+CUNDINAMARCA,35671,4,srp_u_dosis,34486,0.97
+CUNDINAMARCA,35671,4,varicela_u_dosis,34351,0.96
+CUNDINAMARCA,35671,4,fa_u_dosis,34576,0.97
+CUNDINAMARCA,35671,4,neumo_m12_ref,32166,0.9
+CUNDINAMARCA,35671,4,vop_1er_ref,32612,0.91
+CUNDINAMARCA,35671,4,dpt_1er_ref,32705,0.92
+CUNDINAMARCA,35671,4,vop_2do_ref,36125,1.01
+CUNDINAMARCA,35671,4,dpt_5an_2do_ref,35918,1.01
+CUNDINAMARCA,35671,4,srp_5anosref,36238,1.02
+CUNDINAMARCA,35671,4,tdap_unica_dosis_en_cada_embarazo,24742,0.69
+GUAINIA,970,4,bcg_dosis_unica,991,1.02
+GUAINIA,970,4,hb_d_unica,806,0.83
+GUAINIA,970,4,antipolio_1ras_dosis,1029,1.06
+GUAINIA,970,4,vop_3_dosis,874,0.9
+GUAINIA,970,4,penta_1ras_dosis,1029,1.06
+GUAINIA,970,4,penta_2das_dosis,944,0.97
+GUAINIA,970,4,penta_3ras_dosis,876,0.9
+GUAINIA,970,4,rotavirus_1ra_dosis,841,0.87
+GUAINIA,970,4,rotavirus_2da_dosis,802,0.83
+GUAINIA,970,4,flu_1ra_dosis,508,0.52
+GUAINIA,970,4,flu_2da_dosis,306,0.32
+GUAINIA,970,4,neumo_1ra_dosis,1042,1.07
+GUAINIA,970,4,neumo_2da_dosis,937,0.97
+GUAINIA,970,4,srp_u_dosis,954,0.98
+GUAINIA,970,4,varicela_u_dosis,957,0.99
+GUAINIA,970,4,fa_u_dosis,971,1.0
+GUAINIA,970,4,neumo_m12_ref,955,0.98
+GUAINIA,970,4,vop_1er_ref,689,0.71
+GUAINIA,970,4,dpt_1er_ref,693,0.71
+GUAINIA,970,4,vop_2do_ref,812,0.84
+GUAINIA,970,4,dpt_5an_2do_ref,816,0.84
+GUAINIA,970,4,srp_5anosref,830,0.86
+GUAINIA,970,4,tdap_unica_dosis_en_cada_embarazo,564,0.58
+GUAVIARE,1328,4,bcg_dosis_unica,1311,0.99
+GUAVIARE,1328,4,hb_d_unica,1286,0.97
+GUAVIARE,1328,4,antipolio_1ras_dosis,1381,1.04
+GUAVIARE,1328,4,vop_3_dosis,1354,1.02
+GUAVIARE,1328,4,penta_1ras_dosis,1381,1.04
+GUAVIARE,1328,4,penta_2das_dosis,1395,1.05
+GUAVIARE,1328,4,penta_3ras_dosis,1354,1.02
+GUAVIARE,1328,4,rotavirus_1ra_dosis,1320,0.99
+GUAVIARE,1328,4,rotavirus_2da_dosis,1347,1.01
+GUAVIARE,1328,4,flu_1ra_dosis,1198,0.9
+GUAVIARE,1328,4,flu_2da_dosis,910,0.69
+GUAVIARE,1328,4,neumo_1ra_dosis,1382,1.04
+GUAVIARE,1328,4,neumo_2da_dosis,1401,1.05
+GUAVIARE,1328,4,srp_u_dosis,1346,1.01
+GUAVIARE,1328,4,varicela_u_dosis,1312,0.99
+GUAVIARE,1328,4,fa_u_dosis,1344,1.01
+GUAVIARE,1328,4,neumo_m12_ref,1372,1.03
+GUAVIARE,1328,4,vop_1er_ref,1239,0.93
+GUAVIARE,1328,4,dpt_1er_ref,1239,0.93
+GUAVIARE,1328,4,vop_2do_ref,1254,0.94
+GUAVIARE,1328,4,dpt_5an_2do_ref,1255,0.95
+GUAVIARE,1328,4,srp_5anosref,1252,0.94
+GUAVIARE,1328,4,tdap_unica_dosis_en_cada_embarazo,1076,0.81
+HUILA,19740,4,bcg_dosis_unica,17681,0.9
+HUILA,19740,4,hb_d_unica,17645,0.89
+HUILA,19740,4,antipolio_1ras_dosis,17348,0.88
+HUILA,19740,4,vop_3_dosis,17640,0.89
+HUILA,19740,4,penta_1ras_dosis,17352,0.88
+HUILA,19740,4,penta_2das_dosis,17400,0.88
+HUILA,19740,4,penta_3ras_dosis,17637,0.89
+HUILA,19740,4,rotavirus_1ra_dosis,17266,0.87
+HUILA,19740,4,rotavirus_2da_dosis,17281,0.88
+HUILA,19740,4,flu_1ra_dosis,15492,0.78
+HUILA,19740,4,flu_2da_dosis,12358,0.63
+HUILA,19740,4,neumo_1ra_dosis,17453,0.88
+HUILA,19740,4,neumo_2da_dosis,17466,0.88
+HUILA,19740,4,srp_u_dosis,18370,0.93
+HUILA,19740,4,varicela_u_dosis,18326,0.93
+HUILA,19740,4,fa_u_dosis,18415,0.93
+HUILA,19740,4,neumo_m12_ref,17873,0.91
+HUILA,19740,4,vop_1er_ref,18084,0.92
+HUILA,19740,4,dpt_1er_ref,18084,0.92
+HUILA,19740,4,vop_2do_ref,19364,0.98
+HUILA,19740,4,dpt_5an_2do_ref,19369,0.98
+HUILA,19740,4,srp_5anosref,19415,0.98
+HUILA,19740,4,tdap_unica_dosis_en_cada_embarazo,15668,0.79
+LA GUAJIRA,21194,4,bcg_dosis_unica,22126,1.04
+LA GUAJIRA,21194,4,hb_d_unica,20383,0.96
+LA GUAJIRA,21194,4,antipolio_1ras_dosis,22517,1.06
+LA GUAJIRA,21194,4,vop_3_dosis,19161,0.9
+LA GUAJIRA,21194,4,penta_1ras_dosis,22582,1.07
+LA GUAJIRA,21194,4,penta_2das_dosis,20889,0.99
+LA GUAJIRA,21194,4,penta_3ras_dosis,19166,0.9
+LA GUAJIRA,21194,4,rotavirus_1ra_dosis,19470,0.92
+LA GUAJIRA,21194,4,rotavirus_2da_dosis,18796,0.89
+LA GUAJIRA,21194,4,flu_1ra_dosis,18603,0.88
+LA GUAJIRA,21194,4,flu_2da_dosis,12162,0.57
+LA GUAJIRA,21194,4,neumo_1ra_dosis,22632,1.07
+LA GUAJIRA,21194,4,neumo_2da_dosis,20633,0.97
+LA GUAJIRA,21194,4,srp_u_dosis,20990,0.99
+LA GUAJIRA,21194,4,varicela_u_dosis,20844,0.98
+LA GUAJIRA,21194,4,fa_u_dosis,21049,0.99
+LA GUAJIRA,21194,4,neumo_m12_ref,15299,0.72
+LA GUAJIRA,21194,4,vop_1er_ref,15454,0.73
+LA GUAJIRA,21194,4,dpt_1er_ref,15298,0.72
+LA GUAJIRA,21194,4,vop_2do_ref,18534,0.87
+LA GUAJIRA,21194,4,dpt_5an_2do_ref,18237,0.86
+LA GUAJIRA,21194,4,srp_5anosref,18464,0.87
+LA GUAJIRA,21194,4,tdap_unica_dosis_en_cada_embarazo,14541,0.69
+MAGDALENA,17244,4,bcg_dosis_unica,12483,0.72
+MAGDALENA,17244,4,hb_d_unica,12109,0.7
+MAGDALENA,17244,4,antipolio_1ras_dosis,16254,0.94
+MAGDALENA,17244,4,vop_3_dosis,15460,0.9
+MAGDALENA,17244,4,penta_1ras_dosis,16411,0.95
+MAGDALENA,17244,4,penta_2das_dosis,16147,0.94
+MAGDALENA,17244,4,penta_3ras_dosis,15691,0.91
+MAGDALENA,17244,4,rotavirus_1ra_dosis,15741,0.91
+MAGDALENA,17244,4,rotavirus_2da_dosis,15548,0.9
+MAGDALENA,17244,4,flu_1ra_dosis,13352,0.77
+MAGDALENA,17244,4,flu_2da_dosis,10276,0.6
+MAGDALENA,17244,4,neumo_1ra_dosis,16321,0.95
+MAGDALENA,17244,4,neumo_2da_dosis,16043,0.93
+MAGDALENA,17244,4,srp_u_dosis,16138,0.94
+MAGDALENA,17244,4,varicela_u_dosis,16025,0.93
+MAGDALENA,17244,4,fa_u_dosis,16130,0.94
+MAGDALENA,17244,4,neumo_m12_ref,16442,0.95
+MAGDALENA,17244,4,vop_1er_ref,15067,0.87
+MAGDALENA,17244,4,dpt_1er_ref,15169,0.88
+MAGDALENA,17244,4,vop_2do_ref,15642,0.91
+MAGDALENA,17244,4,dpt_5an_2do_ref,15629,0.91
+MAGDALENA,17244,4,srp_5anosref,15439,0.9
+MAGDALENA,17244,4,tdap_unica_dosis_en_cada_embarazo,12527,0.73
+SANTA MARTA,8761,4,bcg_dosis_unica,9280,1.06
+SANTA MARTA,8761,4,hb_d_unica,9195,1.05
+SANTA MARTA,8761,4,antipolio_1ras_dosis,9421,1.08
+SANTA MARTA,8761,4,vop_3_dosis,8358,0.95
+SANTA MARTA,8761,4,penta_1ras_dosis,9376,1.07
+SANTA MARTA,8761,4,penta_2das_dosis,8924,1.02
+SANTA MARTA,8761,4,penta_3ras_dosis,8310,0.95
+SANTA MARTA,8761,4,rotavirus_1ra_dosis,8829,1.01
+SANTA MARTA,8761,4,rotavirus_2da_dosis,8475,0.97
+SANTA MARTA,8761,4,flu_1ra_dosis,7086,0.81
+SANTA MARTA,8761,4,flu_2da_dosis,4883,0.56
+SANTA MARTA,8761,4,neumo_1ra_dosis,9526,1.09
+SANTA MARTA,8761,4,neumo_2da_dosis,8941,1.02
+SANTA MARTA,8761,4,srp_u_dosis,8275,0.94
+SANTA MARTA,8761,4,varicela_u_dosis,8527,0.97
+SANTA MARTA,8761,4,fa_u_dosis,8590,0.98
+SANTA MARTA,8761,4,neumo_m12_ref,7389,0.84
+SANTA MARTA,8761,4,vop_1er_ref,7260,0.83
+SANTA MARTA,8761,4,dpt_1er_ref,7377,0.84
+SANTA MARTA,8761,4,vop_2do_ref,7853,0.9
+SANTA MARTA,8761,4,dpt_5an_2do_ref,7685,0.88
+SANTA MARTA,8761,4,srp_5anosref,7515,0.86
+SANTA MARTA,8761,4,tdap_unica_dosis_en_cada_embarazo,6830,0.78
+META,15688,4,bcg_dosis_unica,15102,0.96
+META,15688,4,hb_d_unica,15188,0.97
+META,15688,4,antipolio_1ras_dosis,14394,0.92
+META,15688,4,vop_3_dosis,14082,0.9
+META,15688,4,penta_1ras_dosis,14435,0.92
+META,15688,4,penta_2das_dosis,14303,0.91
+META,15688,4,penta_3ras_dosis,14077,0.9
+META,15688,4,rotavirus_1ra_dosis,14078,0.9
+META,15688,4,rotavirus_2da_dosis,13945,0.89
+META,15688,4,flu_1ra_dosis,12083,0.77
+META,15688,4,flu_2da_dosis,7713,0.49
+META,15688,4,neumo_1ra_dosis,14628,0.93
+META,15688,4,neumo_2da_dosis,14355,0.92
+META,15688,4,srp_u_dosis,15009,0.96
+META,15688,4,varicela_u_dosis,14839,0.95
+META,15688,4,fa_u_dosis,14869,0.95
+META,15688,4,neumo_m12_ref,15142,0.97
+META,15688,4,vop_1er_ref,13815,0.88
+META,15688,4,dpt_1er_ref,13875,0.88
+META,15688,4,vop_2do_ref,14841,0.95
+META,15688,4,dpt_5an_2do_ref,14914,0.95
+META,15688,4,srp_5anosref,14845,0.95
+META,15688,4,tdap_unica_dosis_en_cada_embarazo,12065,0.77
+NARIÑO,20729,4,bcg_dosis_unica,17141,0.83
+NARIÑO,20729,4,hb_d_unica,16789,0.81
+NARIÑO,20729,4,antipolio_1ras_dosis,17444,0.84
+NARIÑO,20729,4,vop_3_dosis,17243,0.83
+NARIÑO,20729,4,penta_1ras_dosis,17447,0.84
+NARIÑO,20729,4,penta_2das_dosis,17388,0.84
+NARIÑO,20729,4,penta_3ras_dosis,17226,0.83
+NARIÑO,20729,4,rotavirus_1ra_dosis,16936,0.82
+NARIÑO,20729,4,rotavirus_2da_dosis,17033,0.82
+NARIÑO,20729,4,flu_1ra_dosis,15156,0.73
+NARIÑO,20729,4,flu_2da_dosis,12429,0.6
+NARIÑO,20729,4,neumo_1ra_dosis,17497,0.84
+NARIÑO,20729,4,neumo_2da_dosis,17421,0.84
+NARIÑO,20729,4,srp_u_dosis,18356,0.89
+NARIÑO,20729,4,varicela_u_dosis,18355,0.89
+NARIÑO,20729,4,fa_u_dosis,18411,0.89
+NARIÑO,20729,4,neumo_m12_ref,17366,0.84
+NARIÑO,20729,4,vop_1er_ref,17391,0.84
+NARIÑO,20729,4,dpt_1er_ref,17389,0.84
+NARIÑO,20729,4,vop_2do_ref,19070,0.92
+NARIÑO,20729,4,dpt_5an_2do_ref,19069,0.92
+NARIÑO,20729,4,srp_5anosref,19160,0.92
+NARIÑO,20729,4,tdap_unica_dosis_en_cada_embarazo,14895,0.72
+NORTE DE SANTANDER,22922,4,bcg_dosis_unica,19759,0.86
+NORTE DE SANTANDER,22922,4,hb_d_unica,19567,0.85
+NORTE DE SANTANDER,22922,4,antipolio_1ras_dosis,23151,1.01
+NORTE DE SANTANDER,22922,4,vop_3_dosis,22442,0.98
+NORTE DE SANTANDER,22922,4,penta_1ras_dosis,23170,1.01
+NORTE DE SANTANDER,22922,4,penta_2das_dosis,22572,0.98
+NORTE DE SANTANDER,22922,4,penta_3ras_dosis,22524,0.98
+NORTE DE SANTANDER,22922,4,rotavirus_1ra_dosis,22251,0.97
+NORTE DE SANTANDER,22922,4,rotavirus_2da_dosis,21845,0.95
+NORTE DE SANTANDER,22922,4,flu_1ra_dosis,21325,0.93
+NORTE DE SANTANDER,22922,4,flu_2da_dosis,14707,0.64
+NORTE DE SANTANDER,22922,4,neumo_1ra_dosis,23788,1.04
+NORTE DE SANTANDER,22922,4,neumo_2da_dosis,22701,0.99
+NORTE DE SANTANDER,22922,4,srp_u_dosis,22433,0.98
+NORTE DE SANTANDER,22922,4,varicela_u_dosis,19185,0.84
+NORTE DE SANTANDER,22922,4,fa_u_dosis,22461,0.98
+NORTE DE SANTANDER,22922,4,neumo_m12_ref,24433,1.07
+NORTE DE SANTANDER,22922,4,vop_1er_ref,18581,0.81
+NORTE DE SANTANDER,22922,4,dpt_1er_ref,18574,0.81
+NORTE DE SANTANDER,22922,4,vop_2do_ref,20368,0.89
+NORTE DE SANTANDER,22922,4,dpt_5an_2do_ref,20290,0.89
+NORTE DE SANTANDER,22922,4,srp_5anosref,20319,0.89
+NORTE DE SANTANDER,22922,4,tdap_unica_dosis_en_cada_embarazo,17151,0.75
+PUTUMAYO,4982,4,bcg_dosis_unica,4108,0.82
+PUTUMAYO,4982,4,hb_d_unica,4017,0.81
+PUTUMAYO,4982,4,antipolio_1ras_dosis,4633,0.93
+PUTUMAYO,4982,4,vop_3_dosis,4629,0.93
+PUTUMAYO,4982,4,penta_1ras_dosis,4631,0.93
+PUTUMAYO,4982,4,penta_2das_dosis,4683,0.94
+PUTUMAYO,4982,4,penta_3ras_dosis,4632,0.93
+PUTUMAYO,4982,4,rotavirus_1ra_dosis,4505,0.9
+PUTUMAYO,4982,4,rotavirus_2da_dosis,4577,0.92
+PUTUMAYO,4982,4,flu_1ra_dosis,2754,0.55
+PUTUMAYO,4982,4,flu_2da_dosis,2299,0.46
+PUTUMAYO,4982,4,neumo_1ra_dosis,4664,0.94
+PUTUMAYO,4982,4,neumo_2da_dosis,4682,0.94
+PUTUMAYO,4982,4,srp_u_dosis,4785,0.96
+PUTUMAYO,4982,4,varicela_u_dosis,4763,0.96
+PUTUMAYO,4982,4,fa_u_dosis,4820,0.97
+PUTUMAYO,4982,4,neumo_m12_ref,4932,0.99
+PUTUMAYO,4982,4,vop_1er_ref,4578,0.92
+PUTUMAYO,4982,4,dpt_1er_ref,4579,0.92
+PUTUMAYO,4982,4,vop_2do_ref,4927,0.99
+PUTUMAYO,4982,4,dpt_5an_2do_ref,4985,1.0
+PUTUMAYO,4982,4,srp_5anosref,5000,1.0
+PUTUMAYO,4982,4,tdap_unica_dosis_en_cada_embarazo,3769,0.76
+QUINDIO,5784,4,bcg_dosis_unica,5454,0.94
+QUINDIO,5784,4,hb_d_unica,5441,0.94
+QUINDIO,5784,4,antipolio_1ras_dosis,5186,0.9
+QUINDIO,5784,4,vop_3_dosis,5177,0.9
+QUINDIO,5784,4,penta_1ras_dosis,5174,0.89
+QUINDIO,5784,4,penta_2das_dosis,5220,0.9
+QUINDIO,5784,4,penta_3ras_dosis,5171,0.89
+QUINDIO,5784,4,rotavirus_1ra_dosis,5209,0.9
+QUINDIO,5784,4,rotavirus_2da_dosis,5283,0.91
+QUINDIO,5784,4,flu_1ra_dosis,3904,0.67
+QUINDIO,5784,4,flu_2da_dosis,3514,0.61
+QUINDIO,5784,4,neumo_1ra_dosis,5326,0.92
+QUINDIO,5784,4,neumo_2da_dosis,5282,0.91
+QUINDIO,5784,4,srp_u_dosis,5523,0.95
+QUINDIO,5784,4,varicela_u_dosis,5491,0.95
+QUINDIO,5784,4,fa_u_dosis,5519,0.95
+QUINDIO,5784,4,neumo_m12_ref,5492,0.95
+QUINDIO,5784,4,vop_1er_ref,5478,0.95
+QUINDIO,5784,4,dpt_1er_ref,5483,0.95
+QUINDIO,5784,4,vop_2do_ref,5740,0.99
+QUINDIO,5784,4,dpt_5an_2do_ref,5698,0.99
+QUINDIO,5784,4,srp_5anosref,5695,0.98
+QUINDIO,5784,4,tdap_unica_dosis_en_cada_embarazo,4881,0.84
+RISARALDA,10714,4,bcg_dosis_unica,10691,1.0
+RISARALDA,10714,4,hb_d_unica,10571,0.99
+RISARALDA,10714,4,antipolio_1ras_dosis,10046,0.94
+RISARALDA,10714,4,vop_3_dosis,10122,0.94
+RISARALDA,10714,4,penta_1ras_dosis,10061,0.94
+RISARALDA,10714,4,penta_2das_dosis,10058,0.94
+RISARALDA,10714,4,penta_3ras_dosis,10130,0.95
+RISARALDA,10714,4,rotavirus_1ra_dosis,9823,0.92
+RISARALDA,10714,4,rotavirus_2da_dosis,9814,0.92
+RISARALDA,10714,4,flu_1ra_dosis,7915,0.74
+RISARALDA,10714,4,flu_2da_dosis,6161,0.58
+RISARALDA,10714,4,neumo_1ra_dosis,10151,0.95
+RISARALDA,10714,4,neumo_2da_dosis,10089,0.94
+RISARALDA,10714,4,srp_u_dosis,10612,0.99
+RISARALDA,10714,4,varicela_u_dosis,10914,1.02
+RISARALDA,10714,4,fa_u_dosis,10946,1.02
+RISARALDA,10714,4,neumo_m12_ref,10145,0.95
+RISARALDA,10714,4,vop_1er_ref,10540,0.98
+RISARALDA,10714,4,dpt_1er_ref,10614,0.99
+RISARALDA,10714,4,vop_2do_ref,10950,1.02
+RISARALDA,10714,4,dpt_5an_2do_ref,10946,1.02
+RISARALDA,10714,4,srp_5anosref,11065,1.03
+RISARALDA,10714,4,tdap_unica_dosis_en_cada_embarazo,9006,0.84
+SAN_ANDRES_ISLA,871,4,bcg_dosis_unica,733,0.84
+SAN_ANDRES_ISLA,871,4,hb_d_unica,731,0.84
+SAN_ANDRES_ISLA,871,4,antipolio_1ras_dosis,761,0.87
+SAN_ANDRES_ISLA,871,4,vop_3_dosis,768,0.88
+SAN_ANDRES_ISLA,871,4,penta_1ras_dosis,762,0.87
+SAN_ANDRES_ISLA,871,4,penta_2das_dosis,768,0.88
+SAN_ANDRES_ISLA,871,4,penta_3ras_dosis,762,0.87
+SAN_ANDRES_ISLA,871,4,rotavirus_1ra_dosis,750,0.86
+SAN_ANDRES_ISLA,871,4,rotavirus_2da_dosis,759,0.87
+SAN_ANDRES_ISLA,871,4,flu_1ra_dosis,528,0.61
+SAN_ANDRES_ISLA,871,4,flu_2da_dosis,437,0.5
+SAN_ANDRES_ISLA,871,4,neumo_1ra_dosis,765,0.88
+SAN_ANDRES_ISLA,871,4,neumo_2da_dosis,769,0.88
+SAN_ANDRES_ISLA,871,4,srp_u_dosis,788,0.9
+SAN_ANDRES_ISLA,871,4,varicela_u_dosis,781,0.9
+SAN_ANDRES_ISLA,871,4,fa_u_dosis,788,0.9
+SAN_ANDRES_ISLA,871,4,neumo_m12_ref,697,0.8
+SAN_ANDRES_ISLA,871,4,vop_1er_ref,717,0.82
+SAN_ANDRES_ISLA,871,4,dpt_1er_ref,720,0.83
+SAN_ANDRES_ISLA,871,4,vop_2do_ref,786,0.9
+SAN_ANDRES_ISLA,871,4,dpt_5an_2do_ref,785,0.9
+SAN_ANDRES_ISLA,871,4,srp_5anosref,785,0.9
+SAN_ANDRES_ISLA,871,4,tdap_unica_dosis_en_cada_embarazo,697,0.8
+SANTANDER,31319,4,bcg_dosis_unica,25909,0.83
+SANTANDER,31319,4,hb_d_unica,25995,0.83
+SANTANDER,31319,4,antipolio_1ras_dosis,27092,0.87
+SANTANDER,31319,4,vop_3_dosis,26666,0.85
+SANTANDER,31319,4,penta_1ras_dosis,27064,0.86
+SANTANDER,31319,4,penta_2das_dosis,26643,0.85
+SANTANDER,31319,4,penta_3ras_dosis,26698,0.85
+SANTANDER,31319,4,rotavirus_1ra_dosis,26553,0.85
+SANTANDER,31319,4,rotavirus_2da_dosis,26380,0.84
+SANTANDER,31319,4,flu_1ra_dosis,25628,0.82
+SANTANDER,31319,4,flu_2da_dosis,20431,0.65
+SANTANDER,31319,4,neumo_1ra_dosis,27201,0.87
+SANTANDER,31319,4,neumo_2da_dosis,26730,0.85
+SANTANDER,31319,4,srp_u_dosis,27967,0.89
+SANTANDER,31319,4,varicela_u_dosis,28119,0.9
+SANTANDER,31319,4,fa_u_dosis,28193,0.9
+SANTANDER,31319,4,neumo_m12_ref,27003,0.86
+SANTANDER,31319,4,vop_1er_ref,27024,0.86
+SANTANDER,31319,4,dpt_1er_ref,26946,0.86
+SANTANDER,31319,4,vop_2do_ref,27991,0.89
+SANTANDER,31319,4,dpt_5an_2do_ref,27703,0.88
+SANTANDER,31319,4,srp_5anosref,27894,0.89
+SANTANDER,31319,4,tdap_unica_dosis_en_cada_embarazo,22440,0.72
+SUCRE,14828,4,bcg_dosis_unica,14046,0.95
+SUCRE,14828,4,hb_d_unica,14062,0.95
+SUCRE,14828,4,antipolio_1ras_dosis,14500,0.98
+SUCRE,14828,4,vop_3_dosis,14332,0.97
+SUCRE,14828,4,penta_1ras_dosis,14498,0.98
+SUCRE,14828,4,penta_2das_dosis,14522,0.98
+SUCRE,14828,4,penta_3ras_dosis,14327,0.97
+SUCRE,14828,4,rotavirus_1ra_dosis,14195,0.96
+SUCRE,14828,4,rotavirus_2da_dosis,14256,0.96
+SUCRE,14828,4,flu_1ra_dosis,10605,0.72
+SUCRE,14828,4,flu_2da_dosis,9839,0.66
+SUCRE,14828,4,neumo_1ra_dosis,14524,0.98
+SUCRE,14828,4,neumo_2da_dosis,14544,0.98
+SUCRE,14828,4,srp_u_dosis,14824,1.0
+SUCRE,14828,4,varicela_u_dosis,14654,0.99
+SUCRE,14828,4,fa_u_dosis,14845,1.0
+SUCRE,14828,4,neumo_m12_ref,14882,1.0
+SUCRE,14828,4,vop_1er_ref,14789,1.0
+SUCRE,14828,4,dpt_1er_ref,14794,1.0
+SUCRE,14828,4,vop_2do_ref,14897,1.0
+SUCRE,14828,4,dpt_5an_2do_ref,14912,1.01
+SUCRE,14828,4,srp_5anosref,14911,1.01
+SUCRE,14828,4,tdap_unica_dosis_en_cada_embarazo,12626,0.85
+TOLIMA,17543,4,bcg_dosis_unica,14521,0.83
+TOLIMA,17543,4,hb_d_unica,14348,0.82
+TOLIMA,17543,4,antipolio_1ras_dosis,16107,0.92
+TOLIMA,17543,4,vop_3_dosis,16283,0.93
+TOLIMA,17543,4,penta_1ras_dosis,16126,0.92
+TOLIMA,17543,4,penta_2das_dosis,16073,0.92
+TOLIMA,17543,4,penta_3ras_dosis,16267,0.93
+TOLIMA,17543,4,rotavirus_1ra_dosis,15964,0.91
+TOLIMA,17543,4,rotavirus_2da_dosis,16041,0.91
+TOLIMA,17543,4,flu_1ra_dosis,15204,0.87
+TOLIMA,17543,4,flu_2da_dosis,11217,0.64
+TOLIMA,17543,4,neumo_1ra_dosis,16177,0.92
+TOLIMA,17543,4,neumo_2da_dosis,16184,0.92
+TOLIMA,17543,4,srp_u_dosis,17072,0.97
+TOLIMA,17543,4,varicela_u_dosis,17010,0.97
+TOLIMA,17543,4,fa_u_dosis,17116,0.98
+TOLIMA,17543,4,neumo_m12_ref,16729,0.95
+TOLIMA,17543,4,vop_1er_ref,16737,0.95
+TOLIMA,17543,4,dpt_1er_ref,16880,0.96
+TOLIMA,17543,4,vop_2do_ref,17476,1.0
+TOLIMA,17543,4,dpt_5an_2do_ref,17459,1.0
+TOLIMA,17543,4,srp_5anosref,17524,1.0
+TOLIMA,17543,4,tdap_unica_dosis_en_cada_embarazo,13157,0.75
+VALLE_DEL_CAUCA,52931,4,bcg_dosis_unica,44911,0.85
+VALLE_DEL_CAUCA,52931,4,hb_d_unica,44905,0.85
+VALLE_DEL_CAUCA,52931,4,antipolio_1ras_dosis,51437,0.97
+VALLE_DEL_CAUCA,52931,4,vop_3_dosis,51145,0.97
+VALLE_DEL_CAUCA,52931,4,penta_1ras_dosis,51244,0.97
+VALLE_DEL_CAUCA,52931,4,penta_2das_dosis,51168,0.97
+VALLE_DEL_CAUCA,52931,4,penta_3ras_dosis,51262,0.97
+VALLE_DEL_CAUCA,52931,4,rotavirus_1ra_dosis,50771,0.96
+VALLE_DEL_CAUCA,52931,4,rotavirus_2da_dosis,50820,0.96
+VALLE_DEL_CAUCA,52931,4,flu_1ra_dosis,44276,0.84
+VALLE_DEL_CAUCA,52931,4,flu_2da_dosis,36326,0.69
+VALLE_DEL_CAUCA,52931,4,neumo_1ra_dosis,51228,0.97
+VALLE_DEL_CAUCA,52931,4,neumo_2da_dosis,51039,0.96
+VALLE_DEL_CAUCA,52931,4,srp_u_dosis,52454,0.99
+VALLE_DEL_CAUCA,52931,4,varicela_u_dosis,52255,0.99
+VALLE_DEL_CAUCA,52931,4,fa_u_dosis,52209,0.99
+VALLE_DEL_CAUCA,52931,4,neumo_m12_ref,50974,0.96
+VALLE_DEL_CAUCA,52931,4,vop_1er_ref,51210,0.97
+VALLE_DEL_CAUCA,52931,4,dpt_1er_ref,51031,0.96
+VALLE_DEL_CAUCA,52931,4,vop_2do_ref,53306,1.01
+VALLE_DEL_CAUCA,52931,4,dpt_5an_2do_ref,53660,1.01
+VALLE_DEL_CAUCA,52931,4,srp_5anosref,52659,0.99
+VALLE_DEL_CAUCA,52931,4,tdap_unica_dosis_en_cada_embarazo,38612,0.73
+BUENAVENTURA,4932,4,bcg_dosis_unica,4192,0.85
+BUENAVENTURA,4932,4,hb_d_unica,4161,0.84
+BUENAVENTURA,4932,4,antipolio_1ras_dosis,4337,0.88
+BUENAVENTURA,4932,4,vop_3_dosis,3815,0.77
+BUENAVENTURA,4932,4,penta_1ras_dosis,4342,0.88
+BUENAVENTURA,4932,4,penta_2das_dosis,4114,0.83
+BUENAVENTURA,4932,4,penta_3ras_dosis,3820,0.77
+BUENAVENTURA,4932,4,rotavirus_1ra_dosis,3906,0.79
+BUENAVENTURA,4932,4,rotavirus_2da_dosis,3781,0.77
+BUENAVENTURA,4932,4,flu_1ra_dosis,3394,0.69
+BUENAVENTURA,4932,4,flu_2da_dosis,2400,0.49
+BUENAVENTURA,4932,4,neumo_1ra_dosis,4314,0.87
+BUENAVENTURA,4932,4,neumo_2da_dosis,4044,0.82
+BUENAVENTURA,4932,4,srp_u_dosis,4202,0.85
+BUENAVENTURA,4932,4,varicela_u_dosis,4013,0.81
+BUENAVENTURA,4932,4,fa_u_dosis,4223,0.86
+BUENAVENTURA,4932,4,neumo_m12_ref,3097,0.63
+BUENAVENTURA,4932,4,vop_1er_ref,3208,0.65
+BUENAVENTURA,4932,4,dpt_1er_ref,3192,0.65
+BUENAVENTURA,4932,4,vop_2do_ref,3863,0.78
+BUENAVENTURA,4932,4,dpt_5an_2do_ref,3811,0.77
+BUENAVENTURA,4932,4,srp_5anosref,3789,0.77
+BUENAVENTURA,4932,4,tdap_unica_dosis_en_cada_embarazo,3428,0.7
+VAUPES,817,4,bcg_dosis_unica,760,0.93
+VAUPES,817,4,hb_d_unica,599,0.73
+VAUPES,817,4,antipolio_1ras_dosis,695,0.85
+VAUPES,817,4,vop_3_dosis,587,0.72
+VAUPES,817,4,penta_1ras_dosis,683,0.84
+VAUPES,817,4,penta_2das_dosis,662,0.81
+VAUPES,817,4,penta_3ras_dosis,605,0.74
+VAUPES,817,4,rotavirus_1ra_dosis,644,0.79
+VAUPES,817,4,rotavirus_2da_dosis,597,0.73
+VAUPES,817,4,flu_1ra_dosis,550,0.67
+VAUPES,817,4,flu_2da_dosis,373,0.46
+VAUPES,817,4,neumo_1ra_dosis,664,0.81
+VAUPES,817,4,neumo_2da_dosis,641,0.78
+VAUPES,817,4,srp_u_dosis,735,0.9
+VAUPES,817,4,varicela_u_dosis,741,0.91
+VAUPES,817,4,fa_u_dosis,743,0.91
+VAUPES,817,4,neumo_m12_ref,745,0.91
+VAUPES,817,4,vop_1er_ref,526,0.64
+VAUPES,817,4,dpt_1er_ref,523,0.64
+VAUPES,817,4,vop_2do_ref,603,0.74
+VAUPES,817,4,dpt_5an_2do_ref,604,0.74
+VAUPES,817,4,srp_5anosref,595,0.73
+VAUPES,817,4,tdap_unica_dosis_en_cada_embarazo,670,0.82
+VICHADA,1827,4,bcg_dosis_unica,1527,0.84
+VICHADA,1827,4,hb_d_unica,958,0.52
+VICHADA,1827,4,antipolio_1ras_dosis,1986,1.09
+VICHADA,1827,4,vop_3_dosis,1208,0.66
+VICHADA,1827,4,penta_1ras_dosis,1958,1.07
+VICHADA,1827,4,penta_2das_dosis,1664,0.91
+VICHADA,1827,4,penta_3ras_dosis,1223,0.67
+VICHADA,1827,4,rotavirus_1ra_dosis,1354,0.74
+VICHADA,1827,4,rotavirus_2da_dosis,1248,0.68
+VICHADA,1827,4,flu_1ra_dosis,1097,0.6
+VICHADA,1827,4,flu_2da_dosis,682,0.37
+VICHADA,1827,4,neumo_1ra_dosis,2025,1.11
+VICHADA,1827,4,neumo_2da_dosis,1718,0.94
+VICHADA,1827,4,srp_u_dosis,1701,0.93
+VICHADA,1827,4,varicela_u_dosis,1593,0.87
+VICHADA,1827,4,fa_u_dosis,1541,0.84
+VICHADA,1827,4,neumo_m12_ref,1741,0.95
+VICHADA,1827,4,vop_1er_ref,1096,0.6
+VICHADA,1827,4,dpt_1er_ref,1087,0.59
+VICHADA,1827,4,vop_2do_ref,1283,0.7
+VICHADA,1827,4,dpt_5an_2do_ref,1286,0.7
+VICHADA,1827,4,srp_5anosref,1310,0.72
+VICHADA,1827,4,tdap_unica_dosis_en_cada_embarazo,974,0.53
